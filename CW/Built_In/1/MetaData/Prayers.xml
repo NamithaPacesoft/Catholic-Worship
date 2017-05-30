@@ -1,0 +1,417 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Prayer>
+    <PrayerID>41</PrayerID>
+    <PrayerTypeID>1</PrayerTypeID>
+    <PrayerTitle>Sign of the cross </PrayerTitle>
+    <FileName>41.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>42</PrayerID>
+    <PrayerTypeID>1</PrayerTypeID>
+    <PrayerTitle>Glory Be to the Father</PrayerTitle>
+    <FileName>42.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>43</PrayerID>
+    <PrayerTypeID>1</PrayerTypeID>
+    <PrayerTitle>Apostles Creed</PrayerTitle>
+    <FileName>43.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>44</PrayerID>
+    <PrayerTypeID>1</PrayerTypeID>
+    <PrayerTitle>Nicene Creed</PrayerTitle>
+    <FileName>44.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>45</PrayerID>
+    <PrayerTypeID>1</PrayerTypeID>
+    <PrayerTitle>Daily Offering</PrayerTitle>
+    <FileName>45.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>46</PrayerID>
+    <PrayerTypeID>1</PrayerTypeID>
+    <PrayerTitle>The Hail Mary</PrayerTitle>
+    <FileName>46.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>47</PrayerID>
+    <PrayerTypeID>1</PrayerTypeID>
+    <PrayerTitle>Angel of God</PrayerTitle>
+    <FileName>47.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>48</PrayerID>
+    <PrayerTypeID>1</PrayerTypeID>
+    <PrayerTitle>Eternal Rest</PrayerTitle>
+    <FileName>48.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>49</PrayerID>
+    <PrayerTypeID>1</PrayerTypeID>
+    <PrayerTitle>The Angelus</PrayerTitle>
+    <FileName>49.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>50</PrayerID>
+    <PrayerTypeID>1</PrayerTypeID>
+    <PrayerTitle>Hail Holy Queen</PrayerTitle>
+    <FileName>50.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>51</PrayerID>
+    <PrayerTypeID>6</PrayerTypeID>
+    <PrayerTitle>The Magnificat</PrayerTitle>
+    <FileName>51.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>52</PrayerID>
+    <PrayerTypeID>6</PrayerTypeID>
+    <PrayerTitle>Under Your Protection</PrayerTitle>
+    <FileName>52.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>53</PrayerID>
+    <PrayerTypeID>6</PrayerTypeID>
+    <PrayerTitle>The Benedictus</PrayerTitle>
+    <FileName>53.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>54</PrayerID>
+    <PrayerTypeID>6</PrayerTypeID>
+    <PrayerTitle>The Te Deum</PrayerTitle>
+    <FileName>54.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>55</PrayerID>
+    <PrayerTypeID>6</PrayerTypeID>
+    <PrayerTitle>Come, Creator Spirit</PrayerTitle>
+    <FileName>55.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>56</PrayerID>
+    <PrayerTypeID>6</PrayerTypeID>
+    <PrayerTitle>Come, Holy Spirit</PrayerTitle>
+    <FileName>56.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>57</PrayerID>
+    <PrayerTypeID>6</PrayerTypeID>
+    <PrayerTitle>The Anima Christi</PrayerTitle>
+    <FileName>57.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>58</PrayerID>
+    <PrayerTypeID>6</PrayerTypeID>
+    <PrayerTitle>The Memorare</PrayerTitle>
+    <FileName>58.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>59</PrayerID>
+    <PrayerTypeID>4</PrayerTypeID>
+    <PrayerTitle>The Joyful Mysteries</PrayerTitle>
+    <FileName>59.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>60</PrayerID>
+    <PrayerTypeID>4</PrayerTypeID>
+    <PrayerTitle>The Mysteries of Light</PrayerTitle>
+    <FileName>60.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>61</PrayerID>
+    <PrayerTypeID>4</PrayerTypeID>
+    <PrayerTitle>The Sorrowful Mysteries</PrayerTitle>
+    <FileName>61.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>62</PrayerID>
+    <PrayerTypeID>4</PrayerTypeID>
+    <PrayerTitle>The Glorious Mysteries </PrayerTitle>
+    <FileName>62.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>63</PrayerID>
+    <PrayerTypeID>4</PrayerTypeID>
+    <PrayerTitle>Prayer concluding the Rosary</PrayerTitle>
+    <FileName>63.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>64</PrayerID>
+    <PrayerTypeID>6</PrayerTypeID>
+    <PrayerTitle>Coptic Incense Prayer</PrayerTitle>
+    <FileName>64.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>65</PrayerID>
+    <PrayerTypeID>6</PrayerTypeID>
+    <PrayerTitle>Syro-Maronite Farewell to the Altar</PrayerTitle>
+    <FileName>65.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>66</PrayerID>
+    <PrayerTypeID>6</PrayerTypeID>
+    <PrayerTitle>Byzantine Prayer for the Deceased</PrayerTitle>
+    <FileName>66.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>67</PrayerID>
+    <PrayerTypeID>1</PrayerTypeID>
+    <PrayerTitle>Act of Faith</PrayerTitle>
+    <FileName>67.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>68</PrayerID>
+    <PrayerTypeID>1</PrayerTypeID>
+    <PrayerTitle>Act of Hope</PrayerTitle>
+    <FileName>68.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>69</PrayerID>
+    <PrayerTypeID>1</PrayerTypeID>
+    <PrayerTitle>Act of Love</PrayerTitle>
+    <FileName>69.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>70</PrayerID>
+    <PrayerTypeID>1</PrayerTypeID>
+    <PrayerTitle>Act of Contrition</PrayerTitle>
+    <FileName>70.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>71</PrayerID>
+    <PrayerTypeID>2</PrayerTypeID>
+    <PrayerTitle>The Two Commandments of Love</PrayerTitle>
+    <FileName>71.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>72</PrayerID>
+    <PrayerTypeID>2</PrayerTypeID>
+    <PrayerTitle>The Golden Rule</PrayerTitle>
+    <FileName>72.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>73</PrayerID>
+    <PrayerTypeID>2</PrayerTypeID>
+    <PrayerTitle>The Beatitudes</PrayerTitle>
+    <FileName>73.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>74</PrayerID>
+    <PrayerTypeID>2</PrayerTypeID>
+    <PrayerTitle>The Three Theological Virtues</PrayerTitle>
+    <FileName>74.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>75</PrayerID>
+    <PrayerTypeID>2</PrayerTypeID>
+    <PrayerTitle>The Four Cardinal Virtues</PrayerTitle>
+    <FileName>75.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>76</PrayerID>
+    <PrayerTypeID>2</PrayerTypeID>
+    <PrayerTitle>The Seven Gifts of the Holy Spirit</PrayerTitle>
+    <FileName>76.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>77</PrayerID>
+    <PrayerTypeID>2</PrayerTypeID>
+    <PrayerTitle>The Twelve Fruits of the Holy Spirit</PrayerTitle>
+    <FileName>77.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>78</PrayerID>
+    <PrayerTypeID>2</PrayerTypeID>
+    <PrayerTitle>The Five Precepts of the Church</PrayerTitle>
+    <FileName>78.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>79</PrayerID>
+    <PrayerTypeID>2</PrayerTypeID>
+    <PrayerTitle>The Seven Corporal Works of Mercy</PrayerTitle>
+    <FileName>79.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>80</PrayerID>
+    <PrayerTypeID>2</PrayerTypeID>
+    <PrayerTitle>The Seven Spiritual Works of Mercy</PrayerTitle>
+    <FileName>80.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>81</PrayerID>
+    <PrayerTypeID>2</PrayerTypeID>
+    <PrayerTitle>The Seven Capital Sins</PrayerTitle>
+    <FileName>81.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>82</PrayerID>
+    <PrayerTypeID>2</PrayerTypeID>
+    <PrayerTitle>The Four Last Things</PrayerTitle>
+    <FileName>82.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>83</PrayerID>
+    <PrayerTypeID>1</PrayerTypeID>
+    <PrayerTitle>Queen of Heaven, Rejoice</PrayerTitle>
+    <FileName>83.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>84</PrayerID>
+    <PrayerTypeID>1</PrayerTypeID>
+    <PrayerTitle>Prayer to Our Lady</PrayerTitle>
+    <FileName>84.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>85</PrayerID>
+    <PrayerTypeID>4</PrayerTypeID>
+    <PrayerTitle>Litany of the Blessed Virgin Mary</PrayerTitle>
+    <FileName>85.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>86</PrayerID>
+    <PrayerTypeID>3</PrayerTypeID>
+    <PrayerTitle>Eternal Father</PrayerTitle>
+    <FileName>86.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>88</PrayerID>
+    <PrayerTypeID>2</PrayerTypeID>
+    <PrayerTitle>God's Ten Commandments</PrayerTitle>
+    <FileName>88.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>89</PrayerID>
+    <PrayerTypeID>2</PrayerTypeID>
+    <PrayerTitle>Sacraments</PrayerTitle>
+    <FileName>89.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>90</PrayerID>
+    <PrayerTypeID>6</PrayerTypeID>
+    <PrayerTitle>Prayer before a Crucifix</PrayerTitle>
+    <FileName>90.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>91</PrayerID>
+    <PrayerTypeID>6</PrayerTypeID>
+    <PrayerTitle>Peace Prayer of St. Francis of Assisi</PrayerTitle>
+    <FileName>91.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>126</PrayerID>
+    <PrayerTypeID>1</PrayerTypeID>
+    <PrayerTitle>Our Father</PrayerTitle>
+    <FileName>126.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>130</PrayerID>
+    <PrayerTypeID>31</PrayerTypeID>
+    <PrayerTitle>Lord have Mercy</PrayerTitle>
+    <FileName>130.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>132</PrayerID>
+    <PrayerTypeID>31</PrayerTypeID>
+    <PrayerTitle>Holy Holy</PrayerTitle>
+    <FileName>132.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>134</PrayerID>
+    <PrayerTypeID>31</PrayerTypeID>
+    <PrayerTitle>Sign of Cross and Greeting</PrayerTitle>
+    <FileName>134.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>135</PrayerID>
+    <PrayerTypeID>31</PrayerTypeID>
+    <PrayerTitle>Penitential Act</PrayerTitle>
+    <FileName>135.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>136</PrayerID>
+    <PrayerTypeID>31</PrayerTypeID>
+    <PrayerTitle>Glory to God</PrayerTitle>
+    <FileName>136.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>137</PrayerID>
+    <PrayerTypeID>31</PrayerTypeID>
+    <PrayerTitle>The Gospel Reading</PrayerTitle>
+    <FileName>137.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>138</PrayerID>
+    <PrayerTypeID>31</PrayerTypeID>
+    <PrayerTitle>Invitation to Prayer</PrayerTitle>
+    <FileName>138.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>139</PrayerID>
+    <PrayerTypeID>31</PrayerTypeID>
+    <PrayerTitle>The Eucharistic Prayer</PrayerTitle>
+    <FileName>139.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>140</PrayerID>
+    <PrayerTypeID>31</PrayerTypeID>
+    <PrayerTitle>The Sanctus</PrayerTitle>
+    <FileName>140.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>141</PrayerID>
+    <PrayerTypeID>31</PrayerTypeID>
+    <PrayerTitle>Memorial Acclamation</PrayerTitle>
+    <FileName>141.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>142</PrayerID>
+    <PrayerTypeID>31</PrayerTypeID>
+    <PrayerTitle>The Lords Prayer</PrayerTitle>
+    <FileName>142.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>143</PrayerID>
+    <PrayerTypeID>31</PrayerTypeID>
+    <PrayerTitle>The Sign of Peace</PrayerTitle>
+    <FileName>143.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>144</PrayerID>
+    <PrayerTypeID>31</PrayerTypeID>
+    <PrayerTitle>Lamb of God</PrayerTitle>
+    <FileName>144.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>145</PrayerID>
+    <PrayerTypeID>31</PrayerTypeID>
+    <PrayerTitle>Breaking of the Bread</PrayerTitle>
+    <FileName>145.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>146</PrayerID>
+    <PrayerTypeID>31</PrayerTypeID>
+    <PrayerTitle>The Concluding Rite</PrayerTitle>
+    <FileName>146.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>147</PrayerID>
+    <PrayerTypeID>31</PrayerTypeID>
+    <PrayerTitle>The Dismissal</PrayerTitle>
+    <FileName>147.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>1</PrayerID>
+    <PrayerTypeID>0</PrayerTypeID>
+    <PrayerTitle>qwerty</PrayerTitle>
+    <FileName>1.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>1</PrayerID>
+    <PrayerTypeID>0</PrayerTypeID>
+    <PrayerTitle>dfdfdf</PrayerTitle>
+    <FileName>1.txt</FileName>
+  </Prayer>
+</DocumentElement>

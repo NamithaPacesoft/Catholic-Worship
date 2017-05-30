@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <ScheduleItem>
+    <FileType>Hymns</FileType>
+    <MainType>1</MainType>
+    <Location>2734</Location>
+    <LanguageID>3</LanguageID>
+    <AudioFileID>1</AudioFileID>
+  </ScheduleItem>
+</DocumentElement>

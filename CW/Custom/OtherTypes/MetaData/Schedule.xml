@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Schedule>
+    <ScheduleId>1</ScheduleId>
+    <ScheduleTitle>aaaa</ScheduleTitle>
+    <ScheduleFileName>Schedules1.xml</ScheduleFileName>
+  </Schedule>
+  <Schedule>
+    <ScheduleId>2</ScheduleId>
+    <ScheduleTitle>bbbb</ScheduleTitle>
+    <ScheduleFileName>Schedules2.xml</ScheduleFileName>
+  </Schedule>
+  <Schedule>
+    <ScheduleId>3</ScheduleId>
+    <ScheduleTitle>rrr</ScheduleTitle>
+    <ScheduleFileName>Schedules3.xml</ScheduleFileName>
+  </Schedule>
+</DocumentElement>

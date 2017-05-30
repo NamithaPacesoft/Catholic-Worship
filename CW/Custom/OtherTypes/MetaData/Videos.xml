@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Video>
+    <VideoID>1</VideoID>
+    <Title>Tum_Kallzacha_Gondya_Mhojya</Title>
+    <FileName>Video1.mp4</FileName>
+    <FolderId>1</FolderId>
+  </Video>
+  <Video>
+    <VideoID>2</VideoID>
+    <Title>Tuzo_Hath_Jezu_(Goan_Christian_Song)</Title>
+    <FileName>Video2.mp4</FileName>
+    <FolderId>1</FolderId>
+  </Video>
+  <Video>
+    <VideoID>3</VideoID>
+    <Title>Swadhik_Raat-I_(Konkani_Christmas_Song)</Title>
+    <FileName>Video3.mp4</FileName>
+    <FolderId>2</FolderId>
+  </Video>
+  <Video>
+    <VideoID>4</VideoID>
+    <Title>The_Stations_of_the_Cross</Title>
+    <FileName>Video4.mp4</FileName>
+    <FolderId>2</FolderId>
+  </Video>
+</DocumentElement>

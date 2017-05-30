@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Season>
+   <Season SeasonTypeID="1">
+      <Description>Lent</Description>
+   </Season>
+   <Season SeasonTypeID="2">
+      <Description>Easter</Description>
+   </Season>
+   <Season SeasonTypeID="3">
+      <Description>Ordinary Sunday</Description>
+   </Season>
+   <Season SeasonTypeID="4">
+      <Description>Advent</Description>
+   </Season>
+   <Season SeasonTypeID="5">
+      <Description>Christmas Time</Description>
+   </Season>
+   <Season SeasonTypeID="6">
+      <Description>Solemnities</Description>
+   </Season>
+</Season>

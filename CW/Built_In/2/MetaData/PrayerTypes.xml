@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PrayerTypes>
+  <PrayerType PrayerTypeID="11">
+      <Description>ಮುಳಾವಿಂ ಮಾಗ್ಣಿಂ</Description>
+  </PrayerType>
+  <PrayerType PrayerTypeID="12">
+     <Description>ಪವಿತ್ರ್ ಸಭೆಚಿ ಶಿಕವ್ಣ್</Description>
+  </PrayerType>
+  <PrayerType PrayerTypeID="13">
+      <Description>ದೈವಿಕ್ ಕಾಕುಳ್ತಿಚೊ ತೇರ್ಸ್</Description>
+  </PrayerType>
+  <PrayerType PrayerTypeID="14">
+      <Description>ಭಾಗೆವಂತ್ ರೊಜಾರಿಚೊ ತೇರ್ಸ್</Description>
+  </PrayerType>
+  <PrayerType PrayerTypeID="15">
+       <Description>ಖುರ‍್ಸಾವಾಟ್</Description>
+  </PrayerType>
+  <PrayerType PrayerTypeID="16">
+       <Description>ಹೆರ್ ಮಾಗ್ಣಿಂ</Description>
+  </PrayerType>
+  <PrayerType PrayerTypeID="32">
+       <Description>ಮಿಸಾಚೆಂ ರೀತ್</Description>
+  </PrayerType>
+</PrayerTypes>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MainTypes>
+  <MainType TypeID="1">
+    <Description>Built-In</Description>
+  </MainType>
+  <MainType TypeID="2">
+    <Description>User Custom</Description>
+  </MainType>
+</MainTypes>

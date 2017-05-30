@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Season>
+  <Season SeasonTypeID="1">
+    <Description>ಪ್ರಾಚಿತ್ ಕಾಳ್</Description>
+  </Season>
+  <Season SeasonTypeID="2">
+    <Description>ಪಾಸ್ಕಾಂಚೋ ಕಾಳ್</Description>
+  </Season>
+  <Season SeasonTypeID="3">
+    <Description>ಸಾಧೋ ಆಯ್ತಾರ್</Description>
+  </Season>
+  <Season SeasonTypeID="4">
+    <Description>ಕ್ರಿಸ್ತ್ ಯೆಣ್ಯಾಚೋ ಕಾಳ್</Description>
+  </Season>
+  <Season SeasonTypeID="5">
+    <Description>ಕ್ರಿಸ್ಮಸ್</Description>
+  </Season>
+  <Season SeasonTypeID="6">
+    <Description>ಫೆಸ್ತಾಂ</Description>
+  </Season>
+</Season>

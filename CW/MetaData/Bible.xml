@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DocumentElement>
+  <Details bibleID="1">
+    <LanguageId>1</LanguageId>
+    <BibleTypeID>1</BibleTypeID>
+    <Books>73</Books>
+    <Chapters>1334</Chapters>
+    <Verses>35497</Verses>
+    <Missing>15</Missing>
+  </Details>
+  <Details bibleID="2">
+    <LanguageId>1</LanguageId>
+    <BibleTypeID>2</BibleTypeID>
+    <Books>73</Books>
+    <Chapters>1334</Chapters>
+    <Verses>35479</Verses>
+    <Missing>28</Missing>
+  </Details>
+  <Details bibleID="3">
+    <LanguageId>2</LanguageId>
+    <BibleTypeID>0</BibleTypeID>
+    <Books>73</Books>
+    <Chapters>1334</Chapters>
+    <Verses>35479</Verses>
+    <Missing>44</Missing>
+  </Details>
+  <Details bibleID="4">
+    <LanguageId>3</LanguageId>
+    <BibleTypeID>0</BibleTypeID>
+    <Books>73</Books>
+    <Chapters>1334</Chapters>
+    <Verses>35355</Verses>
+    <Missing>0</Missing>
+  </Details>
+</DocumentElement>

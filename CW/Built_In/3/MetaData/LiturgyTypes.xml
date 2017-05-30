@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LiturgyType>
+  <Liturgy LiturgyTypeID="1">
+    <Description>ಮೊದಲನೆಯ ವಾಚನೆ</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="2">
+    <Description>ಎರಡನೆಯ ವಾಚನೆ</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="3">
+    <Description>ಶುಭಸಂದೇಶ</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="4">
+    <Description>ಶ್ಲೋಕ</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="5">
+    <Description>ಮೂರನೆಯ ವಾಚನೆ</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="6">
+    <Description>ನಾಲ್ಕನೆಯ ವಾಚನೆ</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="7">
+    <Description>ಐದನೆಯ ವಾಚನೆ</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="8">
+    <Description>ಆರನೆಯ ವಾಚನೆ</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="9">
+    <Description>ಏಳನೆಯ ವಾಚನೆ</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="10">
+    <Description>ಎಂಟನೆಯ ವಾಚನೆ</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="11">
+    <Description>ಒಂಬತ್ತನೆಯ ವಾಚನೆ</Description>
+  </Liturgy>
+</LiturgyType>

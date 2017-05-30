@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PrayerMainTypes>
+  <PrayerMainType PrayerMainTypeID="1">
+    <Description>Built-In</Description>
+  </PrayerMainType>
+  <PrayerMainType PrayerMainTypeID="2">
+    <Description>User Custom</Description>
+  </PrayerMainType>
+</PrayerMainTypes>

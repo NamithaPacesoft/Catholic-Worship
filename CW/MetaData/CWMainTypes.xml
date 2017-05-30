@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocumentElement>
+  <Type>
+    <TypeID>1</TypeID>
+    <Description>Bible</Description>
+  </Type>
+  <Type>
+    <TypeID>2</TypeID>
+    <Description>Hymns</Description>
+  </Type>
+  <Type>
+    <TypeID>3</TypeID>
+    <Description>Prayers</Description>
+  </Type>
+  <Type>
+    <TypeID>4</TypeID>
+    <Description>Liturgy</Description>
+  </Type>
+  <Type>
+    <TypeID>5</TypeID>
+    <Description>Audio</Description>
+  </Type>
+  <Type>
+    <TypeID>6</TypeID>
+    <Description>Video</Description>
+  </Type>
+  <Type>
+    <TypeID>7</TypeID>
+    <Description>Powerpoint</Description>
+  </Type>
+  <Type>
+    <TypeID>8</TypeID>
+    <Description>Image</Description>
+  </Type>
+</DocumentElement>

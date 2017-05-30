@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <PrayerType>
+    <PrayerTypeID>4</PrayerTypeID>
+    <Description>qwerty</Description>
+  </PrayerType>
+  <PrayerType>
+    <PrayerTypeID>5</PrayerTypeID>
+    <Description>asdfgg</Description>
+  </PrayerType>
+</DocumentElement>

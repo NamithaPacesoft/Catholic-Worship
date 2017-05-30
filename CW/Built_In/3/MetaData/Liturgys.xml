@@ -1,0 +1,1317 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Liturgy>
+    <LiturgyID>1</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>1</SeasonID>
+    <Title>ತಪಸ್ಸು ಕಾಲಾದ ಮೊದಲನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>2</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>1</SeasonID>
+    <Title>ತಪಸ್ಸು ಕಾಲಾದ ಎರಡನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>3</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>1</SeasonID>
+    <Title>ತಪಸ್ಸು ಕಾಲಾದ ಮೂರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>4</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>1</SeasonID>
+    <Title>ತಪಸ್ಸು ಕಾಲಾದ ನಾಲ್ಕನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>5</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>1</SeasonID>
+    <Title>ತಪಸ್ಸು ಕಾಲಾದ ಐದನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>6</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>1</SeasonID>
+    <Title>ಕರ್ತರ ಪೂಜ್ಯ ಯಾತನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>7</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>1</SeasonID>
+    <Title>ಪವಿತ್ರ ಗುರುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>8</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>1</SeasonID>
+    <Title>ಪವಿತ್ರ ಶುಕ್ರವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>9</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>2</SeasonID>
+    <Title>ಪಾಸ್ಖ ಜಾಗರಣೆ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>10</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>2</SeasonID>
+    <Title>ಪಾಸ್ಖ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>11</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>2</SeasonID>
+    <Title>ಪಾಸ್ಖ ಹಬ್ಬದ ಎರಡನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>12</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>2</SeasonID>
+    <Title>ಪಾಸ್ಖ ಹಬ್ಬದ ಮೂರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>13</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>2</SeasonID>
+    <Title>ಪಾಸ್ಖ ಹಬ್ಬದ ನಾಲ್ಕನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>14</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>2</SeasonID>
+    <Title>ಪಾಸ್ಖ ಹಬ್ಬದ ಐದನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>15</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>2</SeasonID>
+    <Title>ಪಾಸ್ಖ ಹಬ್ಬದ ಆರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>16</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಮೊದಲನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>17</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಎರಡನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>18</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಮೂರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>19</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ನಾಲ್ಕನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>20</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಐದನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>21</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಆರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>22</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಏಳನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>23</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಎಂಟನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>24</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಒಂಬತ್ತನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>25</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹತ್ತನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>26</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹನ್ನೊಂದನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>27</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹನ್ನೆರಡನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>28</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹದಿಮೂರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>29</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹದಿನಾಲ್ಕನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>30</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹದಿನೈದನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>31</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹದಿನಾರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>32</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹದಿನೇಳನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>33</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹದಿನೆಂಟನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>34</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹತ್ತೊಂಬತ್ತನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>35</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>36</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತ್ ಒಂದನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>37</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತ್ ಎರಡನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>38</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತ್ ಮೂರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>39</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತ್ ನಾಲ್ಕನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>40</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತ್ ಐದನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>41</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತ್ ಆರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>42</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತ್ ಏಳನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>43</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತ್ ಎಂಟನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>44</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತ್ ಒಂಬತ್ತನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>45</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಮೂವತ್ತನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>46</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಮೂವತ್ತ್ ಒಂದನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>47</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಮೂವತ್ತ್ ಎರಡನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>48</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಮೂವತ್ತ್ ಮೂರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>49</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಕ್ರಿಸ್ತ ರಾಜರ ಹಬ್ಬ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>50</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>4</SeasonID>
+    <Title>ಆಗಮನ ಕಾಲದ ಮೊದಲನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>51</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>4</SeasonID>
+    <Title>ಆಗಮನ ಕಾಲದ ಎರಡನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>52</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>4</SeasonID>
+    <Title>ಆಗಮನ ಕಾಲದ ಮೂರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>53</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>4</SeasonID>
+    <Title>ಆಗಮನ ಕಾಲದ ನಾಲ್ಕನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>54</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>5</SeasonID>
+    <Title>ಕ್ರಿಸ್ತಜಯಂತಿಯ ಜಾಗರಣೆ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>55</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>5</SeasonID>
+    <Title>ಕ್ರಿಸ್ತಜಯಂತಿ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>56</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>5</SeasonID>
+    <Title>ಪವಿತ್ರ ಕುಟುಂಬದ ಹಬ್ಬ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>57</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>5</SeasonID>
+    <Title>ದೇವಮಾತೆ ಮರಿಯಮ್ಮನವರ ಮಹೋತ್ಸವ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>58</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>5</SeasonID>
+    <Title>ಕ್ರಿಸ್ತಜಯಂತಿಯ ಎರಡನೆ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>59</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>5</SeasonID>
+    <Title>ಕರ್ತರ ದೈವದರ್ಶನದ ಹಬ್ಬ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>60</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>5</SeasonID>
+    <Title>ಕರ್ತರ ಸ್ನಾನದೀಕ್ಷೆಯ ಹಬ್ಬ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>61</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಪೂಜ್ಯ ಕನ್ಯಾ ಮರಿಯಮ್ಮನವರ ಸ್ವರ್ಗಾರೋಹಣ (Aug 15)</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>62</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಪವಿತ್ರ ಶಿಲುಬೆಯ ವಿಜಯ (Sep 14)</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>63</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಪರಿಶುದ್ಧ ಕನ್ಯಾ ಮರಿಯಮ್ಮನವರ ಅಮಲೋದ್ಭವ (Dec 8)</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>64</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಪೂಜ್ಯ  ಮರಿಯಮ್ಮನವರ ಜಯಂತಿ (Sep 8)</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>65</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಪಂಚಶತ್ತಮ ಭಾನುವಾರ ಪವಿತ್ರಆತ್ಮರ ಮಹೋತ್ಸವ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>66</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಯೇಸುವಿನ ಪೂಜ್ಯ ಹ್ರದಯದ ಹಬ್ಬ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>67</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಸಂತ ಜೋಸೆಫ್ (Mar 19)</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>68</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಸ್ವರ್ಗಾರೋಹಣ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>69</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಕರ್ತರ ಪೂಜ್ಯ ಶರೀರ ಮತ್ತು ರಗ್ತದ ಹಬ್ಬ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>70</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಯೇಸು ಸ್ವಾಮಿ ಮಹಿಮಾ ರೂಪತಾಳಿದ ಹಬ್ಬ (Aug 6)</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>71</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಪರಮ ತ್ರಿತ್ವದ ಹಬ್ಬ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>72</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಯೇಸುವನ್ನು ದೇವಾಲಯದಲ್ಲಿ ಕಾಣಿಕೆಯಾಗಿ ಆರ್ಪಣೆ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>73</LiturgyID>
+    <Cycle>Cycle A</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಸಕಲ ಸಂತರ ಹಬ್ಬ (Nov 1)</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>74</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>1</SeasonID>
+    <Title>ತಪಸ್ಸು ಕಾಲಾದ ಮೊದಲನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>75</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>1</SeasonID>
+    <Title>ತಪಸ್ಸು ಕಾಲಾದ ಎರಡನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>76</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>1</SeasonID>
+    <Title>ತಪಸ್ಸು ಕಾಲಾದ ಮೂರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>77</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>1</SeasonID>
+    <Title>ತಪಸ್ಸು ಕಾಲಾದ ನಾಲ್ಕನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>78</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>1</SeasonID>
+    <Title>ತಪಸ್ಸು ಕಾಲಾದ ಐದನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>79</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>1</SeasonID>
+    <Title>ಕರ್ತರ ಪೂಜ್ಯ ಯಾತನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>80</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>1</SeasonID>
+    <Title>ಪವಿತ್ರ ಗುರುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>81</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>1</SeasonID>
+    <Title>ಪವಿತ್ರ ಶುಕ್ರವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>82</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>2</SeasonID>
+    <Title>ಪಾಸ್ಖ ಜಾಗರಣೆ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>83</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>2</SeasonID>
+    <Title>ಪಾಸ್ಖ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>84</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>2</SeasonID>
+    <Title>ಪಾಸ್ಖ ಹಬ್ಬದ ಎರಡನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>85</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>2</SeasonID>
+    <Title>ಪಾಸ್ಖ ಹಬ್ಬದ ಮೂರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>86</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>2</SeasonID>
+    <Title>ಪಾಸ್ಖ ಹಬ್ಬದ ನಾಲ್ಕನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>87</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>2</SeasonID>
+    <Title>ಪಾಸ್ಖ ಹಬ್ಬದ ಐದನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>88</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>2</SeasonID>
+    <Title>ಪಾಸ್ಖ ಹಬ್ಬದ ಆರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>89</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಮೊದಲನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>90</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಎರಡನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>91</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಮೂರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>92</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ನಾಲ್ಕನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>93</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಐದನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>94</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಆರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>95</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಏಳನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>96</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಎಂಟನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>97</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಒಂಬತ್ತನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>98</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹತ್ತನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>99</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹನ್ನೊಂದನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>100</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹನ್ನೆರಡನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>101</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹದಿಮೂರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>102</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹದಿನಾಲ್ಕನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>103</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹದಿನೈದನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>104</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹದಿನಾರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>105</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹದಿನೇಳನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>106</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹದಿನೆಂಟನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>107</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹತ್ತೊಂಬತ್ತನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>108</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>109</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತ್ ಒಂದನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>110</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತ್ ಎರಡನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>111</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತ್ ಮೂರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>112</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತ್ ನಾಲ್ಕನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>113</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತ್ ಐದನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>114</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತ್ ಆರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>115</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತ್ ಏಳನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>116</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತ್ ಎಂಟನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>117</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತ್ ಒಂಬತ್ತನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>118</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಮೂವತ್ತನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>119</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಮೂವತ್ತ್ ಒಂದನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>120</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಮೂವತ್ತ್ ಎರಡನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>121</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಮೂವತ್ತ್ ಮೂರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>122</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಕ್ರಿಸ್ತ ರಾಜರ ಹಬ್ಬ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>123</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>4</SeasonID>
+    <Title>ಆಗಮನ ಕಾಲದ ಮೊದಲನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>124</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>4</SeasonID>
+    <Title>ಆಗಮನ ಕಾಲದ ಎರಡನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>125</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>4</SeasonID>
+    <Title>ಆಗಮನ ಕಾಲದ ಮೂರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>126</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>4</SeasonID>
+    <Title>ಆಗಮನ ಕಾಲದ ನಾಲ್ಕನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>127</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>5</SeasonID>
+    <Title>ಕ್ರಿಸ್ತಜಯಂತಿಯ ಜಾಗರಣೆ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>128</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>5</SeasonID>
+    <Title>ಕ್ರಿಸ್ತಜಯಂತಿ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>129</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>5</SeasonID>
+    <Title>ಪವಿತ್ರ ಕುಟುಂಬದ ಹಬ್ಬ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>130</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>5</SeasonID>
+    <Title>ದೇವಮಾತೆ ಮರಿಯಮ್ಮನವರ ಮಹೋತ್ಸವ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>131</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>5</SeasonID>
+    <Title>ಕ್ರಿಸ್ತಜಯಂತಿಯ ಎರಡನೆ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>132</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>5</SeasonID>
+    <Title>ಕರ್ತರ ದೈವದರ್ಶನದ ಹಬ್ಬ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>133</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>5</SeasonID>
+    <Title>ಕರ್ತರ ಸ್ನಾನದೀಕ್ಷೆಯ ಹಬ್ಬ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>134</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಪೂಜ್ಯ ಕನ್ಯಾ ಮರಿಯಮ್ಮನವರ ಸ್ವರ್ಗಾರೋಹಣ (Aug 15)</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>135</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಪವಿತ್ರ ಶಿಲುಬೆಯ ವಿಜಯ (Sep 14)</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>136</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಪರಿಶುದ್ಧ ಕನ್ಯಾ ಮರಿಯಮ್ಮನವರ ಅಮಲೋದ್ಭವ (Dec 8)</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>137</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಪೂಜ್ಯ  ಮರಿಯಮ್ಮನವರ ಜಯಂತಿ (Sep 8)</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>138</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಪಂಚಶತ್ತಮ ಭಾನುವಾರ ಪವಿತ್ರಆತ್ಮರ ಮಹೋತ್ಸವ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>139</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಯೇಸುವಿನ ಪೂಜ್ಯ ಹ್ರದಯದ ಹಬ್ಬ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>140</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಸಂತ ಜೋಸೆಫ್ (Mar 19)</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>141</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಸ್ವರ್ಗಾರೋಹಣ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>142</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಕರ್ತರ ಪೂಜ್ಯ ಶರೀರ ಮತ್ತು ರಗ್ತದ ಹಬ್ಬ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>143</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಯೇಸು ಸ್ವಾಮಿ ಮಹಿಮಾ ರೂಪತಾಳಿದ ಹಬ್ಬ (Aug 6)</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>144</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಪರಮ ತ್ರಿತ್ವದ ಹಬ್ಬ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>145</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಯೇಸುವನ್ನು ದೇವಾಲಯದಲ್ಲಿ ಕಾಣಿಕೆಯಾಗಿ ಆರ್ಪಣೆ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>146</LiturgyID>
+    <Cycle>Cycle B</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಸಕಲ ಸಂತರ ಹಬ್ಬ (Nov 1)</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>147</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>1</SeasonID>
+    <Title>ತಪಸ್ಸು ಕಾಲಾದ ಮೊದಲನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>148</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>1</SeasonID>
+    <Title>ತಪಸ್ಸು ಕಾಲಾದ ಎರಡನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>149</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>1</SeasonID>
+    <Title>ತಪಸ್ಸು ಕಾಲಾದ ಮೂರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>150</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>1</SeasonID>
+    <Title>ತಪಸ್ಸು ಕಾಲಾದ ನಾಲ್ಕನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>151</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>1</SeasonID>
+    <Title>ತಪಸ್ಸು ಕಾಲಾದ ಐದನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>152</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>1</SeasonID>
+    <Title>ಕರ್ತರ ಪೂಜ್ಯ ಯಾತನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>153</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>1</SeasonID>
+    <Title>ಪವಿತ್ರ ಗುರುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>154</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>1</SeasonID>
+    <Title>ಪವಿತ್ರ ಶುಕ್ರವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>155</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>2</SeasonID>
+    <Title>ಪಾಸ್ಖ ಜಾಗರಣೆ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>156</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>2</SeasonID>
+    <Title>ಪಾಸ್ಖ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>157</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>2</SeasonID>
+    <Title>ಪಾಸ್ಖ ಹಬ್ಬದ ಎರಡನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>158</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>2</SeasonID>
+    <Title>ಪಾಸ್ಖ ಹಬ್ಬದ ಮೂರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>159</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>2</SeasonID>
+    <Title>ಪಾಸ್ಖ ಹಬ್ಬದ ನಾಲ್ಕನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>160</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>2</SeasonID>
+    <Title>ಪಾಸ್ಖ ಹಬ್ಬದ ಐದನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>161</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>2</SeasonID>
+    <Title>ಪಾಸ್ಖ ಹಬ್ಬದ ಆರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>162</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಮೊದಲನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>163</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಎರಡನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>164</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಮೂರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>165</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ನಾಲ್ಕನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>166</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಐದನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>167</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಆರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>168</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಏಳನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>169</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಎಂಟನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>170</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಒಂಬತ್ತನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>171</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹತ್ತನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>172</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹನ್ನೊಂದನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>173</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹನ್ನೆರಡನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>174</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹದಿಮೂರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>175</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹದಿನಾಲ್ಕನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>176</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹದಿನೈದನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>177</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹದಿನಾರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>178</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹದಿನೇಳನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>179</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹದಿನೆಂಟನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>180</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಹತ್ತೊಂಬತ್ತನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>181</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>182</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತ್ ಒಂದನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>183</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತ್ ಎರಡನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>184</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತ್ ಮೂರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>185</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತ್ ನಾಲ್ಕನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>186</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತ್ ಐದನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>187</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತ್ ಆರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>188</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತ್ ಏಳನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>189</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತ್ ಎಂಟನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>190</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಇಪ್ಪತ್ತ್ ಒಂಬತ್ತನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>191</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಮೂವತ್ತನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>192</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಮೂವತ್ತ್ ಒಂದನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>193</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಮೂವತ್ತ್ ಎರಡನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>194</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಸಾದಾರಣ ಕಾಲದ ಮೂವತ್ತ್ ಮೂರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>195</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>3</SeasonID>
+    <Title>ಕ್ರಿಸ್ತ ರಾಜರ ಹಬ್ಬ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>196</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>4</SeasonID>
+    <Title>ಆಗಮನ ಕಾಲದ ಮೊದಲನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>197</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>4</SeasonID>
+    <Title>ಆಗಮನ ಕಾಲದ ಎರಡನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>198</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>4</SeasonID>
+    <Title>ಆಗಮನ ಕಾಲದ ಮೂರನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>199</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>4</SeasonID>
+    <Title>ಆಗಮನ ಕಾಲದ ನಾಲ್ಕನೆಯ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>200</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>5</SeasonID>
+    <Title>ಕ್ರಿಸ್ತಜಯಂತಿಯ ಜಾಗರಣೆ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>201</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>5</SeasonID>
+    <Title>ಕ್ರಿಸ್ತಜಯಂತಿ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>202</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>5</SeasonID>
+    <Title>ಪವಿತ್ರ ಕುಟುಂಬದ ಹಬ್ಬ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>203</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>5</SeasonID>
+    <Title>ದೇವಮಾತೆ ಮರಿಯಮ್ಮನವರ ಮಹೋತ್ಸವ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>204</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>5</SeasonID>
+    <Title>ಕ್ರಿಸ್ತಜಯಂತಿಯ ಎರಡನೆ ಭಾನುವಾರ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>205</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>5</SeasonID>
+    <Title>ಕರ್ತರ ದೈವದರ್ಶನದ ಹಬ್ಬ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>206</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>5</SeasonID>
+    <Title>ಕರ್ತರ ಸ್ನಾನದೀಕ್ಷೆಯ ಹಬ್ಬ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>207</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಪೂಜ್ಯ ಕನ್ಯಾ ಮರಿಯಮ್ಮನವರ ಸ್ವರ್ಗಾರೋಹಣ (Aug 15)</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>208</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಪವಿತ್ರ ಶಿಲುಬೆಯ ವಿಜಯ (Sep 14)</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>209</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಪರಿಶುದ್ಧ ಕನ್ಯಾ ಮರಿಯಮ್ಮನವರ ಅಮಲೋದ್ಭವ (Dec 8)</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>210</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಪೂಜ್ಯ  ಮರಿಯಮ್ಮನವರ ಜಯಂತಿ (Sep 8)</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>211</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಪಂಚಶತ್ತಮ ಭಾನುವಾರ ಪವಿತ್ರಆತ್ಮರ ಮಹೋತ್ಸವ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>212</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಯೇಸುವಿನ ಪೂಜ್ಯ ಹ್ರದಯದ ಹಬ್ಬ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>213</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಸಂತ ಜೋಸೆಫ್ (Mar 19)</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>214</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಸ್ವರ್ಗಾರೋಹಣ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>215</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಕರ್ತರ ಪೂಜ್ಯ ಶರೀರ ಮತ್ತು ರಗ್ತದ ಹಬ್ಬ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>216</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಯೇಸು ಸ್ವಾಮಿ ಮಹಿಮಾ ರೂಪತಾಳಿದ ಹಬ್ಬ (Aug 6)</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>217</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಪರಮ ತ್ರಿತ್ವದ ಹಬ್ಬ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>218</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಯೇಸುವನ್ನು ದೇವಾಲಯದಲ್ಲಿ ಕಾಣಿಕೆಯಾಗಿ ಆರ್ಪಣೆ</Title>
+  </Liturgy>
+  <Liturgy>
+    <LiturgyID>219</LiturgyID>
+    <Cycle>Cycle C</Cycle>
+    <SeasonID>6</SeasonID>
+    <Title>ಸಕಲ ಸಂತರ ಹಬ್ಬ (Nov 1)</Title>
+  </Liturgy>
+</DocumentElement>

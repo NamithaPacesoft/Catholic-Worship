@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LiturgyType>
+  <Liturgy LiturgyTypeID="1">
+    <Description>ಪಯ್ಲೆಂ ವಾಚಪ್</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="2">
+    <Description>ದುಸ್ರೆಂ ವಾಚಪ್</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="3">
+    <Description>ಶುಭ್ ವಾರ್ತಾ</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="4">
+    <Description>ಶ್ಲೋಕ್</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="5">
+    <Description>ತಿಸ್ರೆಂ ವಾಚಪ್</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="6">
+    <Description>ಚೊವ್ತೆಂ ವಾಚಪ್</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="7">
+    <Description>ಪಾಂಚ್ವೆಂ ವಾಚಪ್</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="8">
+    <Description>ಸವೆಂ ವಾಚಪ್</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="9">
+    <Description>ಸಾತ್ವೆಂ ವಾಚಪ್</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="10">
+    <Description>ಆಟ್ವೆಂ ವಾಚಪ್</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="11">
+    <Description>ನೊವೆಂ ವಾಚಪ್</Description>
+  </Liturgy>
+</LiturgyType>

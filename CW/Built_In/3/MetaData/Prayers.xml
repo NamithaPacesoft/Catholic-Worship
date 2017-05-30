@@ -1,0 +1,183 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Prayer>
+    <PrayerID>93</PrayerID>
+    <PrayerTypeID>21</PrayerTypeID>
+    <PrayerTitle>ಪ್ರೇಷಿತರ ವಿಶ್ವಾಸ ಸಂಗ್ರಹ</PrayerTitle>
+    <FileName>93.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>94</PrayerID>
+    <PrayerTypeID>21</PrayerTypeID>
+    <PrayerTitle>ವಿಶ್ವಾಸದ ವಿಧಾನ </PrayerTitle>
+    <FileName>94.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>95</PrayerID>
+    <PrayerTypeID>21</PrayerTypeID>
+    <PrayerTitle>ಭರವಸೆಯ ವಿಧಾನ </PrayerTitle>
+    <FileName>95.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>96</PrayerID>
+    <PrayerTypeID>21</PrayerTypeID>
+    <PrayerTitle>ಪ್ರೀತಿಯ ವಿಧಾನ</PrayerTitle>
+    <FileName>96.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>97</PrayerID>
+    <PrayerTypeID>21</PrayerTypeID>
+    <PrayerTitle>ಪಶ್ಚಾತಾಪದ ವಿಧಾನ </PrayerTitle>
+    <FileName>97.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>98</PrayerID>
+    <PrayerTypeID>21</PrayerTypeID>
+    <PrayerTitle>ಸ್ವರ್ಗದ ರಾಣಿಯೇ ಪ್ರಾರ್ಥನೆ</PrayerTitle>
+    <FileName>98.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>99</PrayerID>
+    <PrayerTypeID>21</PrayerTypeID>
+    <PrayerTitle>ದೇವದೂತನ ಸಂದೇಶ</PrayerTitle>
+    <FileName>99.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>100</PrayerID>
+    <PrayerTypeID>21</PrayerTypeID>
+    <PrayerTitle>ನಮೋ ರಾಣಿಯೇ, ಪ್ರಾರ್ಥನೆ</PrayerTitle>
+    <FileName>100.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>101</PrayerID>
+    <PrayerTypeID>24</PrayerTypeID>
+    <PrayerTitle>ಸಂತೋಷದ ರಹಸ್ಯಗಳು</PrayerTitle>
+    <FileName>101.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>103</PrayerID>
+    <PrayerTypeID>24</PrayerTypeID>
+    <PrayerTitle>ಮಹಿಮೆಯ ರಹಸ್ಯಗಳು</PrayerTitle>
+    <FileName>103.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>104</PrayerID>
+    <PrayerTypeID>24</PrayerTypeID>
+    <PrayerTitle>ಜ್ಯೋತಿ ಯ (ಬೆಳಕಿನ) ರಹಸ್ಯಗಳು</PrayerTitle>
+    <FileName>104.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>105</PrayerID>
+    <PrayerTypeID>24</PrayerTypeID>
+    <PrayerTitle>ಸಂತ ಕನ್ಯಾಮರಿಯಮ್ಮನವರಿಗೆ ಪ್ರಾರ್ಥನೆ</PrayerTitle>
+    <FileName>105.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>106</PrayerID>
+    <PrayerTypeID>25</PrayerTypeID>
+    <PrayerTitle>14 ಸ್ಥಳ</PrayerTitle>
+    <FileName>106.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>107</PrayerID>
+    <PrayerTypeID>22</PrayerTypeID>
+    <PrayerTitle>ದೇವರ ಹತ್ತು ಆಜ್ಷೆಗಳು</PrayerTitle>
+    <FileName>107.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>108</PrayerID>
+    <PrayerTypeID>22</PrayerTypeID>
+    <PrayerTitle>ಧರ್ಮಸಭೆಯ ಐದು ಕಟ್ಟಳೆಗಳು</PrayerTitle>
+    <FileName>108.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>109</PrayerID>
+    <PrayerTypeID>21</PrayerTypeID>
+    <PrayerTitle>ಶಿಲುಬೆಯ ಗುರುತು</PrayerTitle>
+    <FileName>109.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>110</PrayerID>
+    <PrayerTypeID>21</PrayerTypeID>
+    <PrayerTitle>ಪವಿತ್ರ ಶಿಲುಬೆಯ ರಕ್ಷಣೆ</PrayerTitle>
+    <FileName>110.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>111</PrayerID>
+    <PrayerTypeID>21</PrayerTypeID>
+    <PrayerTitle>ನೈಸಿಯಾದ ವಿಶ್ವಾಸ ಸಂಗ್ರಹ</PrayerTitle>
+    <FileName>111.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>112</PrayerID>
+    <PrayerTypeID>21</PrayerTypeID>
+    <PrayerTitle>ಮ್ರತರಿಗೆ ಪ್ರಾರ್ಥನೆ </PrayerTitle>
+    <FileName>112.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>113</PrayerID>
+    <PrayerTypeID>21</PrayerTypeID>
+    <PrayerTitle>ಕರ್ತರ ಪ್ರಾರ್ಥನೆ</PrayerTitle>
+    <FileName>113.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>114</PrayerID>
+    <PrayerTypeID>21</PrayerTypeID>
+    <PrayerTitle>ಮಂಗಳ ವಾರ್ತೆಯ ಪ್ರಾರ್ಥನೆ</PrayerTitle>
+    <FileName>114.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>115</PrayerID>
+    <PrayerTypeID>21</PrayerTypeID>
+    <PrayerTitle>ಮಹಿಮೆಯ ಸ್ತುತಿ</PrayerTitle>
+    <FileName>115.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>116</PrayerID>
+    <PrayerTypeID>21</PrayerTypeID>
+    <PrayerTitle>ಪ್ರಾತಕಾಲದ ಅರ್ಪಣೆ</PrayerTitle>
+    <FileName>116.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>117</PrayerID>
+    <PrayerTypeID>26</PrayerTypeID>
+    <PrayerTitle>ಸಂತ ಬರ್ನಾರ್ಡರ ಪ್ರಾರ್ಥನೆ</PrayerTitle>
+    <FileName>117.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>118</PrayerID>
+    <PrayerTypeID>26</PrayerTypeID>
+    <PrayerTitle>ಕಾವಲಾಗಿರುವ ದೇವದೂತರಿಗೆ ಪ್ರಾರ್ಥನೆ</PrayerTitle>
+    <FileName>118.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>120</PrayerID>
+    <PrayerTypeID>21</PrayerTypeID>
+    <PrayerTitle>ಮೃತರಿಗಾಗಿ ಪ್ರಾರ್ಥನೆ</PrayerTitle>
+    <FileName>120.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>121</PrayerID>
+    <PrayerTypeID>22</PrayerTypeID>
+    <PrayerTitle>ಏಳು ಸಂಸ್ಕಾರಗಳು</PrayerTitle>
+    <FileName>121.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>122</PrayerID>
+    <PrayerTypeID>26</PrayerTypeID>
+    <PrayerTitle>ಪವಿತ್ರ ಶಿಲುಬೆಯ ಮುಂದೆ</PrayerTitle>
+    <FileName>122.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>123</PrayerID>
+    <PrayerTypeID>26</PrayerTypeID>
+    <PrayerTitle>ದೈವ ಸ್ತುತಿಗಳು</PrayerTitle>
+    <FileName>123.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>124</PrayerID>
+    <PrayerTypeID>26</PrayerTypeID>
+    <PrayerTitle>ಶಾಂತಿಗಾಗಿ ಪ್ರಾರ್ಥನೆ</PrayerTitle>
+    <FileName>124.txt</FileName>
+  </Prayer>
+</DocumentElement>

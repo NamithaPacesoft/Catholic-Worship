@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Maximum>
+    <Type>HymnTypes</Type>
+    <Value>1</Value>
+  </Maximum>
+  <Maximum>
+    <Type>HymnsCustom</Type>
+    <Value>1</Value>
+  </Maximum>
+</DocumentElement>

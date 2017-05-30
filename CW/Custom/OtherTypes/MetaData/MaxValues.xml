@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Maximum>
+    <Type>HymnTypes</Type>
+    <Value>1</Value>
+  </Maximum>
+  <Maximum>
+    <Type>HymnsCustom</Type>
+    <Value>1</Value>
+  </Maximum>
+  <Maximum>
+    <Type>MImages</Type>
+    <Value>12</Value>
+  </Maximum>
+  <Maximum>
+    <Type>AudioFolder</Type>
+    <Value>2</Value>
+  </Maximum>
+  <Maximum>
+    <Type>Audio</Type>
+    <Value>5</Value>
+  </Maximum>
+  <Maximum>
+    <Type>Video</Type>
+    <Value>4</Value>
+  </Maximum>
+  <Maximum>
+    <Type>Schedule</Type>
+    <Value>3</Value>
+  </Maximum>
+  <Maximum>
+    <Type>Images</Type>
+    <Value>1</Value>
+  </Maximum>
+</DocumentElement>

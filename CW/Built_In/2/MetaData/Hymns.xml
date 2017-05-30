@@ -1,0 +1,5883 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Hymn>
+    <HymnID>1201</HymnID>
+    <HymnNo>1201</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A5 ಭಕ್ತಿನ್ ಉರ್ಭೆನ್</HymnTitle>
+    <FileName>1201.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1202</HymnID>
+    <HymnNo>1202</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A6 ಮಂದಿರಾಂತ್ ತುಜ್ಯಾ</HymnTitle>
+    <FileName>1202.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1203</HymnID>
+    <HymnNo>1203</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A7 ಮೊಗಾ ವಿಣ್ಯಾ ಸಂಗಿಂ</HymnTitle>
+    <FileName>1203.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1204</HymnID>
+    <HymnNo>1204</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A8 ವಂದನ್ ವಂದನ್</HymnTitle>
+    <FileName>1204.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1205</HymnID>
+    <HymnNo>1205</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A9 ಯೆತಾಂವ್ ಸೊಮ್ಯಾ</HymnTitle>
+    <FileName>1205.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1206</HymnID>
+    <HymnNo>1206</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A10 ವಂದಿತಾಂವ್ ಬಾಪಾ</HymnTitle>
+    <FileName>1206.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1207</HymnID>
+    <HymnNo>1207</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A11 ವರ್ತೊ ಸಂತೊಸ್</HymnTitle>
+    <FileName>1207.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1208</HymnID>
+    <HymnNo>1208</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A13 ಸಂತೊಸಾಚಿಂ ಗಿತಾಂ</HymnTitle>
+    <FileName>1208.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1209</HymnID>
+    <HymnNo>1209</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A14 ಸಂತೊಸಾಚಿಂ ಮೆಟಾಂ</HymnTitle>
+    <FileName>1209.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1210</HymnID>
+    <HymnNo>1210</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A15 ಸಂತೊಸಾಚಿ ಬೊಬಾಟ್</HymnTitle>
+    <FileName>1210.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1211</HymnID>
+    <HymnNo>1211</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A16 ಸಂತೊಸಾನ್ ವೆದಿ ಭೊಂವ್ತಿಂ</HymnTitle>
+    <FileName>1211.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1212</HymnID>
+    <HymnNo>1212</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A17 ಹಾ! ಕಿತ್ಲೆ ಸೊಭಿತ್ ಸುಂದರ್</HymnTitle>
+    <FileName>1212.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1214</HymnID>
+    <HymnNo>1214</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A19 ಉಲ್ಲಾಸಾನ್ ಗಿತಾಂ ಗಾವುನ್</HymnTitle>
+    <FileName>1214.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1215</HymnID>
+    <HymnNo>1215</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A20 ಏಕ್ ಕುಟಾಮ್ ಜಾವ್ನ್</HymnTitle>
+    <FileName>1215.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1216</HymnID>
+    <HymnNo>1216</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A21 ಉತರ್ ತುಜೆಂ</HymnTitle>
+    <FileName>1216.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1217</HymnID>
+    <HymnNo>1217</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A22 ಗಾವ್ಯಾಂ ನವೆಂ ಏಕ್ ಗೀತ್</HymnTitle>
+    <FileName>1217.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1218</HymnID>
+    <HymnNo>1218</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A23 ಜಮ್ಲ್ಯಾಂವ್ ಸೊಮ್ಯಾ</HymnTitle>
+    <FileName>1218.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1219</HymnID>
+    <HymnNo>1219</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A24 ಧಿನ್ವಾಶಿ ಕಾಳ್ಜಾನ್</HymnTitle>
+    <FileName>1219.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1220</HymnID>
+    <HymnNo>1220</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A26 ಯೆತಾಂವ್ ಆಮಿ</HymnTitle>
+    <FileName>1220.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1221</HymnID>
+    <HymnNo>1221</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A27 ವ್ಹಡ್ ಸಂತೊಸಾನ್ ಬಾಪಾ</HymnTitle>
+    <FileName>1221.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1223</HymnID>
+    <HymnNo>1223</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A29 ಸರ್ವಯ್ ಆಮಿ ಸಾಂಗಾತಾ ಮೆಳ್ಯಾಂ,</HymnTitle>
+    <FileName>1223.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1224</HymnID>
+    <HymnNo>1224</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A30 ಸರ್ವಯ್ ಆಮಿ ಸೊಮ್ಯಾ ಥಂಯ್</HymnTitle>
+    <FileName>1224.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1225</HymnID>
+    <HymnNo>1225</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A31 ಸರ್ವೆಸ್ಪರಾ ಆಮ್ಚ್ಯಾ ರಚ್ನಾರಾ</HymnTitle>
+    <FileName>1225.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1226</HymnID>
+    <HymnNo>1226</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A32 ಸಂತೊಸ್ಭರಿತ್ ಕಾಳ್ಜಾನ್</HymnTitle>
+    <FileName>1226.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1227</HymnID>
+    <HymnNo>1227</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A33 ಸಂತೊಸಾಚ್ಯಾ ಉಮಾಳ್ಯಾಂನಿ</HymnTitle>
+    <FileName>1227.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1228</HymnID>
+    <HymnNo>1228</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A35 ಸಂತೊಸಾನ್ ಆಯ್ಲ್ಯಾಂವ್</HymnTitle>
+    <FileName>1228.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1229</HymnID>
+    <HymnNo>1229</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A36 ಸಂತೊಸಾನ್ ಮಂದಿರಾಂತ್</HymnTitle>
+    <FileName>1229.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1230</HymnID>
+    <HymnNo>1230</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A37 ಸಂತೊಸಾನ್ ಸೊಮ್ಯಾ</HymnTitle>
+    <FileName>1230.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1231</HymnID>
+    <HymnNo>1231</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A38 ಸೊಮ್ಯಾ ತುಜ್ಯಾ ನಾಂವಾನ್</HymnTitle>
+    <FileName>1231.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1232</HymnID>
+    <HymnNo>1232</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A40 ಸೊಮ್ಯಾ ಮಂದಿರ್ ತುಜೆಂ</HymnTitle>
+    <FileName>1232.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1233</HymnID>
+    <HymnNo>1233</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A41 ಕುಟಮ್ ಏಕ್ ಜಾವ್ನ್</HymnTitle>
+    <FileName>1233.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1234</HymnID>
+    <HymnNo>1234</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A42 ಭೋವ್ ಸುಂದರ್</HymnTitle>
+    <FileName>1234.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1235</HymnID>
+    <HymnNo>1235</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A43 ಹಫ್ತ್ಯಾಚೊ  ಪಯ್ಲೊ ದೀಸ್</HymnTitle>
+    <FileName>1235.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1236</HymnID>
+    <HymnNo>1236</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A44 ಸಂತೊಸಾನ್ ಉಲ್ಲಾಸಾನ್</HymnTitle>
+    <FileName>1236.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1237</HymnID>
+    <HymnNo>1237</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A45 ಸೊಮ್ಯಾ ತುಜ್ಯಾ ಮಂದಿರಾಂತ್</HymnTitle>
+    <FileName>1237.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1238</HymnID>
+    <HymnNo>1238</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A48 ಸಂತೊಸಾನ್ ಉಮಾಳ್ಯಾನ್</HymnTitle>
+    <FileName>1238.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1239</HymnID>
+    <HymnNo>1239</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A49 ಸೊಮ್ಯಾ ತುಜ್ಯಾ ಹ್ಯಾ ಮಂದಿರಾಂತ್</HymnTitle>
+    <FileName>1239.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1240</HymnID>
+    <HymnNo>1240</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A50 ಸರ್ವೆಸ್ಪರಾ ಮೊಗಾಚ್ಯಾ ರಚ್ನಾರಾ</HymnTitle>
+    <FileName>1240.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1241</HymnID>
+    <HymnNo>1241</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A51 ಸಂತೊಸ್ಭರಿತ್ ಕಾಳ್ಜಾನ್</HymnTitle>
+    <FileName>1241.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1242</HymnID>
+    <HymnNo>1242</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A52 ಸಂತೊಸಾನ್ ವ್ಹಡ್ ಉಲ್ಲಾಸಾನ್</HymnTitle>
+    <FileName>1242.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1243</HymnID>
+    <HymnNo>1243</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A53 ಬಾಪಾ ಸಮೊರ್</HymnTitle>
+    <FileName>1243.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1244</HymnID>
+    <HymnNo>1244</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A54 ಮೊಗಾ ಸೆವೆಚ್ಯಾ ಸ್ಪಿರಿತಾನ್</HymnTitle>
+    <FileName>1244.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1245</HymnID>
+    <HymnNo>1245</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A55 ಮಂದಿರಾಂತ್ ತುಜ್ಯಾ ಜಮ್ಲ್ಯಾಂವ್</HymnTitle>
+    <FileName>1245.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1246</HymnID>
+    <HymnNo>1246</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A56 ಸರ್ವೆಸ್ಪರಾ ರಚ್ನಾರಾ</HymnTitle>
+    <FileName>1246.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1247</HymnID>
+    <HymnNo>1247</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A58 ಕಾಳ್ಜಾ ಮನಾನ್ ಏಕ್ ಜಾವ್ನ್</HymnTitle>
+    <FileName>1247.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1248</HymnID>
+    <HymnNo>1248</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A59 ಆಯ್ಲ್ಯಾಂವ್ ಬಲಿ ಭೆಟೊಂವ್ಕ್</HymnTitle>
+    <FileName>1248.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1249</HymnID>
+    <HymnNo>1249</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A60 ಚಲ್ಯಾಂ’ಮಿ ಘರಾ ದೆವಾಚ್ಯಾ</HymnTitle>
+    <FileName>1249.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1250</HymnID>
+    <HymnNo>1250</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A61 ತುಜ್ಯಾ ವೆದಿ ಭೊಂವ್ತಿಂ</HymnTitle>
+    <FileName>1250.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1251</HymnID>
+    <HymnNo>1251</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A62 ಸಾಂಡ್ ಜಾಳಾಂ</HymnTitle>
+    <FileName>1251.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1252</HymnID>
+    <HymnNo>1252</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A63 ಜಮ್ಲ್ಯಾಂವ್  ದೆವಾ ಜಣಾಂ</HymnTitle>
+    <FileName>1252.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1253</HymnID>
+    <HymnNo>1253</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB1 ಸರ್ವೆಸ್ಪರಾ ದೆವಾಚೆರ್</HymnTitle>
+    <FileName>1253.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1254</HymnID>
+    <HymnNo>1254</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB2 ತುಜ್ಯಾ ಮುಖಮಳಾಚೊ</HymnTitle>
+    <FileName>1254.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1255</HymnID>
+    <HymnNo>1255</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB3 ತುಜ್ಯಾ ಹಾತಾಂಚ್ಯಾ</HymnTitle>
+    <FileName>1255.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1256</HymnID>
+    <HymnNo>1256</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB4 ನಿತಳ್ ಅಂತಸ್ಕರ್ನಾಚಿಂ</HymnTitle>
+    <FileName>1256.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1257</HymnID>
+    <HymnNo>1257</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB5 ಸರ್ವೆಸ್ಪರಾ, ತುಜೆ ಥಂಯ್</HymnTitle>
+    <FileName>1257.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1258</HymnID>
+    <HymnNo>1258</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB6 ತುಜ್ಯಾ ತಂಬಾಂತ್</HymnTitle>
+    <FileName>1258.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1259</HymnID>
+    <HymnNo>1259</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB7 ಸಾಂಬಾಳ್ನ್ ಧರ್ ಮ್ಹಾಕಾ</HymnTitle>
+    <FileName>1259.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1260</HymnID>
+    <HymnNo>1260</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB8 ಜಿವಿತಾಚಿ ವಾಟ್</HymnTitle>
+    <FileName>1260.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1261</HymnID>
+    <HymnNo>1261</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB9 ದರ್ಶನ್ ತುಜೆಂ ಘೆವ್ನ್</HymnTitle>
+    <FileName>1261.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1262</HymnID>
+    <HymnNo>1262</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB10 ಮೋಗ್ ತುಜೊ ಕರ್ತಾಂ</HymnTitle>
+    <FileName>1262.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1263</HymnID>
+    <HymnNo>1263</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB11 ಸೊಮ್ಯಾ ತುಜೆ ಲಾಗಿಂ</HymnTitle>
+    <FileName>1263.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1264</HymnID>
+    <HymnNo>1264</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB12 ತುಜಿಂ ಉತ್ರಾಂ</HymnTitle>
+    <FileName>1264.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1265</HymnID>
+    <HymnNo>1265</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB13 ಸರ್ವೆಸ್ಪರಾ ತುಜಿ</HymnTitle>
+    <FileName>1265.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1266</HymnID>
+    <HymnNo>1266</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB14 ಸರ್ವೆಸ್ಪರಾಚೆ ಘರಿಂ</HymnTitle>
+    <FileName>1266.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1267</HymnID>
+    <HymnNo>1267</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB15 ಭಿತರ್ ಸರ್ತಾ ಸರ್ವೆಸ್ಪರ್</HymnTitle>
+    <FileName>1267.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1268</HymnID>
+    <HymnNo>1268</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB16 ತುಜೊ ಸೊಲ್ಲೊ</HymnTitle>
+    <FileName>1268.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1269</HymnID>
+    <HymnNo>1269</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB17 ಸರ್ವೆಸ್ಪರ್ ಮ್ಹಜೊ</HymnTitle>
+    <FileName>1269.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1270</HymnID>
+    <HymnNo>1270</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB18 ಸರ್ವೆಸ್ಪರ್ ದೇವ್</HymnTitle>
+    <FileName>1270.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1271</HymnID>
+    <HymnNo>1271</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB19 ತುಕಾ ಹಾಂವ್ ವಾಖಾಣ್ತಾಂ, ಸರ್ವೆಸ್ಪರ್ ದೆವಾ</HymnTitle>
+    <FileName>1271.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1272</HymnID>
+    <HymnNo>1272</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB20 ಜಾ ತುಂ ಮ್ಹಾಕಾ ಭದ್ರತೆಚೆಂ ಖಡಪ್, ಸರ್ವೆಸ್ಪರಾ</HymnTitle>
+    <FileName>1272.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1273</HymnID>
+    <HymnNo>1273</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB21 ತುಂಚ್ ಮ್ಹಜೊ</HymnTitle>
+    <FileName>1273.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1274</HymnID>
+    <HymnNo>1274</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB22 ಸೊಮ್ಯಾ ಹಾಂವ್</HymnTitle>
+    <FileName>1274.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1275</HymnID>
+    <HymnNo>1275</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB23 ಚಾಕಾ ಆನಿ ಪಳೆಯಾ</HymnTitle>
+    <FileName>1275.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1276</HymnID>
+    <HymnNo>1276</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB24 ನಿತಿವಂತಾಚ್ಯಾ ತೊಂಡಾಂತ್</HymnTitle>
+    <FileName>1276.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1277</HymnID>
+    <HymnNo>1277</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB25 ಆಬ್ಳೆ ತುಜಿ</HymnTitle>
+    <FileName>1277.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1278</HymnID>
+    <HymnNo>1278</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB26 ಆಮಿ ತುಜೆ</HymnTitle>
+    <FileName>1278.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1279</HymnID>
+    <HymnNo>1279</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB27 ಮ್ಹಜೊ ಅತ್ಮೊ</HymnTitle>
+    <FileName>1279.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1280</HymnID>
+    <HymnNo>1280</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB28 ಒಫಿರ್ಚ್ಯಾ ಭಾಂಗಾರಾನ್</HymnTitle>
+    <FileName>1280.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1281</HymnID>
+    <HymnNo>1281</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB29 ಸಂತೊಸಾಚ್ಯಾ ಉದ್ಗಾರಾಂ ಮಧೆಂ ದೇವ್ ಸರ್ಗಾರ್ ಚಡ್ತಾ</HymnTitle>
+    <FileName>1281.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1282</HymnID>
+    <HymnNo>1282</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB30 ಆಪ್ಲೆಂ ಚಾಲ್‍ಚಮ್ಕಣ್</HymnTitle>
+    <FileName>1282.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1283</HymnID>
+    <HymnNo>1283</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB31 ಹಾಂವ್ ಉಠ್ತಲೊಂ</HymnTitle>
+    <FileName>1283.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1284</HymnID>
+    <HymnNo>1284</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB32 ಸರ್ವೆಸ್ಪರ್ ದೇವ್</HymnTitle>
+    <FileName>1284.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1285</HymnID>
+    <HymnNo>1285</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB33 ದೆವಾ ಥಂಯ್</HymnTitle>
+    <FileName>1285.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1286</HymnID>
+    <HymnNo>1286</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB34 ಮ್ಹಜೊ ಅತ್ಮೊ ತಾನೆತಾ</HymnTitle>
+    <FileName>1286.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1287</HymnID>
+    <HymnNo>1287</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB35 ಥೊಡೆಂ ಬಿಂ</HymnTitle>
+    <FileName>1287.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1288</HymnID>
+    <HymnNo>1288</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB36 ಆನಂದಾಚಿ ಬೊಬ್</HymnTitle>
+    <FileName>1288.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1289</HymnID>
+    <HymnNo>1289</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB37 ರಾಷ್ಟ್ರಾಂ ತುಕಾ ವಾಖಾಣುಂ</HymnTitle>
+    <FileName>1289.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1290</HymnID>
+    <HymnNo>1290</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB38 ಪ್ರಥ್ವಿಚ್ಯಾ ರಾಷ್ಟ್ರಾಂನೊ</HymnTitle>
+    <FileName>1290.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1291</HymnID>
+    <HymnNo>1291</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB40 ಮ್ಹಜೆಂ ತೊಂಡ್</HymnTitle>
+    <FileName>1291.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1292</HymnID>
+    <HymnNo>1292</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB41 ತಾಚ್ಯಾ ದಿಸಾಂನಿ</HymnTitle>
+    <FileName>1292.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1293</HymnID>
+    <HymnNo>1293</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB42 ಸರ್ವೆಸ್ಪರಾನ್ ದಿಲೊ</HymnTitle>
+    <FileName>1293.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1294</HymnID>
+    <HymnNo>1294</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB43 ತುಜ್ಯಾ ಮುಖಾಮಳಾಚೊ</HymnTitle>
+    <FileName>1294.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1295</HymnID>
+    <HymnNo>1295</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB44 ಉಲ್ಲಾಸಾಚ್ಯಾ ತಾಳ್ಯಾನ್</HymnTitle>
+    <FileName>1295.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1296</HymnID>
+    <HymnNo>1296</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB45 ದಳ್ಭಾರಾಂಚ್ಯಾ  ದೆವಾ</HymnTitle>
+    <FileName>1296.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1297</HymnID>
+    <HymnNo>1297</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB47 ದುಲಬ್ ಆನಿ ಕಣ್ವಾಳೊ</HymnTitle>
+    <FileName>1297.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1298</HymnID>
+    <HymnNo>1298</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB48 ತುಜೊ ದೃಢ್ ಮೋಗ್</HymnTitle>
+    <FileName>1298.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1299</HymnID>
+    <HymnNo>1299</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB49 ಸರ್ವೆಸ್ಪರಾ, ತುಂಚ್</HymnTitle>
+    <FileName>1299.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1300</HymnID>
+    <HymnNo>1300</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB50 ಮ್ಹಜ್ಯಾ ಆಕಾಂತಾಂತ್</HymnTitle>
+    <FileName>1300.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1301</HymnID>
+    <HymnNo>1301</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB51 ಧಿನ್ವಾಸುಂಕ್ ತುಕಾ ಫಾವೊ</HymnTitle>
+    <FileName>1301.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1302</HymnID>
+    <HymnNo>1302</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB52 ಸರ್ವೆಸ್ಪರ್ ರಾಜಾ</HymnTitle>
+    <FileName>1302.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1303</HymnID>
+    <HymnNo>1303</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB53 ಸರ್ವೆಸ್ಪರಾಚೊ ತಾಳೊ</HymnTitle>
+    <FileName>1303.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1304</HymnID>
+    <HymnNo>1304</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB54 ಆಜ್ ಆಮ್ಕಾಂ ಜಲ್ಮಲಾ</HymnTitle>
+    <FileName>1304.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1305</HymnID>
+    <HymnNo>1305</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB55 ಸರ್ವೆಸ್ಪರ್ ದೇವ್</HymnTitle>
+    <FileName>1305.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1306</HymnID>
+    <HymnNo>1306</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB56 ಸರ್ವ್ ಜನಾಂಗಾಂ</HymnTitle>
+    <FileName>1306.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1307</HymnID>
+    <HymnNo>1307</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB57 ಸರ್ವೆಸ್ಪರ್ ದೆವಾಚಿ</HymnTitle>
+    <FileName>1307.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1308</HymnID>
+    <HymnNo>1308</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB58 ಸರ್ವೆಸ್ಪರ್ ದೆವಾನ್</HymnTitle>
+    <FileName>1308.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1309</HymnID>
+    <HymnNo>1309</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB59 ಧಾಡ್ ತುಜ್ಯಾ ಅತ್ಮ್ಯಾಕ್</HymnTitle>
+    <FileName>1309.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1310</HymnID>
+    <HymnNo>1310</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB61 ತುಜೆ ಪರ್ಜೆಚಿ ದಯಾ</HymnTitle>
+    <FileName>1310.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1311</HymnID>
+    <HymnNo>1311</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB62 ಮೋಗ್ ಸರ್ವೆಸ್ಪರಾಚೊ</HymnTitle>
+    <FileName>1311.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1312</HymnID>
+    <HymnNo>1312</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB63 ಊಠ್ ಅತ್ಮ್ಯಾ</HymnTitle>
+    <FileName>1312.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1313</HymnID>
+    <HymnNo>1313</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB64 ತುಂ ಮೆಲ್ಕಿಸೆದೆಕಾ ಪರಿಂ</HymnTitle>
+    <FileName>1313.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1314</HymnID>
+    <HymnNo>1314</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB65 ನಿತಿವಂತಾಂಕ್ ಕಾಳೊಕಾಂತ್</HymnTitle>
+    <FileName>1314.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1315</HymnID>
+    <HymnNo>1315</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB66 ಸರ್ವೆಸ್ಪರಾಕ್ ಹರ್ಸಿಯಾ</HymnTitle>
+    <FileName>1315.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1316</HymnID>
+    <HymnNo>1316</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB67 ಆಮ್ಕಾಂ ನ್ಹಯ್ ಸರ್ವೆಸ್ಪರಾ</HymnTitle>
+    <FileName>1316.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1317</HymnID>
+    <HymnNo>1317</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB68 ಜಿವಂತಾಂಚ್ಯಾ ಗಾಂವಾಂತ್</HymnTitle>
+    <FileName>1317.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1318</HymnID>
+    <HymnNo>1318</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB69 ಜಿವಂತಾಂಚ್ಯಾ ಗಾಂವಾಂತ್</HymnTitle>
+    <FileName>1318.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1319</HymnID>
+    <HymnNo>1319</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB70 ಸಗ್ಳ್ಯಾ ಸಂಸಾರಾರ್</HymnTitle>
+    <FileName>1319.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1320</HymnID>
+    <HymnNo>1320</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB71 ಸರ್ವೆಸ್ಪರ್ ದೆವಾಕ್ ಆಜ್ ಧಿನ್ವಾಸುನ್ ಗಾವ್ಯಾಂ</HymnTitle>
+    <FileName>1320.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1321</HymnID>
+    <HymnNo>1321</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB72 ಸರ್ವೆಸ್ಪರಾಚೆ ಉಪದೆಸ್</HymnTitle>
+    <FileName>1321.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1322</HymnID>
+    <HymnNo>1322</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB73 ಸರ್ವೆಸ್ಪರಾನ್ ರಚ್ಲಾ</HymnTitle>
+    <FileName>1322.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1323</HymnID>
+    <HymnNo>1323</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB74 ಸರ್ವೆಸ್ಪರಾನ್ ರಚ್ಲಾ</HymnTitle>
+    <FileName>1323.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1324</HymnID>
+    <HymnNo>1324</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB75 ವಚುಂಯಾ’ಮಿ ದೆವಾ ಘರಾ</HymnTitle>
+    <FileName>1324.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1325</HymnID>
+    <HymnNo>1325</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB76 ಕಾಕುಳ್ತ್ ಕರ್ ದೆವಾ</HymnTitle>
+    <FileName>1325.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1326</HymnID>
+    <HymnNo>1326</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB77 ಶಿಕಾರೆಚ್ಯಾ ಪಾಸಾಂತ್ಲೆಂ</HymnTitle>
+    <FileName>1326.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1327</HymnID>
+    <HymnNo>1327</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB79 ಸರ್ವೆಸ್ಪರಾನ್ ಆಮ್ಚೆ ಖಾತಿರ್</HymnTitle>
+    <FileName>1327.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1328</HymnID>
+    <HymnNo>1328</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB80 ಸರ್ವೆಸ್ಪರಾಕ್ ಭಿಯೆವ್ನ್</HymnTitle>
+    <FileName>1328.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1329</HymnID>
+    <HymnNo>1329</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB81 ಸರ್ವೆಸ್ಪರಾ ದೆವಾ ಥಂಯ್</HymnTitle>
+    <FileName>1329.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1330</HymnID>
+    <HymnNo>1330</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB82 ತುಜೆ ಮುಕಾರ್</HymnTitle>
+    <FileName>1330.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1332</HymnID>
+    <HymnNo>1332</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB84 ತುಕಾ ಹಾಂವ್ ವಿಸ್ರನ್</HymnTitle>
+    <FileName>1332.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1333</HymnID>
+    <HymnNo>1333</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB85 ಸಗ್ಳ್ಯಾ ಕಾಳ್ಜಾನ್</HymnTitle>
+    <FileName>1333.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1334</HymnID>
+    <HymnNo>1334</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB87 ದೆವಾ ರಾಯಾ ಮ್ಹಜ್ಯಾ</HymnTitle>
+    <FileName>1334.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1335</HymnID>
+    <HymnNo>1335</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB88 ಯೆ, ಯೆ, ಸೊಮ್ಯಾ</HymnTitle>
+    <FileName>1335.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1336</HymnID>
+    <HymnNo>1336</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB89 ಸರ್ವೆಸ್ಪರಾಕ್ ವಂದಿ</HymnTitle>
+    <FileName>1336.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1337</HymnID>
+    <HymnNo>1337</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB90 ದೆವಾಚೊ ಪವಿತ್ರ್ ಸಬ್ದ್</HymnTitle>
+    <FileName>1337.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1338</HymnID>
+    <HymnNo>1338</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB92 ಆಪ್ಲ್ಯಾ ಮೊಗಾಳ್</HymnTitle>
+    <FileName>1338.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1339</HymnID>
+    <HymnNo>1339</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB93 ಸರ್ವೆಸ್ಪರಾಕ್ ನಾಂವಾಡಾ</HymnTitle>
+    <FileName>1339.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1340</HymnID>
+    <HymnNo>1340</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB94 ಸರ್ವೆಸ್ಪರ್ ದೆವಾಚಿ</HymnTitle>
+    <FileName>1340.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1341</HymnID>
+    <HymnNo>1341</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB95 ಸರ್ವೆಸ್ಪರಾ ಥಂಯ್ (1 ಸಾಮ್ವೆಲ್ 2:1;4-8)</HymnTitle>
+    <FileName>1341.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1342</HymnID>
+    <HymnNo>1342</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB96 ಮಹಿಮೆವಂತ್  ನಾಂವ್</HymnTitle>
+    <FileName>1342.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1343</HymnID>
+    <HymnNo>1343</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB97 ಅಧಿಕ್ ವರ್ತೊ (ಜುಡಿತ್ 15:99; 13:18-20)</HymnTitle>
+    <FileName>1343.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1344</HymnID>
+    <HymnNo>1344</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB98 ಸೊಡ್ವಣೆಚೆ ಝರಿಂತ್ಲೆಂ (ಇಸಾ. 12:2-3; 5-6)</HymnTitle>
+    <FileName>1344.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1345</HymnID>
+    <HymnNo>1345</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB99 ಮಾನ್ ಆನಿ ಹೊಗ್ಳಿಕ್ (ದಾನಿಯೆಲ್ 3)</HymnTitle>
+    <FileName>1345.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1346</HymnID>
+    <HymnNo>1346</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB100 ಮ್ಹಜೊ ಅತ್ಮೊ (ಲೂಕ್ 1:46-54)</HymnTitle>
+    <FileName>1346.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1347</HymnID>
+    <HymnNo>1347</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB102 ಜಶೆಂ ನಿತಳ್ ಉದ್ಕಾ ಝರಿಕ್</HymnTitle>
+    <FileName>1347.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1348</HymnID>
+    <HymnNo>1348</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB103 ತುಜ್ಯಾ ತಂಬಾ ಭಿತರ್</HymnTitle>
+    <FileName>1348.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1349</HymnID>
+    <HymnNo>1349</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB104 ಸಾಂಬಾಳ್ ಮ್ಹಾಕಾ</HymnTitle>
+    <FileName>1349.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1350</HymnID>
+    <HymnNo>1350</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB105 ಸೊಡ್ವಣ್ದಾರಾಚ್ಯಾ ಝರಿಂ ಥಾವ್ನ್</HymnTitle>
+    <FileName>1350.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1351</HymnID>
+    <HymnNo>1351</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB106 ಸೊಮ್ಯಾ ತುಜೆ ಲಾಗಿಂ</HymnTitle>
+    <FileName>1351.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1352</HymnID>
+    <HymnNo>1352</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB107 ಸೊಮಿಯಾಕ್ ಗಾವ್ಯಾಂ (ನಿರ್ಗಮನ್ 15)</HymnTitle>
+    <FileName>1352.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1353</HymnID>
+    <HymnNo>1353</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB108 ಜಶೆಂ ಮೆರುಂ ನಿತಳ್ ಝರಿಕ್</HymnTitle>
+    <FileName>1353.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1354</HymnID>
+    <HymnNo>1354</HymnNo>
+    <HymnTypeID>63</HymnTypeID>
+    <HymnTitle>B1 ಆಲ್ಲೆಲೂಯಾ – ಉತರ್ ತುಜೆಂ</HymnTitle>
+    <FileName>1354.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1355</HymnID>
+    <HymnNo>1355</HymnNo>
+    <HymnTypeID>63</HymnTypeID>
+    <HymnTitle>B2 ಆಲ್ಲೆಲೂಯಾ – ಉತರ್ ತುಜೆಂ</HymnTitle>
+    <FileName>1355.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1356</HymnID>
+    <HymnNo>1356</HymnNo>
+    <HymnTypeID>63</HymnTypeID>
+    <HymnTitle>B4 ಆಲ್ಲೆಲೂ ಆಲ್ಲೆಲೂಯಾ - ದೀಸ್ ಹೊ ಆಯ್ಚೊ</HymnTitle>
+    <FileName>1356.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1357</HymnID>
+    <HymnNo>1357</HymnNo>
+    <HymnTypeID>63</HymnTypeID>
+    <HymnTitle>B5 ಆಲ್ಲೆಲೂಯಾ - ದೀಸ್ ಹೊ ಆಯ್ಚೊ</HymnTitle>
+    <FileName>1357.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1358</HymnID>
+    <HymnNo>1358</HymnNo>
+    <HymnTypeID>63</HymnTypeID>
+    <HymnTitle>B6 ಆಲ್ಲೆಲೂಯಾ - ದೀಸ್ ಹೊ ಆಯ್ಚೊ</HymnTitle>
+    <FileName>1358.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1359</HymnID>
+    <HymnNo>1359</HymnNo>
+    <HymnTypeID>63</HymnTypeID>
+    <HymnTitle>B7 ಆಲ್ಲೆಲೂಯಾ - ಸಗ್ಳಿಂ ಗಾವ್ಯಾಂ</HymnTitle>
+    <FileName>1359.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1360</HymnID>
+    <HymnNo>1360</HymnNo>
+    <HymnTypeID>63</HymnTypeID>
+    <HymnTitle>B8 ಆಲ್ಲೆಲೂಯಾ - ಸಮೆಸ್ತ್ ರಾಶ್ಟ್ರಾಂ</HymnTitle>
+    <FileName>1360.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1362</HymnID>
+    <HymnNo>1362</HymnNo>
+    <HymnTypeID>63</HymnTypeID>
+    <HymnTitle>B10 ಸರ್ವೆಸ್ಪರಾಕ್ ಜೈ ಜೈ, _ ಸರ್ವ್ ಲೊಕಾಂನೊ    </HymnTitle>
+    <FileName>1362.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1363</HymnID>
+    <HymnNo>1363</HymnNo>
+    <HymnTypeID>63</HymnTypeID>
+    <HymnTitle>B11 ಆಲ್ಲೆಲೂಯಾ – ಉತರ್ ತುಜೆಂ</HymnTitle>
+    <FileName>1363.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1364</HymnID>
+    <HymnNo>1364</HymnNo>
+    <HymnTypeID>63</HymnTypeID>
+    <HymnTitle>B12 ಆಲ್ಲೆಲೂಯಾ – ಸಬ್ದ್ ತುಜೊ</HymnTitle>
+    <FileName>1364.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1365</HymnID>
+    <HymnNo>1365</HymnNo>
+    <HymnTypeID>63</HymnTypeID>
+    <HymnTitle>B13 ಆಲ್ಲೆಲೂಯಾ, ಆಲ್ಲೆಲೂಯಾ</HymnTitle>
+    <FileName>1365.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1366</HymnID>
+    <HymnNo>1366</HymnNo>
+    <HymnTypeID>63</HymnTypeID>
+    <HymnTitle>B14 ಆಲ್ಲೆಲೂ ಕ್ರಿಸ್ತಾಕ್ ಜೈ ಜೈ!</HymnTitle>
+    <FileName>1366.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1367</HymnID>
+    <HymnNo>1367</HymnNo>
+    <HymnTypeID>63</HymnTypeID>
+    <HymnTitle>B15 ಜೈ ಜೈ ಜೈ ಜೈ ಜೈ ಧನ್ಯಾ</HymnTitle>
+    <FileName>1367.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1368</HymnID>
+    <HymnNo>1368</HymnNo>
+    <HymnTypeID>63</HymnTypeID>
+    <HymnTitle>B16 ಸರ್ವೆಸ್ಪರಾಕ್ ಜೈ ಜೈ!</HymnTitle>
+    <FileName>1368.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1369</HymnID>
+    <HymnNo>1369</HymnNo>
+    <HymnTypeID>63</HymnTypeID>
+    <HymnTitle>B17 ಸರ್ವೆಸ್ಪರಾಕ್ ಜೈ ಜೈ!</HymnTitle>
+    <FileName>1369.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1370</HymnID>
+    <HymnNo>1370</HymnNo>
+    <HymnTypeID>63</HymnTypeID>
+    <HymnTitle>B18 ಆಲ್ಲೆಲೂಯಾ</HymnTitle>
+    <FileName>1370.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1371</HymnID>
+    <HymnNo>1371</HymnNo>
+    <HymnTypeID>63</HymnTypeID>
+    <HymnTitle>B19 ಆಲ್ಲೆಲೂ ಆಲ್ಲೆಲೂಯಾ</HymnTitle>
+    <FileName>1371.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1372</HymnID>
+    <HymnNo>1372</HymnNo>
+    <HymnTypeID>63</HymnTypeID>
+    <HymnTitle>B20 ಸರ್ವೆಸ್ಪರಾಕ್ ಜೈ ಜೈ ಆಲ್ಲೆಲೂಯಾ</HymnTitle>
+    <FileName>1372.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1373</HymnID>
+    <HymnNo>1373</HymnNo>
+    <HymnTypeID>63</HymnTypeID>
+    <HymnTitle>B21 ವಂದನ್ ತುಕಾ (ಪ್ರಾಚಿತ್ ಕಾಳಾರ್)</HymnTitle>
+    <FileName>1373.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1374</HymnID>
+    <HymnNo>1374</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C1 ಆಯ್ಲ್ಯಾಂವ್ ಆಮಿ</HymnTitle>
+    <FileName>1374.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1375</HymnID>
+    <HymnNo>1375</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C2 ಆಲ್ತಾರಾ ಲಾಗಿಂ ಜಮ್ಲ್ಯಾಂವ್</HymnTitle>
+    <FileName>1375.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1377</HymnID>
+    <HymnNo>1377</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C3 ಉಂಡೊ ವಾಯ್ನ್ ಬಾಪಾ ದಿತಾಂವ್</HymnTitle>
+    <FileName>1377.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1378</HymnID>
+    <HymnNo>1378</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C4 ಉಂಡೊ ವಾಯ್ನ್ ಹಾಡ್ನ್</HymnTitle>
+    <FileName>1378.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1379</HymnID>
+    <HymnNo>1379</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C5 ಉಂಡ್ಯಾ ವಾಯ್ನಾ ಸವೆಂ</HymnTitle>
+    <FileName>1379.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1380</HymnID>
+    <HymnNo>1380</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C6 ಉಂಡ್ಯಾ ಸಂಗಿಂ</HymnTitle>
+    <FileName>1380.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1381</HymnID>
+    <HymnNo>1381</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C7 ಒಪ್ಸಿತಾಂವ್ ಬಾಪಾ</HymnTitle>
+    <FileName>1381.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1382</HymnID>
+    <HymnNo>1382</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C8 ಕಾಣಿಕ್ ಹಾಡುನ್</HymnTitle>
+    <FileName>1382.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1383</HymnID>
+    <HymnNo>1383</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C9 ಕಾಣಿಕೊ ಘೆವುನ್ ಆಮಿ ಆಯ್ಲ್ಯಾಂವ್</HymnTitle>
+    <FileName>1383.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1384</HymnID>
+    <HymnNo>1384</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C10 ಕಾಣ್ಘೆ, ಸೊಮ್ಯಾ ಕಾಣಿಕೊ</HymnTitle>
+    <FileName>1384.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1385</HymnID>
+    <HymnNo>1385</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C11 ಕಿತೆಂ ದೀಂವ್ ಆಮಿ ತುಕಾ</HymnTitle>
+    <FileName>1385.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1386</HymnID>
+    <HymnNo>1386</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C12 ಘೆ ಉಂಡೊ ಸೊಮ್ಯಾ</HymnTitle>
+    <FileName>1386.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1387</HymnID>
+    <HymnNo>1387</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C13 ತನ್ ಆಮ್ಚೆಂ ಒಪ್ಸಿತಾಂವ್, ಬಾಪಾ</HymnTitle>
+    <FileName>1387.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1388</HymnID>
+    <HymnNo>1388</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C14 ಭೆಟಯ್ತಾಂವ್ ಬಾಪಾ</HymnTitle>
+    <FileName>1388.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1389</HymnID>
+    <HymnNo>1389</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C15 ಯಾಜಕಾ ಸಾಂಗಾತಾ</HymnTitle>
+    <FileName>1389.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1390</HymnID>
+    <HymnNo>1390</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C16 ಸರ್ವಸ್ವ್ ಬಾಪಾ</HymnTitle>
+    <FileName>1390.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1391</HymnID>
+    <HymnNo>1391</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C17 ಸ್ವೀಕಾರ್ ಕರ್ ಏ ಬಾಪಾ</HymnTitle>
+    <FileName>1391.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1392</HymnID>
+    <HymnNo>1392</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C18 ಹಾಡುನ್ ಆಯ್ಲ್ಯಾಂವ್ ಬಾಪಾ</HymnTitle>
+    <FileName>1392.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1393</HymnID>
+    <HymnNo>1393</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C19 ಅರ್ಗಾಂ ಬಲಿದಾನ್ ಬಾಪಾ</HymnTitle>
+    <FileName>1393.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1394</HymnID>
+    <HymnNo>1394</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C20 ಅಬ್ಬಾ ಬಾಪಾ</HymnTitle>
+    <FileName>1394.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1395</HymnID>
+    <HymnNo>1395</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C21 ಉಂಡೊ ಆನಿ ವಾಯ್ನ್</HymnTitle>
+    <FileName>1395.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1396</HymnID>
+    <HymnNo>1396</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C22 ಕಾಣಿಕೊ ಏ ಬಾಪಾ</HymnTitle>
+    <FileName>1396.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1397</HymnID>
+    <HymnNo>1397</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C23 ಕಾಣಿಕೊ ಬಾಪಾ</HymnTitle>
+    <FileName>1397.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1398</HymnID>
+    <HymnNo>1398</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C24 ಕಾಣಿಕೊ ಹಾಡ್ನ್</HymnTitle>
+    <FileName>1398.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1399</HymnID>
+    <HymnNo>1399</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C25 ಕಾಣ್ಘೆ ಬಾಪಾ ಹ್ಯೊ ಕಾಣಿಕೊ</HymnTitle>
+    <FileName>1399.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1400</HymnID>
+    <HymnNo>1400</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C26 ಗೊಂವಾಚೊ ಉಂಡೊ</HymnTitle>
+    <FileName>1400.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1401</HymnID>
+    <HymnNo>1401</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C27 ಘೆವ್ನ್ ದುರ್ಬಳ್</HymnTitle>
+    <FileName>1401.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1402</HymnID>
+    <HymnNo>1402</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C28 ಘೆ ಸೊಮ್ಯಾ ಕಾಳಿಜ್ ಹೆಂ ಮ್ಹಜೆಂ</HymnTitle>
+    <FileName>1402.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1403</HymnID>
+    <HymnNo>1403</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C32 ಮ್ಹಾಕಾಚ್ ಒಪುನ್ ದಿತಾಂ</HymnTitle>
+    <FileName>1403.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1404</HymnID>
+    <HymnNo>1404</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C36 ಮೊಲಾದಿಕ್ ವಜ್ರಾಂ’ನಿ ಮೊತಿಯಾಂ</HymnTitle>
+    <FileName>1404.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1405</HymnID>
+    <HymnNo>1405</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C38 ಸಂತೊಸ್ಭರಿತ್ ಆಯ್ಚ್ಯಾ</HymnTitle>
+    <FileName>1405.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1406</HymnID>
+    <HymnNo>1406</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C40 ಸ್ವೀಕಾರ್ ಕರ್ ಬಾಪಾ</HymnTitle>
+    <FileName>1406.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1407</HymnID>
+    <HymnNo>1407</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C41 ಹೊ ಉಂಡೊ ದಾಕಾಂ ಸೊರೊ</HymnTitle>
+    <FileName>1407.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1408</HymnID>
+    <HymnNo>1408</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C42 ಕಾಣಿಕ್ ಆಮ್ಚಿ</HymnTitle>
+    <FileName>1408.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1409</HymnID>
+    <HymnNo>1409</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C43 ಕಾಣಿಕೊ ಘೆವುನ್</HymnTitle>
+    <FileName>1409.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1410</HymnID>
+    <HymnNo>1410</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C44 ಘೆವ್ನ್ ಆಯ್ಲ್ಯಾಂವ್ ಕಾಣಿಕೊ</HymnTitle>
+    <FileName>1410.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1411</HymnID>
+    <HymnNo>1411</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C45 ದೀಂವ್ ಕಿತೆಂ ಸೊಮ್ಯಾ</HymnTitle>
+    <FileName>1411.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1412</HymnID>
+    <HymnNo>1412</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C46 ದುರ್ಬಳಿ ಆಮ್ಚಿ ಜಿಣಿ</HymnTitle>
+    <FileName>1412.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1413</HymnID>
+    <HymnNo>1413</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C47 ಬಾಪಾ ಹಾಡುನ್ ಆಯ್ಲ್ಯಾಂವ್</HymnTitle>
+    <FileName>1413.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1414</HymnID>
+    <HymnNo>1414</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C48 ಭೆಟಯ್ತಾಂವ್ ಹಿ ಕಾಣಿಕ್</HymnTitle>
+    <FileName>1414.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1415</HymnID>
+    <HymnNo>1415</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C49 ಉಂಡೊ ಆನಿ ವಾಯ್ನ್</HymnTitle>
+    <FileName>1415.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1416</HymnID>
+    <HymnNo>1416</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C50 ಗೊಂವಾಚೊ ಉಂಡೊ</HymnTitle>
+    <FileName>1416.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1417</HymnID>
+    <HymnNo>1417</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C51 ಒಪುನ್ ಘೆ ಬಾಪಾ</HymnTitle>
+    <FileName>1417.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1418</HymnID>
+    <HymnNo>1418</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C52 ಉಂಡೊ ಗೊಂವಾಚೊ</HymnTitle>
+    <FileName>1418.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1419</HymnID>
+    <HymnNo>1419</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C53 ಘೆ ಬಾಪಾ</HymnTitle>
+    <FileName>1419.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1420</HymnID>
+    <HymnNo>1420</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C56 ಬಾಪಾ ಕಾಣಿಕ್ ಭೆಟಯ್ತಾಂವ್</HymnTitle>
+    <FileName>1420.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1421</HymnID>
+    <HymnNo>1421</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C57 ದೆಣೆಂ ಉಂಡ್ಯಾ ವಾಯ್ನಾಚೆಂ</HymnTitle>
+    <FileName>1421.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1422</HymnID>
+    <HymnNo>1422</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C58 ಉಂಡ್ಯಾ ವಾಯ್ನಾ ಸಂಗಿಂ</HymnTitle>
+    <FileName>1422.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1423</HymnID>
+    <HymnNo>1423</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C60 ವೆದಿ ಸರ್ಶಿಂ ಬಾಪಾ ಯೆತಾಂವ್</HymnTitle>
+    <FileName>1423.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1424</HymnID>
+    <HymnNo>1424</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C61 ಜೀವನ್ ಮ್ಹಜೆಂ ಸೊಮಿಯಾ</HymnTitle>
+    <FileName>1424.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1425</HymnID>
+    <HymnNo>1425</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C62 ಅರ್ಪುಚ್ಯಾಂಕ್ ತುಕಾ</HymnTitle>
+    <FileName>1425.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1426</HymnID>
+    <HymnNo>1426</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C63 ಘೆ ಬಾಪಾ ತುಂ</HymnTitle>
+    <FileName>1426.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1427</HymnID>
+    <HymnNo>1427</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C64 ತುಕಾ ದಿಂವ್ ಕಿತೆಂ</HymnTitle>
+    <FileName>1427.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1428</HymnID>
+    <HymnNo>1428</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D1 ಆಶೆತಾ ಕಾಳಿಜ್</HymnTitle>
+    <FileName>1428.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1429</HymnID>
+    <HymnNo>1429</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D2 ಕಾಳ್ಜಾ ದಾರಾರ್</HymnTitle>
+    <FileName>1429.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1430</HymnID>
+    <HymnNo>1430</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D3 ಕಾಳ್ಜಾದಾರ್ ಕೊಣ್ ಬಡಯ್ತಾ</HymnTitle>
+    <FileName>1430.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1431</HymnID>
+    <HymnNo>1431</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D4 ಕಾಳ್ಜಾಂತ್ ಮ್ಹಜ್ಯಾ ಯೆ ಸೊಮಿಯಾ</HymnTitle>
+    <FileName>1431.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1432</HymnID>
+    <HymnNo>1432</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D5 ಕ್ರಿಸ್ತಾಚ್ಯಾ ಜೆವ್ಣಾಂತ್</HymnTitle>
+    <FileName>1432.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1433</HymnID>
+    <HymnNo>1433</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D6 ಕ್ರಿಸ್ತಾಚೊ ಮೋಗ್</HymnTitle>
+    <FileName>1433.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1434</HymnID>
+    <HymnNo>1434</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D7 ಗೊವ್ಳ್ಯಾ ಬರ್‍ಯಾ</HymnTitle>
+    <FileName>1434.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1435</HymnID>
+    <HymnNo>1435</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D8 ಜಿವ್ಯಾ ದೆವಾಕ್ ಹಾಂವ್ ಸೆವ್ತಾಂ</HymnTitle>
+    <FileName>1435.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1436</HymnID>
+    <HymnNo>1436</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D9 ಜೆಜು, ಜೆಜು ತುಂ</HymnTitle>
+    <FileName>1436.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1437</HymnID>
+    <HymnNo>1437</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D10 ಜೆಜುನ್ ಆಪ್ಲ್ಯಾ ಶಿಸಾಂಚೊ</HymnTitle>
+    <FileName>1437.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1438</HymnID>
+    <HymnNo>1438</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D11 ಜೆವ್ಣಾಚೆ ವೆಳಿಂ</HymnTitle>
+    <FileName>1438.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1439</HymnID>
+    <HymnNo>1439</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D12 ತುಕಾ ಸಗ್ಳೊಚ್ ಆಮ್ಕಾಂ ದಿಲೊಯ್</HymnTitle>
+    <FileName>1439.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1440</HymnID>
+    <HymnNo>1440</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D14 ತುಂಚ್ ಸೊಮ್ಯಾ ಭರ್ವಸೊ</HymnTitle>
+    <FileName>1440.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1441</HymnID>
+    <HymnNo>1441</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D13 ತುಂಚ್ ಮ್ಹಜೊ ರಚ್ನಾರ್</HymnTitle>
+    <FileName>1441.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1442</HymnID>
+    <HymnNo>1442</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D15 ನವೊ ಉಪದೆಸ್ ಹಾಂವ್</HymnTitle>
+    <FileName>1442.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1443</HymnID>
+    <HymnNo>1443</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D16 ಪವಿತ್ರ್ ಜೆವಣ್ ಸರ್ಗಿಂಚೆಂ</HymnTitle>
+    <FileName>1443.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1444</HymnID>
+    <HymnNo>1444</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D17 ಮ್ಹಜ್ಯಾ ಲ್ಹಾನಾ ಭಾವ್ಡಾಂಕ್</HymnTitle>
+    <FileName>1444.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1445</HymnID>
+    <HymnNo>1445</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D19 ಮ್ಹಜೆಂ ಮಾಸ್ ಖರೆಂ ಖಾಣ್</HymnTitle>
+    <FileName>1445.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1446</HymnID>
+    <HymnNo>1446</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D18 ಮ್ಹಜೊ ರಕ್ಷಕ್ ತುಂ</HymnTitle>
+    <FileName>1446.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1447</HymnID>
+    <HymnNo>1447</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D20 ಯೆ ಜೆಜು ಮ್ಹಜೆ ಥಂಯ್</HymnTitle>
+    <FileName>1447.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1448</HymnID>
+    <HymnNo>1448</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D21 ಯೆ ಮ್ಹಜ್ಯಾ ಕಾಳ್ಜಾಂತ್</HymnTitle>
+    <FileName>1448.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1449</HymnID>
+    <HymnNo>1449</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D22 ಯೆ ಸೊಮಿಯಾ ಕಾಳ್ಜಾಂತ್</HymnTitle>
+    <FileName>1449.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1450</HymnID>
+    <HymnNo>1450</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D23 ಯೆ ಸೊಮಿಯಾ</HymnTitle>
+    <FileName>1450.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1451</HymnID>
+    <HymnNo>1451</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D24 ರಾಕ್ ತುಂ ಧನ್ಯಾ</HymnTitle>
+    <FileName>1451.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1452</HymnID>
+    <HymnNo>1452</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D25 ಸ್ವಾಗತ್ ಜೆಜು, ಸ್ವಾಗತ್</HymnTitle>
+    <FileName>1452.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1453</HymnID>
+    <HymnNo>1453</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D26 ಸೊಮ್ಯಾ ತುಕಾ ಸೆಂವ್ಕ್ ಅತ್ರೆಗ್ತಾಂ</HymnTitle>
+    <FileName>1453.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1454</HymnID>
+    <HymnNo>1454</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D28 ಸೊಮ್ಯಾ ಮ್ಹಜ್ಯಾ ದೆವಾ</HymnTitle>
+    <FileName>1454.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1455</HymnID>
+    <HymnNo>1455</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D27 ಸೊಮ್ಯಾ ಭುಕೆನ್ ಆಮಿ ಆಯ್ಲ್ಯಾಂವ್</HymnTitle>
+    <FileName>1455.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1456</HymnID>
+    <HymnNo>1456</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D29 ಹಾ ಭಾಗಿ ಕಿತ್ಲೆಂ!</HymnTitle>
+    <FileName>1456.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1457</HymnID>
+    <HymnNo>1457</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D30 ಅತ್ಮೊ ಮ್ಹಜೊ</HymnTitle>
+    <FileName>1457.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1458</HymnID>
+    <HymnNo>1458</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D31 ಆಶೆತಾಂ ಲಾಲೆತಾಂ</HymnTitle>
+    <FileName>1458.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1459</HymnID>
+    <HymnNo>1459</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D32 ಉಂಡ್ಯಾ ರುಪಾರ್ ಯೆವುನ್</HymnTitle>
+    <FileName>1459.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1460</HymnID>
+    <HymnNo>1460</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D33 ಕಾಳ್ಜಾಂತ್ ಮ್ಹಜ್ಯಾ ಸೊಮ್ಯಾ</HymnTitle>
+    <FileName>1460.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1461</HymnID>
+    <HymnNo>1461</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D34 ಕಾಳಿಜ್ ಮ್ಹಜೆಂ</HymnTitle>
+    <FileName>1461.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1462</HymnID>
+    <HymnNo>1462</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D35 ಕಾಳಿಜ್ ಮ್ಹಜೆಂ ಅತ್ರೆಗ್ತಾಂ</HymnTitle>
+    <FileName>1462.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1463</HymnID>
+    <HymnNo>1463</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D36 ಕಾಳಿಜ್ ಮ್ಹಜೆಂ ಲಾಲೆತಾ</HymnTitle>
+    <FileName>1463.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1464</HymnID>
+    <HymnNo>1464</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D37 ಕಾಳಿಜ್ ಮ್ಹಜೆಂ ಸೊಮಿಯಾ</HymnTitle>
+    <FileName>1464.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1465</HymnID>
+    <HymnNo>1465</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D38 ಜಿವಿತಾ ಕುಂವರಾ</HymnTitle>
+    <FileName>1465.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1466</HymnID>
+    <HymnNo>1466</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D39 ಜೆಜು ತುಕಾ ರಾಕೊನ್ ಆಸಾಂ</HymnTitle>
+    <FileName>1466.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1467</HymnID>
+    <HymnNo>1467</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D40 ಜೆಜು ತುಜ್ಯಾ ಜೆವ್ಣಾಕ್</HymnTitle>
+    <FileName>1467.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1468</HymnID>
+    <HymnNo>1468</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D41 ತುಕಾ ಸೆಂವ್ಚ್ಯಾಕ್</HymnTitle>
+    <FileName>1468.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1469</HymnID>
+    <HymnNo>1469</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D42 ನವ್ಯಾ ಸಂಸಾರಾ ಪಾಸತ್</HymnTitle>
+    <FileName>1469.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1470</HymnID>
+    <HymnNo>1470</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D43 ನಿಮಾಣ್ಯಾ ತ್ಯಾ ಬ್ರೆಸ್ತಾರಾ ರಾತಿ</HymnTitle>
+    <FileName>1470.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1471</HymnID>
+    <HymnNo>1471</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D44 ಭಾಗ್ ಮ್ಹಜೆಂ ಕೆದೆಂ ವರ್ತೆಂ</HymnTitle>
+    <FileName>1471.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1472</HymnID>
+    <HymnNo>1472</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D45 ಭುಕೆಲ್ಲ್ಯಾಂನೊ ಯೆಯಾ</HymnTitle>
+    <FileName>1472.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1473</HymnID>
+    <HymnNo>1473</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D46 ಮ್ಹಜ್ಯಾ ಕಾಳ್ಜಾಂತ್ ಸೊಮ್ಯಾ</HymnTitle>
+    <FileName>1473.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1474</HymnID>
+    <HymnNo>1474</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D47 ಮ್ಹಜ್ಯಾ ಮೊಗಾನ್ ಭರೊನ್</HymnTitle>
+    <FileName>1474.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1475</HymnID>
+    <HymnNo>1475</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D48 ಯೆ ಜೆಜೂ ಯೆ ತುಂ</HymnTitle>
+    <FileName>1475.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1476</HymnID>
+    <HymnNo>1476</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D49 ಯೆ ಜೆಜು ಯೆ ಕಾಳ್ಜಾಂತ್ ಮ್ಹಜ್ಯಾ</HymnTitle>
+    <FileName>1476.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1477</HymnID>
+    <HymnNo>1477</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D50 ಯೆ ಸೊಮಿಯಾ</HymnTitle>
+    <FileName>1477.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1478</HymnID>
+    <HymnNo>1478</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D51 ಯೇ ಸೊಮಿಯಾ ಕಾಳ್ಜಾಂತ್</HymnTitle>
+    <FileName>1478.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1479</HymnID>
+    <HymnNo>1479</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D52 ರಾಕೊನ್ ಆಸಾಯ್</HymnTitle>
+    <FileName>1479.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1480</HymnID>
+    <HymnNo>1480</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D53 ಸ್ವೀಕಾರ್ ಕೆಲಿಂ ತರ್ ತುಮಿ</HymnTitle>
+    <FileName>1480.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1481</HymnID>
+    <HymnNo>1481</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D54 ಸೆಂವ್ಕ್ ತುಕಾ ಜೆಜು</HymnTitle>
+    <FileName>1481.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1482</HymnID>
+    <HymnNo>1482</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D55 ಸೊಮ್ಯಾಚ್ಯಾ ಜೆವ್ಣಾಕ್</HymnTitle>
+    <FileName>1482.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1483</HymnID>
+    <HymnNo>1483</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D56 ಸೊಮ್ಯಾ ಜೆಜು</HymnTitle>
+    <FileName>1483.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1484</HymnID>
+    <HymnNo>1484</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D57 ಸೊಮ್ಯಾ ತುಕಾ ಹಾಂವ್ ಅತ್ರೆಗ್ತಾಂ</HymnTitle>
+    <FileName>1484.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1485</HymnID>
+    <HymnNo>1485</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D59 ಸೊಮಿ ಮ್ಹಜೊ ಗೊವ್ಳಿ</HymnTitle>
+    <FileName>1485.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1486</HymnID>
+    <HymnNo>1486</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D60 ಹಾಂವ್ ಭುಕೆಲ್ಲೊಂ</HymnTitle>
+    <FileName>1486.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1487</HymnID>
+    <HymnNo>1487</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D58 ಸೊಮಿ ಮ್ಹಜೊ ಗೊವ್ಳಿ</HymnTitle>
+    <FileName>1487.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1488</HymnID>
+    <HymnNo>1488</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D61 ಜೆಜು ಮೊಗಾಳ್ ಜೆಜು ದಯಾಳ್</HymnTitle>
+    <FileName>1488.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1489</HymnID>
+    <HymnNo>1489</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D62 ಯೆ ಮ್ಹಜ್ಯಾ ಕಾಳ್ಜಾಂತ್</HymnTitle>
+    <FileName>1489.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1490</HymnID>
+    <HymnNo>1490</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D63 ಆಮಿ ತುಜಿ ಯಾತ್ರಿಕ್ ಪರ್ಜಾ</HymnTitle>
+    <FileName>1490.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1491</HymnID>
+    <HymnNo>1491</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D64 ಸೊಮ್ಯಾ ದಿ ಖಾಣ್</HymnTitle>
+    <FileName>1491.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1492</HymnID>
+    <HymnNo>1492</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D65 ಸೊಮ್ಯಾ ಜೆಜು ಮ್ಹಜ್ಯಾ</HymnTitle>
+    <FileName>1492.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1493</HymnID>
+    <HymnNo>1493</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D66 ಉಂಡೊ ಜಿವಿತಾಚೊ</HymnTitle>
+    <FileName>1493.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1494</HymnID>
+    <HymnNo>1494</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D67 ಜೆಜು ತುಂ ಯೆ ಕಾಳ್ಜಾಂತ್</HymnTitle>
+    <FileName>1494.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1495</HymnID>
+    <HymnNo>1495</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D68 ಸೊಮಿ ಮ್ಹಜೊ ಗೊವ್ಳಿ</HymnTitle>
+    <FileName>1495.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1496</HymnID>
+    <HymnNo>1496</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D69 ಮೊಗಾಳ್ ಶಾಂತಿ ಸಾಗೊರಾ</HymnTitle>
+    <FileName>1496.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1497</HymnID>
+    <HymnNo>1497</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D70 ಕಾಳ್ಜಾಂತ್ ಮ್ಹಜ್ಯಾ</HymnTitle>
+    <FileName>1497.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1498</HymnID>
+    <HymnNo>1498</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D71 ಸೊಮಿ ಮ್ಹಜೊ ಗೊವ್ಳಿ</HymnTitle>
+    <FileName>1498.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1499</HymnID>
+    <HymnNo>1499</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D72 ಯೆ ಸೊಮ್ಯಾ ಜೆಜು</HymnTitle>
+    <FileName>1499.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1500</HymnID>
+    <HymnNo>1500</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D73 ಜೆಜು ಮ್ಹಜ್ಯಾ ದೆವಾ</HymnTitle>
+    <FileName>1500.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1501</HymnID>
+    <HymnNo>1501</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D74 ಜೆಜು ಯೆ ತುಂ ಮ್ಹಜೆ ಥಂಯ್</HymnTitle>
+    <FileName>1501.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1502</HymnID>
+    <HymnNo>1502</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D75 ಜೆಜು ಹಾಂವ್ ತುಕಾ ಕಾಳ್ಜಾಂತ್ ಘೆತಾಂ</HymnTitle>
+    <FileName>1502.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1503</HymnID>
+    <HymnNo>1503</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D76 ಜೆಜು ಯೆ ತುಂ ಮ್ಹಜೆ ಥಂಯ್</HymnTitle>
+    <FileName>1503.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1504</HymnID>
+    <HymnNo>1504</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D77 ರಾಕೊನ್ ರಾವ್ಲಾಂ ಸೊಮಿಯಾ</HymnTitle>
+    <FileName>1504.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1505</HymnID>
+    <HymnNo>1505</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D78 ಸೊಮ್ಯಾ ಜೆಜು</HymnTitle>
+    <FileName>1505.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1506</HymnID>
+    <HymnNo>1506</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D79 ಸೊಮ್ಯಾ ಜೆಜು ಮ್ಹಜ್ಯಾ ಕಾಳ್ಜಾಂತ್</HymnTitle>
+    <FileName>1506.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1507</HymnID>
+    <HymnNo>1507</HymnNo>
+    <HymnTypeID>65</HymnTypeID>
+    <HymnTitle>D80 ಸೊಮ್ಯಾ ಜೆಜು ರಾಯಾ</HymnTitle>
+    <FileName>1507.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1508</HymnID>
+    <HymnNo>1508</HymnNo>
+    <HymnTypeID>89</HymnTypeID>
+    <HymnTitle>T1 ಇಗರ್ಜ್ ಕಥೊಲಿಕ್  ರೊಮಾಚಿ</HymnTitle>
+    <FileName>1508.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1509</HymnID>
+    <HymnNo>1509</HymnNo>
+    <HymnTypeID>89</HymnTypeID>
+    <HymnTitle>T2 ತುಕಾ’ಮಿ ನಾಂವಾಡ್ತಾಂವ್</HymnTitle>
+    <FileName>1509.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1510</HymnID>
+    <HymnNo>1510</HymnNo>
+    <HymnTypeID>89</HymnTypeID>
+    <HymnTitle>T3 ಯೆಯಾ ಸಮೆಸ್ತ್ ಒಟ್ಟುಕ್ ಮೆಳೊನ್</HymnTitle>
+    <FileName>1510.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1511</HymnID>
+    <HymnNo>1511</HymnNo>
+    <HymnTypeID>89</HymnTypeID>
+    <HymnTitle>T4 ರಾಕ್ ದೆವಾ, ಸರ್ವೆಸ್ಪರಾ, </HymnTitle>
+    <FileName>1511.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1512</HymnID>
+    <HymnNo>1512</HymnNo>
+    <HymnTypeID>89</HymnTypeID>
+    <HymnTitle>T5 ವ್ಹಡ್ ಆವ್ಕ್ ಆಮ್ಚ್ಯಾ ಪಾಪಾ ಸಾಯ್ಬಾಕ್</HymnTitle>
+    <FileName>1512.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1513</HymnID>
+    <HymnNo>1513</HymnNo>
+    <HymnTypeID>89</HymnTypeID>
+    <HymnTitle>T6 ಹಿಸೊಪಾನ್ ಮ್ಹಜೆರ್</HymnTitle>
+    <FileName>1513.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1514</HymnID>
+    <HymnNo>1514</HymnNo>
+    <HymnTypeID>90</HymnTypeID>
+    <HymnTitle>ಕಾಳ್ಜಾಂತ್ ಮ್ಹಜ್ಯಾ</HymnTitle>
+    <FileName>1514.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1515</HymnID>
+    <HymnNo>1515</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E1 ಅತ್ಮ್ಯಾಂತ್ ಆಯ್ಲಾ ಸೊಮಿ</HymnTitle>
+    <FileName>1515.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1516</HymnID>
+    <HymnNo>1516</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E2 ಅರ್ಗಾಂ ತುಕಾ</HymnTitle>
+    <FileName>1516.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1517</HymnID>
+    <HymnNo>1517</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E3 ಅರ್ಗಾಂ ತುಕಾ</HymnTitle>
+    <FileName>1517.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1518</HymnID>
+    <HymnNo>1518</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E4 ಅರ್ಗಾಂ ತುಕಾ ಸೊಮ್ಯಾ ಸಾಸ್ಣಾ ಸಾಸ್ಣಾಕ್</HymnTitle>
+    <FileName>1518.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1519</HymnID>
+    <HymnNo>1519</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E5 ಅರ್ಗಾಂ ದಿತಾಂ ಹಾಂವ್ ಸರ್ವೆಸ್ಪರಾ</HymnTitle>
+    <FileName>1519.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1520</HymnID>
+    <HymnNo>1520</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E6 ಉಪ್ಕಾರ್ ತುಜೊ ಬಾವುಡ್ತಾಂವ್</HymnTitle>
+    <FileName>1520.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1521</HymnID>
+    <HymnNo>1521</HymnNo>
+    <HymnTypeID>85</HymnTypeID>
+    <HymnTitle>Q1 ಹೊಕ್ಲೆ ನೊವ್ರ್ಯಾ ಸಂಗಿಂ</HymnTitle>
+    <FileName>1521.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1522</HymnID>
+    <HymnNo>1522</HymnNo>
+    <HymnTypeID>85</HymnTypeID>
+    <HymnTitle>Q2 ವ್ಹಡ್ ಸಂತೊಸಾಚೊ ದೀಸ್</HymnTitle>
+    <FileName>1522.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1523</HymnID>
+    <HymnNo>1523</HymnNo>
+    <HymnTypeID>85</HymnTypeID>
+    <HymnTitle>Q3 ಇಸ್ರಾಯೆಲಾಚೊ ದೇವ್ ಎಕ್ವಟಾಂವ್</HymnTitle>
+    <FileName>1523.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1524</HymnID>
+    <HymnNo>1524</HymnNo>
+    <HymnTypeID>85</HymnTypeID>
+    <HymnTitle>Q4 ಹೊರೆತ್ ಹೊಕ್ಲೆ ಸವೆಂ</HymnTitle>
+    <FileName>1524.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1526</HymnID>
+    <HymnNo>1526</HymnNo>
+    <HymnTypeID>85</HymnTypeID>
+    <HymnTitle>Q7 ಮೋಗ್ ಹೊ</HymnTitle>
+    <FileName>1526.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1527</HymnID>
+    <HymnNo>1527</HymnNo>
+    <HymnTypeID>85</HymnTypeID>
+    <HymnTitle>Q8 ಕಾನಾ ಶ್ಹರಾಂತ್</HymnTitle>
+    <FileName>1527.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1528</HymnID>
+    <HymnNo>1528</HymnNo>
+    <HymnTypeID>85</HymnTypeID>
+    <HymnTitle>Q9 ಪವಿತ್ರ್ ಲಗ್ನಾಬಾಂಧಾ ದ್ವಾರಿಂ</HymnTitle>
+    <FileName>1528.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1529</HymnID>
+    <HymnNo>1529</HymnNo>
+    <HymnTypeID>85</HymnTypeID>
+    <HymnTitle>Q10 ಹೊರೆತ್ ನೊವ್ರ್ಯಾ ಸಾಂಗಾತಾ</HymnTitle>
+    <FileName>1529.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1530</HymnID>
+    <HymnNo>1530</HymnNo>
+    <HymnTypeID>71</HymnTypeID>
+    <HymnTitle>I1 ಉಠಾ ಉಠಾ ಪ್ರಾಣಿಯಾ</HymnTitle>
+    <FileName>1530.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1531</HymnID>
+    <HymnNo>1531</HymnNo>
+    <HymnTypeID>71</HymnTypeID>
+    <HymnTitle>I2 ಜೆಜು ಸೊಮ್ಯಾ</HymnTitle>
+    <FileName>1531.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1532</HymnID>
+    <HymnNo>1532</HymnNo>
+    <HymnTypeID>71</HymnTypeID>
+    <HymnTitle>I3 ಜೆಜುನ್ ಆಮ್ಚೆ ಪಾಸುನ್</HymnTitle>
+    <FileName>1532.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1533</HymnID>
+    <HymnNo>1533</HymnNo>
+    <HymnTypeID>71</HymnTypeID>
+    <HymnTitle>I4 ದೆವಾ ದಯಾಳ್, ಕಾಕುಳ್ತಿಚ್ಯಾ</HymnTitle>
+    <FileName>1533.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1534</HymnID>
+    <HymnNo>1534</HymnNo>
+    <HymnTypeID>71</HymnTypeID>
+    <HymnTitle>I5 ಪಾಪಿಯಾ ನಿರ್ಭಾಗ್ಯಾ</HymnTitle>
+    <FileName>1534.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1535</HymnID>
+    <HymnNo>1535</HymnNo>
+    <HymnTypeID>71</HymnTypeID>
+    <HymnTitle>I6 ಭೊಗಸ್ ಸೊಮ್ಯಾ</HymnTitle>
+    <FileName>1535.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1536</HymnID>
+    <HymnNo>1536</HymnNo>
+    <HymnTypeID>71</HymnTypeID>
+    <HymnTitle>I7 ರಡುಂಕ್ ಮೆಳ್ಯಾಂ ಆಮಿ ಸಮೆಸ್ತ್</HymnTitle>
+    <FileName>1536.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1537</HymnID>
+    <HymnNo>1537</HymnNo>
+    <HymnTypeID>71</HymnTypeID>
+    <HymnTitle>I8 ಹಾಂವ್ ಆಯ್ಲಾಂ ತುಜೆಶಿಂ</HymnTitle>
+    <FileName>1537.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1538</HymnID>
+    <HymnNo>1538</HymnNo>
+    <HymnTypeID>71</HymnTypeID>
+    <HymnTitle>I9 ಮ್ಹಜೊ ಶಿಸ್ ಜಾಂವ್ಚ್ಯಾಕ್</HymnTitle>
+    <FileName>1538.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1539</HymnID>
+    <HymnNo>1539</HymnNo>
+    <HymnTypeID>71</HymnTypeID>
+    <HymnTitle>I10 ಅಚಲ್ ಹಾಂವ್ ಸರ್ವೆಸ್ಪರಾ</HymnTitle>
+    <FileName>1539.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1540</HymnID>
+    <HymnNo>1540</HymnNo>
+    <HymnTypeID>71</HymnTypeID>
+    <HymnTitle>I11 ನಿತಳ್ ಮ್ಹಾಕಾ ಕರ್</HymnTitle>
+    <FileName>1540.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1541</HymnID>
+    <HymnNo>1541</HymnNo>
+    <HymnTypeID>71</HymnTypeID>
+    <HymnTitle>I12 ಖುರ್ಸಾ ಮುಳಿಂ ಏ ಸೊಮ್ಯಾ</HymnTitle>
+    <FileName>1541.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1542</HymnID>
+    <HymnNo>1542</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O1 ಆಸುಂಪ್ಸಾಂವ್ ದೀಸ್</HymnTitle>
+    <FileName>1542.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1543</HymnID>
+    <HymnNo>1543</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O2 ಆಂಕ್ವಾರ್ ಮರಿಯೆ ಆಮ್ಚೆ ಮಾಯೆ</HymnTitle>
+    <FileName>1543.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1544</HymnID>
+    <HymnNo>1544</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O3 ಆಂಕ್ವಾರ್ ಸಾಯ್ಬಿಣಿ</HymnTitle>
+    <FileName>1544.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1545</HymnID>
+    <HymnNo>1545</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O4 ಆಂಕ್ವಾರ್ ಸಾಯ್ಬಿಣಿ, ತುಂ ಆಮ್ಚಿ ರಾಣಿ</HymnTitle>
+    <FileName>1545.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1546</HymnID>
+    <HymnNo>1546</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O5 ಆಂಕ್ವಾರಿ ಭಿತರಿ ಸೊಭಾಗಿಣಿ</HymnTitle>
+    <FileName>1546.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1547</HymnID>
+    <HymnNo>1547</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O6 ಆಂಕ್ವಾರ್ ಮರಿಯೆ</HymnTitle>
+    <FileName>1547.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1548</HymnID>
+    <HymnNo>1548</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O7 ಆಯ್ಚ್ಯಾ ದಿಸಾ ಮಾಯೆ ಭೋವ್ ಸೊಭಿತ್</HymnTitle>
+    <FileName>1548.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1549</HymnID>
+    <HymnNo>1549</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O8 ಏ ಮರಿಯೆ ಆಮ್ಚೆ ಮಾಯೆ</HymnTitle>
+    <FileName>1549.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1550</HymnID>
+    <HymnNo>1550</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O9 ಮರಿಯೆ ಸದಾಂಚ್</HymnTitle>
+    <FileName>1550.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1551</HymnID>
+    <HymnNo>1551</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O10 ಮರಿಯೆ, ಮರಿಯೆ     </HymnTitle>
+    <FileName>1551.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1552</HymnID>
+    <HymnNo>1552</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O11 ಮರಿಯೆ, ತುಜ್ಯಾ ರುಪ್ಣ್ಯಾರ್</HymnTitle>
+    <FileName>1552.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1553</HymnID>
+    <HymnNo>1553</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O12 ಏ ಮರಿಯೆ, ತುಜೆಂ ನಾಂವ್</HymnTitle>
+    <FileName>1553.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1554</HymnID>
+    <HymnNo>1554</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O13 ಕುಪಾಂತ್ ದೆಂವುನ್ ಆಯ್ಲಿಯ್</HymnTitle>
+    <FileName>1554.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1555</HymnID>
+    <HymnNo>1555</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O14 ಖುರ್ಸಾಮುಳಿಂ</HymnTitle>
+    <FileName>1555.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1556</HymnID>
+    <HymnNo>1556</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O15 ಜಶೆಂ ಫುಲ್</HymnTitle>
+    <FileName>1556.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1557</HymnID>
+    <HymnNo>1557</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O16 ತುಂ ಕಾಳ್ಜಾಚಾ ಗೊಂಡ್ಯಾ</HymnTitle>
+    <FileName>1557.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1558</HymnID>
+    <HymnNo>1558</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O17 ತುಂ ಸರ್ವ್ ಸೊಭಿತ್</HymnTitle>
+    <FileName>1558.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1559</HymnID>
+    <HymnNo>1559</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O18 ತುಂ ಮಾನ್ ಆಮ್ಚೊ</HymnTitle>
+    <FileName>1559.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1560</HymnID>
+    <HymnNo>1560</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O19 ತುಜಿ ಸಸಾಯ್ ಮಾಗ್ತಾಂವ್</HymnTitle>
+    <FileName>1560.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1561</HymnID>
+    <HymnNo>1561</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O20 ದುಖೆಸ್ತಿ ಮಾಯೆ, ಮರಿಯೆ</HymnTitle>
+    <FileName>1561.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1562</HymnID>
+    <HymnNo>1562</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O21 ದೇವ್ ಆಮ್ಕಾಂ ಜಾಯ್</HymnTitle>
+    <FileName>1562.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1563</HymnID>
+    <HymnNo>1563</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O22 ನಮಾನ್ ಆಂಕ್ವಾರ್ ಮರಿಯೆ</HymnTitle>
+    <FileName>1563.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1564</HymnID>
+    <HymnNo>1564</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O23 ನಮಾನ್ ತುಕಾ ಸರ್ಗಾ ರಾಣಿಯೆ</HymnTitle>
+    <FileName>1564.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1565</HymnID>
+    <HymnNo>1565</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O24 ನಮಾನ್ ದರ್ಯಾಸುಕ್ರಾ</HymnTitle>
+    <FileName>1565.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1566</HymnID>
+    <HymnNo>1566</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O25 ನಮಾನ್ ರಾಣಿಯೆ</HymnTitle>
+    <FileName>1566.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1567</HymnID>
+    <HymnNo>1567</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O26 ಆಜ್ ಜಲ್ಮಲಿ, ಮರಿ ಜಲ್ಮಲಿ</HymnTitle>
+    <FileName>1567.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1568</HymnID>
+    <HymnNo>1568</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O27 ನವಾಲ್ ವೊರ್ತಾವಲಾಂ</HymnTitle>
+    <FileName>1568.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1569</HymnID>
+    <HymnNo>1569</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O28 ನಿತಳ್ ಆಂಕ್ವಾರಿ</HymnTitle>
+    <FileName>1569.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1570</HymnID>
+    <HymnNo>1570</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O29 ನೆಕೆತ್ರ್ ಫಾಂತ್ಯಾಚೆಂ</HymnTitle>
+    <FileName>1570.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1571</HymnID>
+    <HymnNo>1571</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O30 ಪರ್ಜಾ ಹಿ ಭೊಂವ್ತಣಿಂ</HymnTitle>
+    <FileName>1571.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1572</HymnID>
+    <HymnNo>1572</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O31 ಫಾತಿಮಾಚೆ ಶಾಂತಿ ರಾಣಿಯೆ</HymnTitle>
+    <FileName>1572.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1573</HymnID>
+    <HymnNo>1573</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O32 ಭಡ್ವ್ಯಾ ಸಂಗಿಂ</HymnTitle>
+    <FileName>1573.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1574</HymnID>
+    <HymnNo>1574</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O33 ಮರಿಯೆ ಕ್ರಿಸ್ತಾ ಮಾಯೆ</HymnTitle>
+    <FileName>1574.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1575</HymnID>
+    <HymnNo>1575</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O34 ಮರಿಯೆ, ತುಂ ರೊಜಾರಿ ರಾಣಿಯೆ   </HymnTitle>
+    <FileName>1575.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1576</HymnID>
+    <HymnNo>1576</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O35 ಸಕ್ಕಡ್ ಸಾಂಗಾತಾ ಮೆಳ್ಯಾಂ</HymnTitle>
+    <FileName>1576.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1577</HymnID>
+    <HymnNo>1577</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O36 ಮರಿಯೆಕ್ ಹೊಗಳ್ಸಿಯಾಂ</HymnTitle>
+    <FileName>1577.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1578</HymnID>
+    <HymnNo>1578</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O37 ನಮಾನ್ ತುಕಾ</HymnTitle>
+    <FileName>1578.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1579</HymnID>
+    <HymnNo>1579</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O38 ಮಾಯೆ ಮ್ಹಜೆ</HymnTitle>
+    <FileName>1579.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1580</HymnID>
+    <HymnNo>1580</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O39 ಯೆಯಾ ತರ್ ಆಂಜಾಂನೊ</HymnTitle>
+    <FileName>1580.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1581</HymnID>
+    <HymnNo>1581</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O40 ವಿಸ್ತಾರ್ ದರ್ಯಾ ಸಾರ್ಕೆಂ</HymnTitle>
+    <FileName>1581.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1582</HymnID>
+    <HymnNo>1582</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O41 ಸಗ್ಳ್ಯಾ ಸಕ್ತಿನ್ ತುಜ್ಯಾ</HymnTitle>
+    <FileName>1582.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1583</HymnID>
+    <HymnNo>1583</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O43 ಸದೆಂವ್ ಮಾಯೆ ನಮಾನ್ ತುಕಾ</HymnTitle>
+    <FileName>1583.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1584</HymnID>
+    <HymnNo>1584</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O44 ಸುರ್ಯಾ ಪರಿಂ</HymnTitle>
+    <FileName>1584.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1585</HymnID>
+    <HymnNo>1585</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O45 ಹಾ! ದಿಷ್ಟ್ ಸೊಭಿತ್</HymnTitle>
+    <FileName>1585.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1586</HymnID>
+    <HymnNo>1586</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O46 ಕೊಸೆಸಾಂವ್ ಸಾಯ್ಬಿಣಿ</HymnTitle>
+    <FileName>1586.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1587</HymnID>
+    <HymnNo>1587</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O47 ಗೀತ್ ಗಾವುನ್ ಹರ್ಸಿಯಾಂ</HymnTitle>
+    <FileName>1587.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1588</HymnID>
+    <HymnNo>1588</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O50 ನಮೋ ಏ ಮರಿಯೆ</HymnTitle>
+    <FileName>1588.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1589</HymnID>
+    <HymnNo>1589</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O51 ಬಾಳಕ್ ಮರಿಯೆಕ್</HymnTitle>
+    <FileName>1589.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1590</HymnID>
+    <HymnNo>1590</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O52 ಮಾಯ್, ಮ್ಹಜೆ ಮಾಯ್</HymnTitle>
+    <FileName>1590.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1591</HymnID>
+    <HymnNo>1591</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O53 ಒಫಿರ್ ಭಾಂಗಾರಾನ್ ನ್ಹೆಸೊನ್</HymnTitle>
+    <FileName>1591.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1592</HymnID>
+    <HymnNo>1592</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O54 ವಂದಿತಾಂವ್, ವರ್ಣಿತಾಂವ್"</HymnTitle>
+    <FileName>1592.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1593</HymnID>
+    <HymnNo>1593</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O55 ಹರ್ಸಿತಾಂವ್ ತುಕಾ ಮರಿಯೆ</HymnTitle>
+    <FileName>1593.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1594</HymnID>
+    <HymnNo>1594</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O56 ಹಾಂವ್ ಸೊಮ್ಯಾಚಿ ದಾಸಿ</HymnTitle>
+    <FileName>1594.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1595</HymnID>
+    <HymnNo>1595</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O57 ನಮಾನ್ ರೊಜಾರ್ ಮಾಯೆ</HymnTitle>
+    <FileName>1595.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1596</HymnID>
+    <HymnNo>1596</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O58 ಆಂಕ್ವಾರ್ ಸಾಯ್ಬಿಣಿ</HymnTitle>
+    <FileName>1596.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1597</HymnID>
+    <HymnNo>1597</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O59 ನಮೋ ನಮೋ ಮರಿಯೆ</HymnTitle>
+    <FileName>1597.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1598</HymnID>
+    <HymnNo>1598</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O60 ಆಂಕ್ವಾರ್ ಮರಿಯೆ</HymnTitle>
+    <FileName>1598.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1599</HymnID>
+    <HymnNo>1599</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O61 ನಮೋ ನಮೋ ಮರಿಯೆ</HymnTitle>
+    <FileName>1599.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1600</HymnID>
+    <HymnNo>1600</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E7 ಕಾಳ್ಜಾಂತ್ ಥಾವ್ನ್ ಸೊಮ್ಯಾ</HymnTitle>
+    <FileName>1600.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1601</HymnID>
+    <HymnNo>1601</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E8 ಕಾಳ್ಜಾಂತ್ ಥಾವ್ನ್ ಜೆಜು ತುಕಾ</HymnTitle>
+    <FileName>1601.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1602</HymnID>
+    <HymnNo>1602</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E9 ಕಾಳಿಜ್ ಉಮಾಳ್ತಾ</HymnTitle>
+    <FileName>1602.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1603</HymnID>
+    <HymnNo>1603</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E10 ಜೆಜು ಮೊಗಾಳಾ</HymnTitle>
+    <FileName>1603.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1604</HymnID>
+    <HymnNo>1604</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E11 ಜೆಜು ಸ್ವಾಧಿಕ್ ಮೊಗಾ</HymnTitle>
+    <FileName>1604.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1605</HymnID>
+    <HymnNo>1605</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E12 ಜೆಜು ಅರ್ಗಾಂ ದಿತಾಂ</HymnTitle>
+    <FileName>1605.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1606</HymnID>
+    <HymnNo>1606</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E13 ತುಜೆ ಖುಶೆಕ್ ಸೊಮ್ಯಾ ಹಾಂವ್</HymnTitle>
+    <FileName>1606.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1607</HymnID>
+    <HymnNo>1607</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E14 ಭಾವಾಂ ಭಯ್ಣಿಂ ಸಾಂಗಾತಾ</HymnTitle>
+    <FileName>1607.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1608</HymnID>
+    <HymnNo>1608</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E15 ಸಂತೊಸ್ ಸೊಮ್ಯಾ</HymnTitle>
+    <FileName>1608.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1609</HymnID>
+    <HymnNo>1609</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E16 ಸೊಮ್ಯಾ ಗೊವ್ಳ್ಯಾ ಮ್ಹಜ್ಯಾ</HymnTitle>
+    <FileName>1609.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1610</HymnID>
+    <HymnNo>1610</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E17 ಅರ್ಗಾಂ ಸೊಮ್ಯಾ</HymnTitle>
+    <FileName>1610.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1611</HymnID>
+    <HymnNo>1611</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E18 ಉಪ್ಕಾರಿ ಕಾಳ್ಜಾನ್</HymnTitle>
+    <FileName>1611.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1612</HymnID>
+    <HymnNo>1612</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E19 ಕಾಳ್ಜಾಂತ್ ಥಾವ್ನ್ ದಿನ್ವಾಸ್ತಾಂವ್</HymnTitle>
+    <FileName>1612.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1613</HymnID>
+    <HymnNo>1613</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E20 ಕಾಳ್ಜಾಂತ್ ಆಸ್ಚ್ಯಾ ಸ್ವಾಧಿಕ್ ಜೆಜು</HymnTitle>
+    <FileName>1613.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1614</HymnID>
+    <HymnNo>1614</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E21 ಕಾಳಿಜ್ ಮ್ಹಜೆಂ ಭರ್ಲಾಂ</HymnTitle>
+    <FileName>1614.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1615</HymnID>
+    <HymnNo>1615</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E22 ಮೊಗಾನ್ ಮ್ಹಜ್ಯಾ ಆಯ್ಲಾಯ್</HymnTitle>
+    <FileName>1615.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1616</HymnID>
+    <HymnNo>1616</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E23 ಮ್ಹಜ್ಯಾ ಕಾಳ್ಜಾಂತ್ ಆಯ್ಲಾಯ್</HymnTitle>
+    <FileName>1616.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1617</HymnID>
+    <HymnNo>1617</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E24 ಸೊಮ್ಯಾ ಕಾಳ್ಜಾಂತ್ ಮ್ಹಜ್ಯಾ ಆಯ್ಲಾಯ್</HymnTitle>
+    <FileName>1617.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1618</HymnID>
+    <HymnNo>1618</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E25 ಸೊಮ್ಯಾ ಜೆಜು ಮ್ಹಜ್ಯಾ</HymnTitle>
+    <FileName>1618.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1619</HymnID>
+    <HymnNo>1619</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E26 ಸೊಮಿಯಾ, ಸೊಮಿಯಾ</HymnTitle>
+    <FileName>1619.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1620</HymnID>
+    <HymnNo>1620</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E27 ತುಜೊ ಮೋಗ್ ನಿಯಾಳ್ತಾಂ</HymnTitle>
+    <FileName>1620.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1622</HymnID>
+    <HymnNo>1622</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E29 ಅರ್ಗಾಂ ತುಕಾ</HymnTitle>
+    <FileName>1622.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1623</HymnID>
+    <HymnNo>1623</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E30 ಅರ್ಗಾಂ ಜೆಜು ರಾಯಾ</HymnTitle>
+    <FileName>1623.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1624</HymnID>
+    <HymnNo>1624</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E31 ಅರ್ಗಾಂ ಸೊಮ್ಯಾ ದಿತಾಂ</HymnTitle>
+    <FileName>1624.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1625</HymnID>
+    <HymnNo>1625</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E32 ತುಜ್ಯಾ ಪವಿತ್ರ್ ಜೆವ್ಣಾನ್</HymnTitle>
+    <FileName>1625.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1626</HymnID>
+    <HymnNo>1626</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E33 ಉಪ್ಕಾರ್ ಆಟಯ್ತಾಂವ್</HymnTitle>
+    <FileName>1626.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1627</HymnID>
+    <HymnNo>1627</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E34 ಸೊಮ್ಯಾ ತುಜೊ ಉಪ್ಕಾರ್</HymnTitle>
+    <FileName>1627.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1628</HymnID>
+    <HymnNo>1628</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E35 ಅರ್ಗಾಂ ಜೆಜು ತುಕಾ</HymnTitle>
+    <FileName>1628.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1629</HymnID>
+    <HymnNo>1629</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E36 ಅರ್ಗಾಂ ದಿತಾಂ ತುಕಾ</HymnTitle>
+    <FileName>1629.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1630</HymnID>
+    <HymnNo>1630</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E37 ಅರ್ಗಾಂ ತುಕಾ</HymnTitle>
+    <FileName>1630.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1632</HymnID>
+    <HymnNo>1632</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಅರ್ಗಾಂ ದಿತಲೊಂ</HymnTitle>
+    <FileName>1632.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1633</HymnID>
+    <HymnNo>1633</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಗೀತ್ ಗಾವ್ನ್ ಸ್ತುತಿ ಕರ್ಯಾಂ</HymnTitle>
+    <FileName>1633.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1634</HymnID>
+    <HymnNo>1634</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಜೈ ಜೈ ಜೈ ಜೈ ಧನ್ಯಾ ದೆವಾಕ್</HymnTitle>
+    <FileName>1634.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1635</HymnID>
+    <HymnNo>1635</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಎಕ್ಟಾಂಯ್ ಆಮಿ ಜಾವ್ಯಾಂ</HymnTitle>
+    <FileName>1635.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1636</HymnID>
+    <HymnNo>1636</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ತಾಳ್ಯೊ ಪೆಟುನ್ ಗಾವುಯಾಂ</HymnTitle>
+    <FileName>1636.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1637</HymnID>
+    <HymnNo>1637</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ತುಕಾ ಸೊಮ್ಯಾ ಹಾಂವ್ ಅರ್ಗಾಂ ದಿತಾಂ</HymnTitle>
+    <FileName>1637.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1638</HymnID>
+    <HymnNo>1638</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ದೇವ್ ಅಬ್ರಾಹಾಮಾಚೊ</HymnTitle>
+    <FileName>1638.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1639</HymnID>
+    <HymnNo>1639</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಮೋಗ್ ಕರ್ತಾ ಸದಾಂಕಾಳ್</HymnTitle>
+    <FileName>1639.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1640</HymnID>
+    <HymnNo>1640</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಯೆಯಾ ಸರ್ವ್ ಮೆಳುಯಾಂ</HymnTitle>
+    <FileName>1640.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1641</HymnID>
+    <HymnNo>1641</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಯೆಯಾ ಸ್ತುತಿ ಕರಾ</HymnTitle>
+    <FileName>1641.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1642</HymnID>
+    <HymnNo>1642</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ವಿಚಿತ್ರ್ ಮೋಗ್ ತೊ ದೆವಾಚೊ</HymnTitle>
+    <FileName>1642.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1643</HymnID>
+    <HymnNo>1643</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಸಂತೊಸ್ ಉಬ್ಜಾತಾ</HymnTitle>
+    <FileName>1643.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1644</HymnID>
+    <HymnNo>1644</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಸಂತೊಸ್ ಪಾವಾ ಉಲ್ಲಾಸ್ ಪಾವಾ</HymnTitle>
+    <FileName>1644.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1645</HymnID>
+    <HymnNo>1645</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಸಾಂಗಾತಾ’ಮಿ ಮೆಳ್ಯಾಂ</HymnTitle>
+    <FileName>1645.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1646</HymnID>
+    <HymnNo>1646</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಸ್ತುತಿ ಕರಾ</HymnTitle>
+    <FileName>1646.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1647</HymnID>
+    <HymnNo>1647</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಹರ್ಸುನ್ ಸೊಮ್ಯಾಕ್</HymnTitle>
+    <FileName>1647.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1648</HymnID>
+    <HymnNo>1648</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಹಾತ್ ಮ್ಹಜೆ ಉಬಾರುನ್</HymnTitle>
+    <FileName>1648.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1649</HymnID>
+    <HymnNo>1649</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಹಾಂವ್ ಹೊಗ್ಳಾಪ್ ದಿತಾಂ</HymnTitle>
+    <FileName>1649.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1650</HymnID>
+    <HymnNo>1650</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಹೊಸಾನ್ನಾ ದೆವಾ ಬಾಪಾಕ್</HymnTitle>
+    <FileName>1650.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1651</HymnID>
+    <HymnNo>1651</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಹೊಸಾನ್ನಾ ಸರ್ಗಿಂಚ್ಯಾ ತ್ಯಾ ಅಬ್ಬಾ ಬಾಪಾಕ್</HymnTitle>
+    <FileName>1651.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1652</HymnID>
+    <HymnNo>1652</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಏಕ್‍ಚ್ಚ್ ಏಕ್ ಆಶಾ</HymnTitle>
+    <FileName>1652.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1653</HymnID>
+    <HymnNo>1653</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ತುವೆಂ ಮ್ಹಾಕಾ</HymnTitle>
+    <FileName>1653.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1654</HymnID>
+    <HymnNo>1654</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಜೆಜು ಆಸ್ಚ್ಯಾ ಘರಾಂತ್</HymnTitle>
+    <FileName>1654.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1655</HymnID>
+    <HymnNo>1655</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಆಲ್ಲೆಲೂಯಾ</HymnTitle>
+    <FileName>1655.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1656</HymnID>
+    <HymnNo>1656</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಆಲ್ಲೆಲೂಯಾ</HymnTitle>
+    <FileName>1656.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1657</HymnID>
+    <HymnNo>1657</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ದೇವ್ ಆಮ್ಚೊ ರಚ್ನಾರ್</HymnTitle>
+    <FileName>1657.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1658</HymnID>
+    <HymnNo>1658</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಜೆಜು ಸಗ್ಳ್ಯಾಂಕ್ ಮೊಗಾಚೊ</HymnTitle>
+    <FileName>1658.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1659</HymnID>
+    <HymnNo>1659</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಜೆಜು ತುಂ ಮ್ಹಜೊ ಮೋಗ್</HymnTitle>
+    <FileName>1659.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1660</HymnID>
+    <HymnNo>1660</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ವರ್ತೊ ಆಮ್ಚೊ ದೇವ್</HymnTitle>
+    <FileName>1660.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1661</HymnID>
+    <HymnNo>1661</HymnNo>
+    <HymnTypeID>74</HymnTypeID>
+    <HymnTitle>ಜೆಜು ತುಂ ಮ್ಹಜೊ ರಾಯ್</HymnTitle>
+    <FileName>1661.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1662</HymnID>
+    <HymnNo>1662</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಜೆಜುಚೊ ಪಾಟ್ಲಾವ್ ಕರುಂಕ್</HymnTitle>
+    <FileName>1662.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1663</HymnID>
+    <HymnNo>1663</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ದೀಸ್ ಉದೆಲಾ</HymnTitle>
+    <FileName>1663.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1664</HymnID>
+    <HymnNo>1664</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಜೆಜು ಆಪಯ್ತಾ</HymnTitle>
+    <FileName>1664.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1665</HymnID>
+    <HymnNo>1665</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಹೊ ದೀಸ್</HymnTitle>
+    <FileName>1665.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1666</HymnID>
+    <HymnNo>1666</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಜೆಜು</HymnTitle>
+    <FileName>1666.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1667</HymnID>
+    <HymnNo>1667</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಜೆಜು ಪದ್ವೆದಾರ್</HymnTitle>
+    <FileName>1667.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1668</HymnID>
+    <HymnNo>1668</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಜೆಜು ತುಜೆ ನಾಂವ್ ಮ್ಹಜ್ಯಾ ವೊಂಟಾಚೆರ್</HymnTitle>
+    <FileName>1668.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1669</HymnID>
+    <HymnNo>1669</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಜೆಜುಚ್ಯಾ ನಾಂವಾನ್</HymnTitle>
+    <FileName>1669.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1670</HymnID>
+    <HymnNo>1670</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ತುಜೊ ಹಾಂವ್   ಮೋಗ್ ಕರ್ತಾಂ</HymnTitle>
+    <FileName>1670.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1671</HymnID>
+    <HymnNo>1671</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಮ್ಹಜೆ ಭಿತರ್ ಆಸಾ ದೇವ್</HymnTitle>
+    <FileName>1671.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1672</HymnID>
+    <HymnNo>1672</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಸೊಮ್ಯಾ ತುಕಾ ಅರ್ಗಾಂ ದಿತಾಂ</HymnTitle>
+    <FileName>1672.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1673</HymnID>
+    <HymnNo>1673</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಅರ್ಗಾಂ ತುಕಾ ಆಮ್ಚ್ಯಾ ಬಾಪಾ</HymnTitle>
+    <FileName>1673.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1675</HymnID>
+    <HymnNo>1675</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಅರ್ಗಾಂ ತುಕಾ ಸೊಮಿಯಾ</HymnTitle>
+    <FileName>1675.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1676</HymnID>
+    <HymnNo>1676</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಕ್ರಿಸ್ತಾಚ್ಯಾ ಆತ್ಮ್ಯಾ</HymnTitle>
+    <FileName>1676.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1677</HymnID>
+    <HymnNo>1677</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ತುಕಾ ನಾಂವಾಡ್ತಾಂ ಏ ಸೊಮಿಯಾ</HymnTitle>
+    <FileName>1677.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1679</HymnID>
+    <HymnNo>1679</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ದೆವಾಕ್ ಆಜ್ ಅರ್ಗಾಂ ದಿವ್ಯಾಂ</HymnTitle>
+    <FileName>1679.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1680</HymnID>
+    <HymnNo>1680</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E28 ಸೊಮ್ಯಾ ತುಕಾ ಅರ್ಗಾಂ ದಿತಾಂ</HymnTitle>
+    <FileName>1680.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1697</HymnID>
+    <HymnNo>1697</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಗಿತಾಂ ಗಾವುನ್</HymnTitle>
+    <FileName>1697.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1698</HymnID>
+    <HymnNo>1698</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಗಾವ್ಯಾಂ ಹೊಸಾನ್ನಾ</HymnTitle>
+    <FileName>1698.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1701</HymnID>
+    <HymnNo>1701</HymnNo>
+    <HymnTypeID>77</HymnTypeID>
+    <HymnTitle>ಏ ದೆವಾ ಬಾಪಾ ತುಂ ಸರ್ಗಿಂಚ್ಯಾ</HymnTitle>
+    <FileName>1701.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1702</HymnID>
+    <HymnNo>1702</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಆರಾಧನ್ ಬಾಪಾ</HymnTitle>
+    <FileName>1702.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1703</HymnID>
+    <HymnNo>1703</HymnNo>
+    <HymnTypeID>77</HymnTypeID>
+    <HymnTitle>ತುಂಚ್ ಮ್ಹಜೊ ಅಸ್ರೊ</HymnTitle>
+    <FileName>1703.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1704</HymnID>
+    <HymnNo>1704</HymnNo>
+    <HymnTypeID>77</HymnTypeID>
+    <HymnTitle>M1 ಗುಪಿತ್ ಮ್ಹಜ್ಯಾ ದೆವಾ</HymnTitle>
+    <FileName>1704.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1705</HymnID>
+    <HymnNo>1705</HymnNo>
+    <HymnTypeID>77</HymnTypeID>
+    <HymnTitle>M2 ಜೆಜು ಬರ್‍ಯಾ ಗೊವ್ಳ್ಯಾ</HymnTitle>
+    <FileName>1705.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1708</HymnID>
+    <HymnNo>1708</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಮ್ಹಜ್ಯಾ ದೆವಾ, ತುಂ ಸರ್ವ್ ಬರೊ</HymnTitle>
+    <FileName>1708.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1709</HymnID>
+    <HymnNo>1709</HymnNo>
+    <HymnTypeID>77</HymnTypeID>
+    <HymnTitle>M6 ಸದಾಂ ಜಾಂವ್ ಭಾಗೆವಂತ್</HymnTitle>
+    <FileName>1709.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1711</HymnID>
+    <HymnNo>1711</HymnNo>
+    <HymnTypeID>77</HymnTypeID>
+    <HymnTitle>M7 ಸ್ವಾಧಿಕ್ ಸಾಕ್ರಾಮೆಂತಾ</HymnTitle>
+    <FileName>1711.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1712</HymnID>
+    <HymnNo>1712</HymnNo>
+    <HymnTypeID>77</HymnTypeID>
+    <HymnTitle>M5 ಮ್ಹಜ್ಯಾ ದೆವಾ, ತುಂ ಸರ್ವ್ ಬರೊ</HymnTitle>
+    <FileName>1712.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1714</HymnID>
+    <HymnNo>1714</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಎದ್ಯಾ ವ್ಹಡಾ ಸಾಕ್ರಾಮೆಂತಾಕ್</HymnTitle>
+    <FileName>1714.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1715</HymnID>
+    <HymnNo>1715</HymnNo>
+    <HymnTypeID>77</HymnTypeID>
+    <HymnTitle>M9 ಮ್ಹಜ್ಯಾ ದೆವಾ ಮ್ಹಜ್ಯಾ ಸೊಮ್ಯಾ</HymnTitle>
+    <FileName>1715.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1716</HymnID>
+    <HymnNo>1716</HymnNo>
+    <HymnTypeID>77</HymnTypeID>
+    <HymnTitle>M10 ಆಲ್ತಾರಾರ್ ಆಸ್ಚ್ಯಾ ಜೆಜು</HymnTitle>
+    <FileName>1716.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1718</HymnID>
+    <HymnNo>1718</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>ಉಂಡ್ಯಾ ರುಪಾಖಾಲ್ ಲಿಪೊನ್</HymnTitle>
+    <FileName>1718.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1729</HymnID>
+    <HymnNo>1729</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R1 ಆಯ್ಲ್ಯಾಂವ್ ತುಜ್ಯಾ ದಾರಾರ್</HymnTitle>
+    <FileName>1729.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1730</HymnID>
+    <HymnNo>1730</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R2 ಕಾಳಿಜ್ ಮ್ಹಜೆಂ ಆಶೆತಾಂ</HymnTitle>
+    <FileName>1730.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1731</HymnID>
+    <HymnNo>1731</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R3 ಕಾಳಿಜ್ ಮ್ಹಜೆಂ ಗಾತಾ ಸೊಮ್ಯಾಚೊ ಮೋಗ್</HymnTitle>
+    <FileName>1731.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1732</HymnID>
+    <HymnNo>1732</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R4 ಜೆಜು ಸೊಮಿ</HymnTitle>
+    <FileName>1732.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1733</HymnID>
+    <HymnNo>1733</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R5 ತುಂಚ್ ಸೊಮ್ಯಾ ಮ್ಹಜೊ ಗೊವ್ಳಿ</HymnTitle>
+    <FileName>1733.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1734</HymnID>
+    <HymnNo>1734</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R6 ವಂದನ್ ಜಾಂವ್</HymnTitle>
+    <FileName>1734.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1735</HymnID>
+    <HymnNo>1735</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R7 ತುಜೆ ಲಾಗಿಂ ಆಯ್ಲ್ಯಾಂವ್</HymnTitle>
+    <FileName>1735.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1740</HymnID>
+    <HymnNo>1740</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R12 ತುಜೆ ಥಾವ್ನ್ ಆಯ್ಲೆಂ</HymnTitle>
+    <FileName>1740.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1742</HymnID>
+    <HymnNo>1742</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R9 ಏ ಸೊಮ್ಯಾ, ಏ ಧನ್ಯಾ</HymnTitle>
+    <FileName>1742.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1743</HymnID>
+    <HymnNo>1743</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R11 ಕುರ್ಪೆ ಸಾಗೊರಾ</HymnTitle>
+    <FileName>1743.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1745</HymnID>
+    <HymnNo>1745</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R13 ತುಜೊ ಮೋಗ್ ಕರುಂಕ್</HymnTitle>
+    <FileName>1745.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1746</HymnID>
+    <HymnNo>1746</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R8 ವಂದಿಯಾ ಸೊಮ್ಯಾಕ್</HymnTitle>
+    <FileName>1746.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1748</HymnID>
+    <HymnNo>1748</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R10 ಏ ಸೊಮ್ಯಾ ದೆವಾ</HymnTitle>
+    <FileName>1748.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1752</HymnID>
+    <HymnNo>1752</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R14 ದೀನ್ಪಣಿಂ ಯೆತಾಂ</HymnTitle>
+    <FileName>1752.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1753</HymnID>
+    <HymnNo>1753</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R15 ದರ್ಶನ್ ತುಜೆಂ ಘೆಂವ್ಕ್</HymnTitle>
+    <FileName>1753.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1754</HymnID>
+    <HymnNo>1754</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R19 ಭಕ್ತಿ ಭಾವನಾನ್</HymnTitle>
+    <FileName>1754.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1755</HymnID>
+    <HymnNo>1755</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R21 ವಂದಿಯಾಂ ಕ್ರಿಸ್ತಾಕ್</HymnTitle>
+    <FileName>1755.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1756</HymnID>
+    <HymnNo>1756</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R22 ಹೊ ಸಂಸಾರ್ ತುಕಾ ಸಾಂಡಿತ್ ತರಿ</HymnTitle>
+    <FileName>1756.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1757</HymnID>
+    <HymnNo>1757</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R23 ಸ್ವೀಕಾರ್ ಕರ್</HymnTitle>
+    <FileName>1757.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1758</HymnID>
+    <HymnNo>1758</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>ಸೊಮ್ಯಾ ದಯಾ ದಾಕಯ್</HymnTitle>
+    <FileName>1758.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1759</HymnID>
+    <HymnNo>1759</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>ಸೊಮ್ಯಾಚೆಂ ನಾಂವ್</HymnTitle>
+    <FileName>1759.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1760</HymnID>
+    <HymnNo>1760</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R27 ಜ್ಯೋತಿ ತುಜಿ ಸೊಮ್ಯಾ</HymnTitle>
+    <FileName>1760.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1761</HymnID>
+    <HymnNo>1761</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R28 ತುಂ ವರ್ತೊ ಸೊಮ್ಯಾ</HymnTitle>
+    <FileName>1761.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1762</HymnID>
+    <HymnNo>1762</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R29 ನಾಂವ್ ತುಜೆಂ ಜೆಜು</HymnTitle>
+    <FileName>1762.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1763</HymnID>
+    <HymnNo>1763</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R30 ಪಯ್ಸ್ ಥಾವ್ನ್ ಆಯ್ಲೊಂ</HymnTitle>
+    <FileName>1763.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1764</HymnID>
+    <HymnNo>1764</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R31 ವಿಶ್ವಾಸ್ ಮ್ಹಜೊ ತುಜೆ ಥಂಯ್</HymnTitle>
+    <FileName>1764.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1765</HymnID>
+    <HymnNo>1765</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R32 ಸರ್ಗಿ ಬಂದ್ರಾಕ್</HymnTitle>
+    <FileName>1765.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1766</HymnID>
+    <HymnNo>1766</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R33 ಸರ್ವೆಸ್ಪರಾ ಬಾಪಾ</HymnTitle>
+    <FileName>1766.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1767</HymnID>
+    <HymnNo>1767</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R34 ಸದೆಂವ್ ಜಾಂವ್ ಗಾಂವಾನ್ ಗಾಂವ್</HymnTitle>
+    <FileName>1767.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1768</HymnID>
+    <HymnNo>1768</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R35 ಸ್ವಾಧಿಕ್ ಜೆಜು</HymnTitle>
+    <FileName>1768.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1769</HymnID>
+    <HymnNo>1769</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R36 ಮ್ಹಾಕಾ ಸೊಮ್ಯಾ ಜಲ್ಮಾ’ದಿಂಚ್</HymnTitle>
+    <FileName>1769.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1770</HymnID>
+    <HymnNo>1770</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R37 ನಾಂವ್ ತುಜೆಂ ಗಾಜೊಂ</HymnTitle>
+    <FileName>1770.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1771</HymnID>
+    <HymnNo>1771</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R38 ಮಹಾನ್ ತುಜಿ ಕೀರ್ತ್</HymnTitle>
+    <FileName>1771.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1772</HymnID>
+    <HymnNo>1772</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R40 ಮ್ಹಜೆಂ ಕಾಳಿಜ್ ಗಾಯ್ತಾ</HymnTitle>
+    <FileName>1772.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1773</HymnID>
+    <HymnNo>1773</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R39 ಜ್ಯೋತಿ ಪ್ರಕಾಸ್ತಾ</HymnTitle>
+    <FileName>1773.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1774</HymnID>
+    <HymnNo>1774</HymnNo>
+    <HymnTypeID>73</HymnTypeID>
+    <HymnTitle>K1 ಕ್ರಿಸ್ತ್ ಮೊರ್ನಾಂತ್ಲೊ ಜಿವಂತ್ ಜಾಲಾ</HymnTitle>
+    <FileName>1774.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1775</HymnID>
+    <HymnNo>1775</HymnNo>
+    <HymnTypeID>73</HymnTypeID>
+    <HymnTitle>K2 ದೆಖ್ಲೆಂ ಹಾಂವೆಂ ಉದಕ್</HymnTitle>
+    <FileName>1775.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1776</HymnID>
+    <HymnNo>1776</HymnNo>
+    <HymnTypeID>73</HymnTypeID>
+    <HymnTitle>K3 ಪಾಸ್ಕಾಂಚೆ ತೆ ಬಲಿಯೆಕ್</HymnTitle>
+    <FileName>1776.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1777</HymnID>
+    <HymnNo>1777</HymnNo>
+    <HymnTypeID>73</HymnTypeID>
+    <HymnTitle>K5 ಫಾಂತ್ಯಾ ಪಾರಾರ್ ಉಠೊನ್</HymnTitle>
+    <FileName>1777.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1778</HymnID>
+    <HymnNo>1778</HymnNo>
+    <HymnTypeID>73</HymnTypeID>
+    <HymnTitle>K6 ಆಲ್ಲೆಲೂಯಾ, ಸರ್ವೆಸ್ಪರಾಕ್ ಜೈ!   </HymnTitle>
+    <FileName>1778.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1779</HymnID>
+    <HymnNo>1779</HymnNo>
+    <HymnTypeID>73</HymnTypeID>
+    <HymnTitle>K7 ಆಲ್ಲೆಲೂಯಾ, ಸೊಮಿ ಜಿವಂತ್ ಜಾಲಾ</HymnTitle>
+    <FileName>1779.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1780</HymnID>
+    <HymnNo>1780</HymnNo>
+    <HymnTypeID>73</HymnTypeID>
+    <HymnTitle>K8 ಜೆಜು ಜಿವಂತ್ ಜಾಲಾ</HymnTitle>
+    <FileName>1780.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1781</HymnID>
+    <HymnNo>1781</HymnNo>
+    <HymnTypeID>73</HymnTypeID>
+    <HymnTitle>K9 ಜೈ ಕ್ರಿಸ್ತಾ, ಜೈ ಕ್ರಿಸ್ತಾ</HymnTitle>
+    <FileName>1781.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1782</HymnID>
+    <HymnNo>1782</HymnNo>
+    <HymnTypeID>84</HymnTypeID>
+    <HymnTitle>P1 ಸಾಂತ್ ಆನ್ನಾ ತುಜಿ</HymnTitle>
+    <FileName>1782.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1783</HymnID>
+    <HymnNo>1783</HymnNo>
+    <HymnTypeID>84</HymnTypeID>
+    <HymnTitle>P2 ಭಾಗೆವಂತಾ ಬಾಪಾ ಫ್ರಾಸ್ಕಾ</HymnTitle>
+    <FileName>1783.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1784</HymnID>
+    <HymnNo>1784</HymnNo>
+    <HymnTypeID>84</HymnTypeID>
+    <HymnTitle>P3 ಆಸಿಸಿಚ್ಯಾ ಫ್ರಾಸ್ಕಾ</HymnTitle>
+    <FileName>1784.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1785</HymnID>
+    <HymnNo>1785</HymnNo>
+    <HymnTypeID>84</HymnTypeID>
+    <HymnTitle>P5 ಸಾಂತ್ ಆಂತೊನಿ</HymnTitle>
+    <FileName>1785.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1786</HymnID>
+    <HymnNo>1786</HymnNo>
+    <HymnTypeID>84</HymnTypeID>
+    <HymnTitle>P6 ಸಾಂತ್ ಆಂತೊನಿ ಭಕ್ತಾ</HymnTitle>
+    <FileName>1786.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1787</HymnID>
+    <HymnNo>1787</HymnNo>
+    <HymnTypeID>84</HymnTypeID>
+    <HymnTitle>P8 ಇನಾಸಾ, ಇಶ್ಟಾ ಜೆಜುಚ್ಯಾ</HymnTitle>
+    <FileName>1787.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1788</HymnID>
+    <HymnNo>1788</HymnNo>
+    <HymnTypeID>84</HymnTypeID>
+    <HymnTitle>P9 ಭಾಗೆವಂತ್ ಇನಾಸಾ</HymnTitle>
+    <FileName>1788.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1789</HymnID>
+    <HymnNo>1789</HymnNo>
+    <HymnTypeID>84</HymnTypeID>
+    <HymnTitle>P10 ಏ ಭಾಗೆವಂತಾ ಜುಜೆ</HymnTitle>
+    <FileName>1789.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1790</HymnID>
+    <HymnNo>1790</HymnNo>
+    <HymnTypeID>84</HymnTypeID>
+    <HymnTitle>P11 ಜುಜೆ ಕುರ್ಪಾಳ್</HymnTitle>
+    <FileName>1790.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1791</HymnID>
+    <HymnNo>1791</HymnNo>
+    <HymnTypeID>84</HymnTypeID>
+    <HymnTitle>P12 ಸಾಯ್ಬಾ ಸಾಂ ಜುಜೆ</HymnTitle>
+    <FileName>1791.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1792</HymnID>
+    <HymnNo>1792</HymnNo>
+    <HymnTypeID>84</HymnTypeID>
+    <HymnTitle>P13 ಸಾಂ ಜುಜೆ</HymnTitle>
+    <FileName>1792.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1793</HymnID>
+    <HymnNo>1793</HymnNo>
+    <HymnTypeID>84</HymnTypeID>
+    <HymnTitle>P14 ಭಾಗೆವಂತ್ ಕುಟ್ಮಾ</HymnTitle>
+    <FileName>1793.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1794</HymnID>
+    <HymnNo>1794</HymnNo>
+    <HymnTypeID>84</HymnTypeID>
+    <HymnTitle>P15 ಕಿರ್ತಿವಂತಾ ಆಲ್ತಾರ್ ಭುಗ್ರ್ಯಾ</HymnTitle>
+    <FileName>1794.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1795</HymnID>
+    <HymnNo>1795</HymnNo>
+    <HymnTypeID>84</HymnTypeID>
+    <HymnTitle>P16 ನಿತಳ್ ನಿಸ್ಕಳ್ ಲಿಲ್ಲಿ ಫುಲಾ</HymnTitle>
+    <FileName>1795.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1796</HymnID>
+    <HymnNo>1796</HymnNo>
+    <HymnTypeID>84</HymnTypeID>
+    <HymnTitle>P17 ಏ ತುಂ ಜೆಜುಚ್ಯಾ ತೆರೆಜಾ</HymnTitle>
+    <FileName>1796.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1797</HymnID>
+    <HymnNo>1797</HymnNo>
+    <HymnTypeID>84</HymnTypeID>
+    <HymnTitle>P18 ತುಜ್ಯಾ ಪಾಂಯಾಂಕ್ ಪಡ್ತಾಂವ್</HymnTitle>
+    <FileName>1797.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1798</HymnID>
+    <HymnNo>1798</HymnNo>
+    <HymnTypeID>84</HymnTypeID>
+    <HymnTitle>P19 ಸಾಂ ಸೆಬಸ್ತ್ಯಾಂವ್ ಶಿಪಾಯ್</HymnTitle>
+    <FileName>1798.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1799</HymnID>
+    <HymnNo>1799</HymnNo>
+    <HymnTypeID>84</HymnTypeID>
+    <HymnTitle>P20 ಸಾಂ ಫ್ರಾನ್ಸಿಸ್ ಸಾವೆರಾ</HymnTitle>
+    <FileName>1799.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1800</HymnID>
+    <HymnNo>1800</HymnNo>
+    <HymnTypeID>84</HymnTypeID>
+    <HymnTitle>P21 ಭಾಗೆವಂತ್ ಜುಜೆ ವಾಜ್ ಬಾಪಾ</HymnTitle>
+    <FileName>1800.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1801</HymnID>
+    <HymnNo>1801</HymnNo>
+    <HymnTypeID>84</HymnTypeID>
+    <HymnTitle>P22 ಭಾಗೆವಂತ್ ಮದರ್ ತೆರೆಜಾ</HymnTitle>
+    <FileName>1801.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1802</HymnID>
+    <HymnNo>1802</HymnNo>
+    <HymnTypeID>84</HymnTypeID>
+    <HymnTitle>P23 ಮದರ್ ತೆರೆಜಾ</HymnTitle>
+    <FileName>1802.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1803</HymnID>
+    <HymnNo>1803</HymnNo>
+    <HymnTypeID>84</HymnTypeID>
+    <HymnTitle>P24 ಭಾಗೆವಂತ್ ಮದರ್ ತೆರೆಜಾ</HymnTitle>
+    <FileName>1803.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1804</HymnID>
+    <HymnNo>1804</HymnNo>
+    <HymnTypeID>84</HymnTypeID>
+    <HymnTitle>P25 ರಾಕಣ್ ಭಡ್ವ್ಯಾ</HymnTitle>
+    <FileName>1804.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1805</HymnID>
+    <HymnNo>1805</HymnNo>
+    <HymnTypeID>84</HymnTypeID>
+    <HymnTitle>P26 ಭಾಗೆವಂತ್ ಲೊರೆಸಾ</HymnTitle>
+    <FileName>1805.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1806</HymnID>
+    <HymnNo>1806</HymnNo>
+    <HymnTypeID>86</HymnTypeID>
+    <HymnTitle>S3 ಸರ್ವೆಸ್ಪರ್ ಮ್ಹಜೊ ಗೊವ್ಳಿ</HymnTitle>
+    <FileName>1806.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1807</HymnID>
+    <HymnNo>1807</HymnNo>
+    <HymnTypeID>86</HymnTypeID>
+    <HymnTitle>S4 ಹಾಂವೆಂ ಸರ್ಗಾರ್ ಥಾವ್ನ್ ತಾಳೊ</HymnTitle>
+    <FileName>1807.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1808</HymnID>
+    <HymnNo>1808</HymnNo>
+    <HymnTypeID>86</HymnTypeID>
+    <HymnTitle>S5 ಸಾಸ್ಣಾಚೊ ವಿಶೆವ್ – ಕಾಕುಳ್ತ್ ಮ್ಹಜಿ ಕರ್</HymnTitle>
+    <FileName>1808.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1809</HymnID>
+    <HymnNo>1809</HymnNo>
+    <HymnTypeID>86</HymnTypeID>
+    <HymnTitle>S6 ದೆವಾಚ್ಯಾ ಭಾಗೆವಂತಾಂನೊ</HymnTitle>
+    <FileName>1809.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1810</HymnID>
+    <HymnNo>1810</HymnNo>
+    <HymnTypeID>86</HymnTypeID>
+    <HymnTitle>S7 ದೇವ್‍ದೂತ್</HymnTitle>
+    <FileName>1810.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1811</HymnID>
+    <HymnNo>1811</HymnNo>
+    <HymnTypeID>86</HymnTypeID>
+    <HymnTitle>S8 ಪವಿತ್ರ್ ತಂಬಾಚೆ ಸುವಾತೆಕ್</HymnTitle>
+    <FileName>1811.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1812</HymnID>
+    <HymnNo>1812</HymnNo>
+    <HymnTypeID>86</HymnTypeID>
+    <HymnTitle>S9 ಖಂತಿ ದುಖಾಂತ್ ಆಮಿ ಪಡ್ಲ್ಯಾಂವ್</HymnTitle>
+    <FileName>1812.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1813</HymnID>
+    <HymnNo>1813</HymnNo>
+    <HymnTypeID>86</HymnTypeID>
+    <HymnTitle>S10 ಖಂಯ್ಚ್ಯಾ ದಿಸಾ</HymnTitle>
+    <FileName>1813.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1814</HymnID>
+    <HymnNo>1814</HymnNo>
+    <HymnTypeID>86</HymnTypeID>
+    <HymnTitle>S11 ಘೆ  ಮ್ಹಾಕಾ ಸೊಮ್ಯಾ</HymnTitle>
+    <FileName>1814.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1815</HymnID>
+    <HymnNo>1815</HymnNo>
+    <HymnTypeID>86</HymnTypeID>
+    <HymnTitle>S12 ಜಾಣಾ ಹಾಂವ್ ಆಸಾ ಏಕ್ ರಾಜ್</HymnTitle>
+    <FileName>1815.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1816</HymnID>
+    <HymnNo>1816</HymnNo>
+    <HymnTypeID>86</HymnTypeID>
+    <HymnTitle>S13 ತುಜಿ ಖುಶಿ ಜಾಂವ್</HymnTitle>
+    <FileName>1816.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1817</HymnID>
+    <HymnNo>1817</HymnNo>
+    <HymnTypeID>86</HymnTypeID>
+    <HymnTitle>S14 ತುಜೆ ಸರ್ಶಿಂ ದೆವಾ</HymnTitle>
+    <FileName>1817.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1818</HymnID>
+    <HymnNo>1818</HymnNo>
+    <HymnTypeID>86</HymnTypeID>
+    <HymnTitle>S15 ದೀಸ್ ಮ್ಹಜೊ ಸಂಪ್ತಾನಾ</HymnTitle>
+    <FileName>1818.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1819</HymnID>
+    <HymnNo>1819</HymnNo>
+    <HymnTypeID>86</HymnTypeID>
+    <HymnTitle>S16 ಜರ್ ಕ್ರಿಸ್ತಾ ಥಂಯ್</HymnTitle>
+    <FileName>1819.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1820</HymnID>
+    <HymnNo>1820</HymnNo>
+    <HymnTypeID>86</HymnTypeID>
+    <HymnTitle>S17 ಸೊಮಿ ಮ್ಹಾಕಾ ಪೊಸ್ತಾ</HymnTitle>
+    <FileName>1820.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1821</HymnID>
+    <HymnNo>1821</HymnNo>
+    <HymnTypeID>86</HymnTypeID>
+    <HymnTitle>S18 ಸರ್ವೆಸ್ಪರಾಕ್ ಜೈ ಜೈ !</HymnTitle>
+    <FileName>1821.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1822</HymnID>
+    <HymnNo>1822</HymnNo>
+    <HymnTypeID>86</HymnTypeID>
+    <HymnTitle>S19 ಸೊಮ್ಯಾ ತುಂ ಕಾಕುಳ್ತ್ ಕರ್</HymnTitle>
+    <FileName>1822.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1823</HymnID>
+    <HymnNo>1823</HymnNo>
+    <HymnTypeID>86</HymnTypeID>
+    <HymnTitle>S20 ರಾತ್ ಆತಾಂ ಸಂಪ್ಲಿ</HymnTitle>
+    <FileName>1823.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1824</HymnID>
+    <HymnNo>1824</HymnNo>
+    <HymnTypeID>86</HymnTypeID>
+    <HymnTitle>S21 ಭಾಗಿ ಭರ್ವಸೊ</HymnTitle>
+    <FileName>1824.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1825</HymnID>
+    <HymnNo>1825</HymnNo>
+    <HymnTypeID>86</HymnTypeID>
+    <HymnTitle>S22 ಖಂಯ್ ತುಂ ಆಸಾಯ್</HymnTitle>
+    <FileName>1825.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1826</HymnID>
+    <HymnNo>1826</HymnNo>
+    <HymnTypeID>86</HymnTypeID>
+    <HymnTitle>S23 ತುಜಿ ಖುಶಿ ಕರ್ಚ್ಯಾಕ್</HymnTitle>
+    <FileName>1826.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1827</HymnID>
+    <HymnNo>1827</HymnNo>
+    <HymnTypeID>86</HymnTypeID>
+    <HymnTitle>S24 ಸೊಮಿ ಮ್ಹಾಕಾ ಪೊಸ್ತಾ</HymnTitle>
+    <FileName>1827.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1828</HymnID>
+    <HymnNo>1828</HymnNo>
+    <HymnTypeID>86</HymnTypeID>
+    <HymnTitle>S25 ತೊ ದೀಸ್ ಮ್ಹಜೆ ಜಿಣಿಯೆಚೊ</HymnTitle>
+    <FileName>1828.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1829</HymnID>
+    <HymnNo>1829</HymnNo>
+    <HymnTypeID>86</HymnTypeID>
+    <HymnTitle>S26 ಸಾಸ್ಣಾ ಥಾವ್ನ್ ಜಿಯೆಂವ್ಚ್ಯಾ</HymnTitle>
+    <FileName>1829.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1830</HymnID>
+    <HymnNo>1830</HymnNo>
+    <HymnTypeID>88</HymnTypeID>
+    <HymnTitle>V1 ಉತರ್ ತುಜೆಂ</HymnTitle>
+    <FileName>1830.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1831</HymnID>
+    <HymnNo>1831</HymnNo>
+    <HymnTypeID>88</HymnTypeID>
+    <HymnTitle>V2 ಉತರ್ ಸೊಮ್ಯಾ ತುಜೆಂ</HymnTitle>
+    <FileName>1831.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1832</HymnID>
+    <HymnNo>1832</HymnNo>
+    <HymnTypeID>88</HymnTypeID>
+    <HymnTitle>V3 ಸಾಸ್ಣಿಕ್ ಜಿವಿತಾಚ್ಯಾ ಸುಖಾಕ್</HymnTitle>
+    <FileName>1832.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1833</HymnID>
+    <HymnNo>1833</HymnNo>
+    <HymnTypeID>88</HymnTypeID>
+    <HymnTitle>V4 ಸೊಮ್ಯಾ ತುಜೆಂ ಉತರ್</HymnTitle>
+    <FileName>1833.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1834</HymnID>
+    <HymnNo>1834</HymnNo>
+    <HymnTypeID>88</HymnTypeID>
+    <HymnTitle>V5 ಸೊಮ್ಯಾ ತುಜೆಂ ಉತರ್ ದಿವೊ</HymnTitle>
+    <FileName>1834.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1835</HymnID>
+    <HymnNo>1835</HymnNo>
+    <HymnTypeID>88</HymnTypeID>
+    <HymnTitle>V6 ಅಮರ್ ತುಜೆಂ ಉತರ್</HymnTitle>
+    <FileName>1835.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1836</HymnID>
+    <HymnNo>1836</HymnNo>
+    <HymnTypeID>88</HymnTypeID>
+    <HymnTitle>V7 ಉತರ್ ದೆವಾಚೆಂ</HymnTitle>
+    <FileName>1836.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1837</HymnID>
+    <HymnNo>1837</HymnNo>
+    <HymnTypeID>88</HymnTypeID>
+    <HymnTitle>V8 ಉತರ್ ತುಜೆಂ ಸೊಮ್ಯಾ</HymnTitle>
+    <FileName>1837.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1838</HymnID>
+    <HymnNo>1838</HymnNo>
+    <HymnTypeID>88</HymnTypeID>
+    <HymnTitle>V9 ಉತರ್ ದೆವಾಚೆಂ</HymnTitle>
+    <FileName>1838.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1839</HymnID>
+    <HymnNo>1839</HymnNo>
+    <HymnTypeID>88</HymnTypeID>
+    <HymnTitle>V10 ಜೆಜು ತುಜಿಂ ಉತ್ರಾಂ</HymnTitle>
+    <FileName>1839.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1840</HymnID>
+    <HymnNo>1840</HymnNo>
+    <HymnTypeID>88</HymnTypeID>
+    <HymnTitle>V11 ಉತರ್ ತುಜೆಂ ಸೊಮ್ಯಾ</HymnTitle>
+    <FileName>1840.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1841</HymnID>
+    <HymnNo>1841</HymnNo>
+    <HymnTypeID>88</HymnTypeID>
+    <HymnTitle>V12 ಉಲಯ್, ಸೊಮ್ಯಾ, ಆಯ್ಕಾತಾಂ</HymnTitle>
+    <FileName>1841.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1842</HymnID>
+    <HymnNo>1842</HymnNo>
+    <HymnTypeID>88</HymnTypeID>
+    <HymnTitle>V13 ಎಕಾಚ್ ಉತ್ರಾನ್</HymnTitle>
+    <FileName>1842.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1843</HymnID>
+    <HymnNo>1843</HymnNo>
+    <HymnTypeID>79</HymnTypeID>
+    <HymnTitle>ತಡ್ ಆನಿ ಗಡ್ ನಾತ್‍ಲ್ಲೊ ಮೋಗ್</HymnTitle>
+    <FileName>1843.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1844</HymnID>
+    <HymnNo>1844</HymnNo>
+    <HymnTypeID>79</HymnTypeID>
+    <HymnTitle>ಕಾಳ್ಜಾಂತ್ ಥಾವ್ನ್ ತುಕಾ</HymnTitle>
+    <FileName>1844.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1845</HymnID>
+    <HymnNo>1845</HymnNo>
+    <HymnTypeID>79</HymnTypeID>
+    <HymnTitle>ತುಜೆ ಶಿವಾಯ್</HymnTitle>
+    <FileName>1845.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1846</HymnID>
+    <HymnNo>1846</HymnNo>
+    <HymnTypeID>79</HymnTypeID>
+    <HymnTitle>ತುಜೆಂ ಬಾಳ್</HymnTitle>
+    <FileName>1846.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1847</HymnID>
+    <HymnNo>1847</HymnNo>
+    <HymnTypeID>79</HymnTypeID>
+    <HymnTitle>ಭಿಯೆನಾಕಾ ಮ್ಹಜ್ಯಾ ಬಾಳಾ</HymnTitle>
+    <FileName>1847.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1848</HymnID>
+    <HymnNo>1848</HymnNo>
+    <HymnTypeID>79</HymnTypeID>
+    <HymnTitle>ಮ್ಹಜ್ಯಾ ಜೆಜು ಮೊಗಾಳ್ ಜೆಜು</HymnTitle>
+    <FileName>1848.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1849</HymnID>
+    <HymnNo>1849</HymnNo>
+    <HymnTypeID>79</HymnTypeID>
+    <HymnTitle>ಅತ್ಮ್ಯಾ ಮ್ಹಜ್ಯಾ ತುಂ ಅಧೀರ್ ಜಾಯ್ನಾಕಾ</HymnTitle>
+    <FileName>1849.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1850</HymnID>
+    <HymnNo>1850</HymnNo>
+    <HymnTypeID>79</HymnTypeID>
+    <HymnTitle>ಹೊ ಸಂಸಾರ್ ತುಕಾ ಸಾಂಡಿತ್</HymnTitle>
+    <FileName>1850.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1851</HymnID>
+    <HymnNo>1851</HymnNo>
+    <HymnTypeID>79</HymnTypeID>
+    <HymnTitle>ಜಿಣ್ಯೆಂತ್ಲ್ಯಾ   ಕಷ್ಟಾಂ ವೆಳಾರ್</HymnTitle>
+    <FileName>1851.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1852</HymnID>
+    <HymnNo>1852</HymnNo>
+    <HymnTypeID>79</HymnTypeID>
+    <HymnTitle>ಕಾಳ್ಜಾಂತ್ ಮ್ಹಜ್ಯಾ</HymnTitle>
+    <FileName>1852.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1853</HymnID>
+    <HymnNo>1853</HymnNo>
+    <HymnTypeID>79</HymnTypeID>
+    <HymnTitle>ಸಗ್ಳೊಚ್ ಜೆಜುಕ್ ಸಮರ್ಪಿತಾಂ</HymnTitle>
+    <FileName>1853.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1854</HymnID>
+    <HymnNo>1854</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J1 ಜೈ ಜೈ ದಾವಿದಾಚ್ಯಾ ಪುತಾಕ್</HymnTitle>
+    <FileName>1854.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1855</HymnID>
+    <HymnNo>1855</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J2 ಹೆಬ್ರೆವಾಂಚಿ ಪ್ರಜಾ</HymnTitle>
+    <FileName>1855.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1856</HymnID>
+    <HymnNo>1856</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J3 ಸರ್ವ್ ಮಹಿಮಾ</HymnTitle>
+    <FileName>1856.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1857</HymnID>
+    <HymnNo>1857</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J4 ಸೊಮ್ಯಾಚಿ ಸ್ತುತಿ ಕರ್</HymnTitle>
+    <FileName>1857.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1858</HymnID>
+    <HymnNo>1858</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J5 ಸೊಮಿ ಪವಿತ್ರ್ ಶ್ಹರಾಂತ್</HymnTitle>
+    <FileName>1858.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1859</HymnID>
+    <HymnNo>1859</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J6 ಮ್ಹಜ್ಯಾ ದೆವಾ, ಮ್ಹಜ್ಯಾ ದೆವಾ   </HymnTitle>
+    <FileName>1859.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1860</HymnID>
+    <HymnNo>1860</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J7 ಕ್ರಿಸ್ತ್ ಆಮ್ಚೆ ಪಾಸುನ್</HymnTitle>
+    <FileName>1860.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1861</HymnID>
+    <HymnNo>1861</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J8 ಆಮಿ ಆಮ್ಚ್ಯಾ ಸೊಮ್ಯಾ</HymnTitle>
+    <FileName>1861.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1862</HymnID>
+    <HymnNo>1862</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J9 ಆಮಿ ಆಶಿರ್ವಾದಿತ್ ಕರ್ಚಿ</HymnTitle>
+    <FileName>1862.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1863</HymnID>
+    <HymnNo>1863</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J10 ನವೊ ಉಪದೆಸ್</HymnTitle>
+    <FileName>1863.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1864</HymnID>
+    <HymnNo>1864</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J11 ಖಂಯ್ಸರ್ ಆಸಾ ಮೋಗ್</HymnTitle>
+    <FileName>1864.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1865</HymnID>
+    <HymnNo>1865</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J12 ಸರ್ಗಿಂ ಥಾವುನ್</HymnTitle>
+    <FileName>1865.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1866</HymnID>
+    <HymnNo>1866</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J13 ಗಾ ತುಂ ಜಿಬೆ</HymnTitle>
+    <FileName>1866.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1867</HymnID>
+    <HymnNo>1867</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J14 ನಿಮಾಣ್ಯಾ ತ್ಯಾ ಬ್ರೆಸ್ತಾರಾಚ್ಯಾ ದಿಸಾ</HymnTitle>
+    <FileName>1867.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1868</HymnID>
+    <HymnNo>1868</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J15 ತುಜ್ಯಾ ಖುರ್ಸಾಕ್ ಸೊಮ್ಯಾ</HymnTitle>
+    <FileName>1868.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1869</HymnID>
+    <HymnNo>1869</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J16 ಬಾಪಾ ತುಜ್ಯಾ ಹಾತಿಂ</HymnTitle>
+    <FileName>1869.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1870</HymnID>
+    <HymnNo>1870</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J17 ಪರ್ಜೆ ಮ್ಹಜೆ</HymnTitle>
+    <FileName>1870.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1871</HymnID>
+    <HymnNo>1871</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J18 ನಮಾನ್ ಖರ್ಸಾ</HymnTitle>
+    <FileName>1871.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1872</HymnID>
+    <HymnNo>1872</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J19 ಖುರ್ಸಾ ಥಂಯ್</HymnTitle>
+    <FileName>1872.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1873</HymnID>
+    <HymnNo>1873</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J20 ಜೆಜು ಸೊಮ್ಯಾ, ಮ್ಹಜ್ಯಾ ಭಾವಾ </HymnTitle>
+    <FileName>1873.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1874</HymnID>
+    <HymnNo>1874</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J21 ಆಸ್‍ಲ್ಲೊಯ್‍ಗಿ ತುಂ</HymnTitle>
+    <FileName>1874.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1875</HymnID>
+    <HymnNo>1875</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J22 ತುಜ್ಯಾ ಹಾತಾಂತ್</HymnTitle>
+    <FileName>1875.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1876</HymnID>
+    <HymnNo>1876</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J23 ನಮಾನ್ ತುಕಾ ಪವಿತ್ರ್ ಖುರ್ಸಾ</HymnTitle>
+    <FileName>1876.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1877</HymnID>
+    <HymnNo>1877</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J24 ಖುರ್ಸಾ ಸಾವ್ಳೆಂತ್ ರಾವುಂ</HymnTitle>
+    <FileName>1877.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1878</HymnID>
+    <HymnNo>1878</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J25 ಜಯ್ ತುಕಾ ಸೊಡ್ವೊಣ್ದಾರಾ</HymnTitle>
+    <FileName>1878.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1879</HymnID>
+    <HymnNo>1879</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J26 ತುಜೊ ಮೋಗ್</HymnTitle>
+    <FileName>1879.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1880</HymnID>
+    <HymnNo>1880</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J27 ಧಾಡ್ ತುಜ್ಯಾ ಸ್ಪಿರಿತಾಕ್</HymnTitle>
+    <FileName>1880.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1881</HymnID>
+    <HymnNo>1881</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J28 ಪೃಥ್ವಿ ಸಗ್ಳಿ ಭರ್ಲ್ಯಾ</HymnTitle>
+    <FileName>1881.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1882</HymnID>
+    <HymnNo>1882</HymnNo>
+    <HymnTypeID>72</HymnTypeID>
+    <HymnTitle>J29 ತುಜಿ ವ್ಹಡ್ವಿಕ್ ಹಾಂವ್ ಗಾತಾಂ</HymnTitle>
+    <FileName>1882.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1883</HymnID>
+    <HymnNo>1883</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>ದೈವಿಕ್ ಕುರ್ಪೆಚಾ ಅತ್ಮ್ಯಾ</HymnTitle>
+    <FileName>1883.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1884</HymnID>
+    <HymnNo>1884</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>ಸರ್ಗಿಂಚ್ಯಾ ರಾಜಾಚ್ಯಾ ಕುರ್ಪೆ ಝರಿ</HymnTitle>
+    <FileName>1884.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1885</HymnID>
+    <HymnNo>1885</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>ಸತಾಚಾ ಅತ್ಮ್ಯಾ</HymnTitle>
+    <FileName>1885.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1886</HymnID>
+    <HymnNo>1886</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>ದೈವಿಕ್ ದೆಣ್ಯಾಂಚ್ಯಾ ಪವಿತ್ರ್ ಅತ್ಮ್ಯಾ</HymnTitle>
+    <FileName>1886.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1887</HymnID>
+    <HymnNo>1887</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>ಪವಿತ್ರ ಅತ್ಮ್ಯಾ ಕುರ್ಪೆ ಸಾಗೊರಾ</HymnTitle>
+    <FileName>1887.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1888</HymnID>
+    <HymnNo>1888</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>ಪವಿತ್ರ್ ಆತ್ಮಾ ಆ</HymnTitle>
+    <FileName>1888.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1890</HymnID>
+    <HymnNo>1890</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>ಜಿವೆ ಝರಿಶಿಂ ಮಾಕಾ ಆಪಯ್</HymnTitle>
+    <FileName>1890.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1891</HymnID>
+    <HymnNo>1891</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>ಜೆಜುನ್ ಭಾಸಾಯಿಲ್ಲ್ಯಾ</HymnTitle>
+    <FileName>1891.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1892</HymnID>
+    <HymnNo>1892</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>L4 ದೆವಾಚ್ಯಾ ಪವಿತ್ರ್ ಅತ್ಮ್ಯಾ</HymnTitle>
+    <FileName>1892.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1893</HymnID>
+    <HymnNo>1893</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>L1 ಏ ಪವಿತ್ರ್ ಅತ್ಮ್ಯಾ ರಚ್ನಾರಾ</HymnTitle>
+    <FileName>1893.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1894</HymnID>
+    <HymnNo>1894</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>L2 ಪವಿತ್ರ್ ಅತ್ಮ್ಯಾ ಯೆ ದೆಂವುನ್</HymnTitle>
+    <FileName>1894.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1895</HymnID>
+    <HymnNo>1895</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>L3 ಏ ಪವಿತ್ರ್ ಅತ್ಮ್ಯಾ</HymnTitle>
+    <FileName>1895.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1896</HymnID>
+    <HymnNo>1896</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>L5 ದೆವಾಚೊ ಸ್ಪಿರಿತ್ ಮ್ಹಜ್ಯಾ ಕಾಳ್ಜಾಂತ್</HymnTitle>
+    <FileName>1896.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1897</HymnID>
+    <HymnNo>1897</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>L6 ಯೆ ಪವಿತ್ರ್ ಅತ್ಮ್ಯಾ</HymnTitle>
+    <FileName>1897.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1898</HymnID>
+    <HymnNo>1898</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>L7 ಸೊಮ್ಯಾಚೊ ಸ್ಪಿರಿತ್</HymnTitle>
+    <FileName>1898.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1899</HymnID>
+    <HymnNo>1899</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>L8 ಪವಿತ್ರ್ ಆತ್ಮ್ಯಾ ತುಂ ಯೆ ದೆಂವೊನ್</HymnTitle>
+    <FileName>1899.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1900</HymnID>
+    <HymnNo>1900</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>L9 ಯೆ ತುಂ ಪವಿತ್ರ್ ಆತ್ಮ್ಯಾ</HymnTitle>
+    <FileName>1900.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1901</HymnID>
+    <HymnNo>1901</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>L10 ಯೆ ಪವಿತ್ರ್ ಆತ್ಮ್ಯಾ</HymnTitle>
+    <FileName>1901.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1902</HymnID>
+    <HymnNo>1902</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>L11 ಏ ದುಲಭ್ ಆತ್ಮ್ಯಾ</HymnTitle>
+    <FileName>1902.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1903</HymnID>
+    <HymnNo>1903</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>L12 ಹ್ಯಾ ಫುಡಾಂ ಹಾಂವ್ ತುಮ್ಕಾಂ</HymnTitle>
+    <FileName>1903.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1904</HymnID>
+    <HymnNo>1904</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>L13 ಹ್ಯಾ ಫುಡಾಂ</HymnTitle>
+    <FileName>1904.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1905</HymnID>
+    <HymnNo>1905</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>ಪವಿತ್ರ್ ಅತ್ಮ್ಯಾ (ಪಾವನಾತ್ಮನೇ)</HymnTitle>
+    <FileName>1905.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1907</HymnID>
+    <HymnNo>1907</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>ದೆಣ್ಯಾಂಚ್ಯಾ ದಾತಾರಾ</HymnTitle>
+    <FileName>1907.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1908</HymnID>
+    <HymnNo>1908</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>ದೈವಿಕ್ ಅತ್ಮ್ಯಾ, ಪವಿತ್ರ್ ಅತ್ಮ್ಯಾ</HymnTitle>
+    <FileName>1908.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1909</HymnID>
+    <HymnNo>1909</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>ಪವಿತ್ರ್ ಅತ್ಮ್ಯಾ ಮ್ಹಜೆರ್ ತುಂ ದೆಂವೊನ್ ಯೆ</HymnTitle>
+    <FileName>1909.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1910</HymnID>
+    <HymnNo>1910</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>ಪವಿತ್ರ್ ಅತ್ಮ್ಯಾ, ಆಮ್ಚೆರ್ ತುಂ ದೆಂವೊನ್ ಯೆ</HymnTitle>
+    <FileName>1910.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1911</HymnID>
+    <HymnNo>1911</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>ಪವಿತ್ರ್ ಆತ್ಮ್ಯಾ</HymnTitle>
+    <FileName>1911.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1912</HymnID>
+    <HymnNo>1912</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>ಪವಿತ್ರ್ ಅತ್ಮ್ಯಾ ದೆಂವೊನ್ ಯೆ</HymnTitle>
+    <FileName>1912.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1913</HymnID>
+    <HymnNo>1913</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H1 ಆಜ್ ಗೊರ್ವಾಂಚ್ಯಾ ಗೊಟ್ಯಾಂತ್</HymnTitle>
+    <FileName>1913.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1914</HymnID>
+    <HymnNo>1914</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H2 ಆಂಜ್ ಭಡ್ವೆ ವಯ್ರ್ ಅಂತ್ರಾಳಾರ್</HymnTitle>
+    <FileName>1914.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1915</HymnID>
+    <HymnNo>1915</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H3 ಆಯ್ಕ್ ದೇವ್‍ದುತಾಂಚೆಂ ಗಾಯನ್</HymnTitle>
+    <FileName>1915.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1916</HymnID>
+    <HymnNo>1916</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H4 ಊಠ್ ಊಠ್ ಜೆರುಜಲ್ಯಾ</HymnTitle>
+    <FileName>1916.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1917</HymnID>
+    <HymnNo>1917</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H5 ಜೆಜು ಬಾಳಕ್ ಜಲ್ಮಲಾ</HymnTitle>
+    <FileName>1917.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1918</HymnID>
+    <HymnNo>1918</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H6 ತುಜೆ ಪಾಸುನ್, ಮ್ಹಜೆ ಪಾಸುನ್    </HymnTitle>
+    <FileName>1918.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1919</HymnID>
+    <HymnNo>1919</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H7 ನಿದೆ ಬಾಳಾ</HymnTitle>
+    <FileName>1919.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1920</HymnID>
+    <HymnNo>1920</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H8 ಪ್ರಥಮ್ ಸುವಾರ್ತಾ</HymnTitle>
+    <FileName>1920.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>1921</HymnID>
+    <HymnNo>1921</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H9 ಬಾಳ್ ಜಲ್ಮಲಾ, ಸಂತೊಸ್ ಫಾಂಕ್ಲಾ      </HymnTitle>
+    <FileName>1921.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2869</HymnID>
+    <HymnNo>2869</HymnNo>
+    <HymnTypeID>84</HymnTypeID>
+    <HymnTitle>P4 ಆಮ್ಚ್ಯಾ ಸಾಂ ಫ್ರಾಸ್ಕಾ ಸಾವೆರಾ</HymnTitle>
+    <FileName>2869.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2870</HymnID>
+    <HymnNo>2870</HymnNo>
+    <HymnTypeID>63</HymnTypeID>
+    <HymnTitle>B9 ಸರ್ವೆಸ್ಪರಾಕ್ ಜೈ ಜೈ – ಕೀರ್ತನ್ ಗಾಯಾ</HymnTitle>
+    <FileName>2870.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2872</HymnID>
+    <HymnNo>2872</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A1 ಖಾಲ್ತ್ಯಾ ಕಾಳ್ಜಾನ್</HymnTitle>
+    <FileName>2872.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2873</HymnID>
+    <HymnNo>2873</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A2 ತುಕಾ ನಾಂವಾಡ್ತಲ್ಯಾಂವ್</HymnTitle>
+    <FileName>2873.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2874</HymnID>
+    <HymnNo>2874</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A3 ದೆಖೊಂಕ್ ನಾ ತುಕಾ</HymnTitle>
+    <FileName>2874.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2875</HymnID>
+    <HymnNo>2875</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A4 ದೀಸ್ ಹೊ ಆಯ್ಚೊ</HymnTitle>
+    <FileName>2875.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2876</HymnID>
+    <HymnNo>2876</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A25 ಪ್ರಣಾಮ್ ತುಕಾ ಸೊಮಿಯಾ</HymnTitle>
+    <FileName>2876.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2877</HymnID>
+    <HymnNo>2877</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A28 ವೆದಿ ಭೊಂವ್ತಿಂ ಬಾಪಾ</HymnTitle>
+    <FileName>2877.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2878</HymnID>
+    <HymnNo>2878</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A34 ಸಂತೊಸಾಚಿಂ ಮೆಟಾಂ ಕಾಡುನ್</HymnTitle>
+    <FileName>2878.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2879</HymnID>
+    <HymnNo>2879</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A39 ಸಾಂಗಾತಾ ಜಮ್ಲ್ಯಾಂವ್</HymnTitle>
+    <FileName>2879.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2881</HymnID>
+    <HymnNo>2881</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A46 ದಳ್ಬಾರಾಂಚ್ಯಾ ಸರ್ವೆಸ್ಪರಾ</HymnTitle>
+    <FileName>2881.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2882</HymnID>
+    <HymnNo>2882</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A47 ತುಜ್ಯಾ ನಾಂವಾನ್ ಸೊಮ್ಯಾ</HymnTitle>
+    <FileName>2882.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2883</HymnID>
+    <HymnNo>2883</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB39 ತುಜೆ ಉದಂಡ್ ದಯೆನ್</HymnTitle>
+    <FileName>2883.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2884</HymnID>
+    <HymnNo>2884</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB46 ದಯೆನ್ ಆಮ್ಚಿ</HymnTitle>
+    <FileName>2884.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2885</HymnID>
+    <HymnNo>2885</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB60 ಸರ್ವೆಸ್ಪರ್ಚ್ ಆಮ್ಚೊ</HymnTitle>
+    <FileName>2885.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2886</HymnID>
+    <HymnNo>2886</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB83 ಸರ್ವೆಸ್ಪರಾನ್ ಸಿಯೊನ್</HymnTitle>
+    <FileName>2886.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2887</HymnID>
+    <HymnNo>2887</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB86 ಸರ್ವೆಸ್ಪರಾ ದೆವಾ</HymnTitle>
+    <FileName>2887.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2888</HymnID>
+    <HymnNo>2888</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB91 ಸರ್ವೆಸ್ಪರಾಚೆಂ ನಾಂವ್</HymnTitle>
+    <FileName>2888.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2889</HymnID>
+    <HymnNo>2889</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB101 ಅತ್ಮೊ ಮ್ಹಜೊ</HymnTitle>
+    <FileName>2889.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2890</HymnID>
+    <HymnNo>2890</HymnNo>
+    <HymnTypeID>63</HymnTypeID>
+    <HymnTitle>B3 ಆಲ್ಲೆಲೂಯಾ ಗಾವ್ಯಾಂ</HymnTitle>
+    <FileName>2890.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2891</HymnID>
+    <HymnNo>2891</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C29 ಘೆ ಸೊಮ್ಯಾ ಜೀವನ್ ಮ್ಹಜೆಂ</HymnTitle>
+    <FileName>2891.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2892</HymnID>
+    <HymnNo>2892</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C30 ತುಜೆ ಹುಜ್ರಿಂ ಆಯ್ಲ್ಯಾಂವ್ ಬಾಪಾ</HymnTitle>
+    <FileName>2892.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2893</HymnID>
+    <HymnNo>2893</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C31 ತುವೆಂ ದಿಲ್ಲ್ಯಾ ದೆಣ್ಯಾಂನಿ</HymnTitle>
+    <FileName>2893.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2894</HymnID>
+    <HymnNo>2894</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C33 ಮೋಗ್ ಆಮ್ಚ್ಯಾ ಕಾಳ್ಜಾಂಚೊ</HymnTitle>
+    <FileName>2894.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2895</HymnID>
+    <HymnNo>2895</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C34 ಮೊಗಾಚ್ಯಾ ನಾದಾನ್ ಭರೊನ್</HymnTitle>
+    <FileName>2895.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2896</HymnID>
+    <HymnNo>2896</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C35 ಮೊಲಾದಿಕ್ ದಿರ್ವೆಂ</HymnTitle>
+    <FileName>2896.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2897</HymnID>
+    <HymnNo>2897</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C37 ಸರ್ವಸ್ವ್ ಆಮ್ಚೆಂ ಮೊಗಾಳ್ ಬಾಪಾ</HymnTitle>
+    <FileName>2897.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2898</HymnID>
+    <HymnNo>2898</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C39 ಸ್ವೀಕಾರ್ ಕರ್, ಬಾಪಾ</HymnTitle>
+    <FileName>2898.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2899</HymnID>
+    <HymnNo>2899</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C54 ಉಂಡೊ ಗೊಂವಾಚೊ</HymnTitle>
+    <FileName>2899.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2900</HymnID>
+    <HymnNo>2900</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C55 ಕಾಣಿಕೊ ಘೆವುನ್</HymnTitle>
+    <FileName>2900.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2901</HymnID>
+    <HymnNo>2901</HymnNo>
+    <HymnTypeID>64</HymnTypeID>
+    <HymnTitle>C59 ವೆದಿ ಸರ್ಶಿಂ ಬಾಪಾ ಆಯ್ಲ್ಯಾಂವ್</HymnTitle>
+    <FileName>2901.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2903</HymnID>
+    <HymnNo>2903</HymnNo>
+    <HymnTypeID>66</HymnTypeID>
+    <HymnTitle>E39 ಅರ್ಗಾಂ ತುಕಾ ಜೆಜು ಸೊಮ್ಯಾ</HymnTitle>
+    <FileName>2903.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2904</HymnID>
+    <HymnNo>2904</HymnNo>
+    <HymnTypeID>67</HymnTypeID>
+    <HymnTitle>F1 ಪವಿತ್ರ್ ಸಬ್ದಾಚ್ಯಾ ಉಜ್ವಾಡಾನ್</HymnTitle>
+    <FileName>2904.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2905</HymnID>
+    <HymnNo>2905</HymnNo>
+    <HymnTypeID>67</HymnTypeID>
+    <HymnTitle>F2 ವೆತಾಂ ವೆತಾಂ ಸೊಮಿಯಾ</HymnTitle>
+    <FileName>2905.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2906</HymnID>
+    <HymnNo>2906</HymnNo>
+    <HymnTypeID>67</HymnTypeID>
+    <HymnTitle>F3 ಶಾಂತಿನ್ ತುಜೆ ವೆತಾಂವ್</HymnTitle>
+    <FileName>2906.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2907</HymnID>
+    <HymnNo>2907</HymnNo>
+    <HymnTypeID>67</HymnTypeID>
+    <HymnTitle>F4 ಶಾಂತಿನ್ ತುಜೆ ಶುಭ್ವಾರ್ತಾ</HymnTitle>
+    <FileName>2907.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2908</HymnID>
+    <HymnNo>2908</HymnNo>
+    <HymnTypeID>67</HymnTypeID>
+    <HymnTitle>F5 ಸರ್ವ್ ಆಮಿ ಎಕ್ಟಾಂಯ್ ಜಾವ್ನ್</HymnTitle>
+    <FileName>2908.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2909</HymnID>
+    <HymnNo>2909</HymnNo>
+    <HymnTypeID>67</HymnTypeID>
+    <HymnTitle>F6 ಸೊಮ್ಯಾ ಹಾಂವ್ ವೆತಾಂ</HymnTitle>
+    <FileName>2909.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2910</HymnID>
+    <HymnNo>2910</HymnNo>
+    <HymnTypeID>67</HymnTypeID>
+    <HymnTitle>F7 ವಚಾ, ಪ್ರಜಾಂಚೆ ಶಿಸ್ ಕರಾ</HymnTitle>
+    <FileName>2910.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2911</HymnID>
+    <HymnNo>2911</HymnNo>
+    <HymnTypeID>67</HymnTypeID>
+    <HymnTitle>F8 ಕ್ರಿಸ್ತಾ ಸಂಗಿಂ ಚಮ್ಕುಯಾಂ</HymnTitle>
+    <FileName>2911.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2912</HymnID>
+    <HymnNo>2912</HymnNo>
+    <HymnTypeID>67</HymnTypeID>
+    <HymnTitle>F9 ಭಾವಾರ್ಥ್ ಆಮ್ಚೊ ಜಳವ್ನ್</HymnTitle>
+    <FileName>2912.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2913</HymnID>
+    <HymnNo>2913</HymnNo>
+    <HymnTypeID>67</HymnTypeID>
+    <HymnTitle>F10 ಮೊಗಾ ಸಂದೇಶ್ ಘೆವುನ್</HymnTitle>
+    <FileName>2913.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2914</HymnID>
+    <HymnNo>2914</HymnNo>
+    <HymnTypeID>67</HymnTypeID>
+    <HymnTitle>F11 ವಚಾ ಪ್ರಜಾಂಚೆ ಶಿಸ್ ಕರಾ</HymnTitle>
+    <FileName>2914.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2915</HymnID>
+    <HymnNo>2915</HymnNo>
+    <HymnTypeID>67</HymnTypeID>
+    <HymnTitle>F12 ಶಾಂತಿ ದಿವ್ನ್ ಧಾಡ್ತಾಯ್</HymnTitle>
+    <FileName>2915.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2916</HymnID>
+    <HymnNo>2916</HymnNo>
+    <HymnTypeID>67</HymnTypeID>
+    <HymnTitle>F13 ಶೆಗುಣಾಂಚೆ ವಾಟೆನ್</HymnTitle>
+    <FileName>2916.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2917</HymnID>
+    <HymnNo>2917</HymnNo>
+    <HymnTypeID>67</HymnTypeID>
+    <HymnTitle>F14 ಸೊಮ್ಯಾ’ಮಿ ವೆತಾಂವ್</HymnTitle>
+    <FileName>2917.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2918</HymnID>
+    <HymnNo>2918</HymnNo>
+    <HymnTypeID>67</HymnTypeID>
+    <HymnTitle>F15 ಸೊಮ್ಯಾ ತುಜೊ ಸಂದೇಶ್</HymnTitle>
+    <FileName>2918.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2919</HymnID>
+    <HymnNo>2919</HymnNo>
+    <HymnTypeID>67</HymnTypeID>
+    <HymnTitle>F16 ಸೊಮ್ಯಾಕ್ ಧಿನ್ವಾಸುಂಯಾಂ</HymnTitle>
+    <FileName>2919.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2920</HymnID>
+    <HymnNo>2920</HymnNo>
+    <HymnTypeID>67</HymnTypeID>
+    <HymnTitle>F17 ಧಾಡ್ ತುಜ್ಯಾ ಶೆತಾಂತ್</HymnTitle>
+    <FileName>2920.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2921</HymnID>
+    <HymnNo>2921</HymnNo>
+    <HymnTypeID>67</HymnTypeID>
+    <HymnTitle>F18 ಸಾಂಡ್ ಜಾಳಾಂ ತುಜಿಂ</HymnTitle>
+    <FileName>2921.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2922</HymnID>
+    <HymnNo>2922</HymnNo>
+    <HymnTypeID>77</HymnTypeID>
+    <HymnTitle>ಆರಾಧನ್ ಬಾಪಾ</HymnTitle>
+    <FileName>2922.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2923</HymnID>
+    <HymnNo>2923</HymnNo>
+    <HymnTypeID>77</HymnTypeID>
+    <HymnTitle>M3 ದುಲಬ್ ಜೆಜು</HymnTitle>
+    <FileName>2923.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2924</HymnID>
+    <HymnNo>2924</HymnNo>
+    <HymnTypeID>77</HymnTypeID>
+    <HymnTitle>M4 ನಾಂವಾಡ್ ಸಿಯೊನ್</HymnTitle>
+    <FileName>2924.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2926</HymnID>
+    <HymnNo>2926</HymnNo>
+    <HymnTypeID>77</HymnTypeID>
+    <HymnTitle>M8 ಎದ್ಯಾ ವ್ಹಡಾ ಸಾಕ್ರಾಮೆಂತಾಕ್</HymnTitle>
+    <FileName>2926.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2927</HymnID>
+    <HymnNo>2927</HymnNo>
+    <HymnTypeID>77</HymnTypeID>
+    <HymnTitle>M11 ವೇಳ್ಕಾಕ್ ಸುರು ಜಾಂವ್ಚೆ ಪುರ್ವಿಂ</HymnTitle>
+    <FileName>2927.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2928</HymnID>
+    <HymnNo>2928</HymnNo>
+    <HymnTypeID>83</HymnTypeID>
+    <HymnTitle>N1 ಉಂಡ್ಯಾ ರುಪಾಖಾಲ್ ಲಿಪೊನ್</HymnTitle>
+    <FileName>2928.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2929</HymnID>
+    <HymnNo>2929</HymnNo>
+    <HymnTypeID>83</HymnTypeID>
+    <HymnTitle>N2 ಏ ಜೆಜುಚ್ಯಾ ಪವಿತ್ರ್ ಕಾಳ್ಜಾ</HymnTitle>
+    <FileName>2929.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2930</HymnID>
+    <HymnNo>2930</HymnNo>
+    <HymnTypeID>83</HymnTypeID>
+    <HymnTitle>N3 ಏ ಮ್ಹಜ್ಯಾ ಮೊಗಾನ್ ಜಳ್ಚ್ಯಾ</HymnTitle>
+    <FileName>2930.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2931</HymnID>
+    <HymnNo>2931</HymnNo>
+    <HymnTypeID>83</HymnTypeID>
+    <HymnTitle>N4 ಕಾಳ್ಜಾ ತುಂ ಪೇಟ್</HymnTitle>
+    <FileName>2931.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2932</HymnID>
+    <HymnNo>2932</HymnNo>
+    <HymnTypeID>83</HymnTypeID>
+    <HymnTitle>N5 ಕಾಳ್ಜಾ ಪವಿತ್ರ್ ಜೆಜುಚ್ಯಾ</HymnTitle>
+    <FileName>2932.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2933</HymnID>
+    <HymnNo>2933</HymnNo>
+    <HymnTypeID>83</HymnTypeID>
+    <HymnTitle>N6 ಮ್ಹಜ್ಯಾ ಜೆಜುಚ್ಯಾ ಸ್ವಾಧಿಕ್ ಕಾಳ್ಜಾ</HymnTitle>
+    <FileName>2933.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2934</HymnID>
+    <HymnNo>2934</HymnNo>
+    <HymnTypeID>83</HymnTypeID>
+    <HymnTitle>N7 ಕಾಳ್ಜಾ ಏ ಜೆಜುಚ್ಯಾ</HymnTitle>
+    <FileName>2934.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2935</HymnID>
+    <HymnNo>2935</HymnNo>
+    <HymnTypeID>83</HymnTypeID>
+    <HymnTitle>N8 ಏ ಜೆಜು ಮೊಗಾಳಾ</HymnTitle>
+    <FileName>2935.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2936</HymnID>
+    <HymnNo>2936</HymnNo>
+    <HymnTypeID>83</HymnTypeID>
+    <HymnTitle>N9 ಪೆಟೊಂವ್ಕ್ ತುಮ್ಚಿಂ ಕಾಳ್ಜಾಂ</HymnTitle>
+    <FileName>2936.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2937</HymnID>
+    <HymnNo>2937</HymnNo>
+    <HymnTypeID>83</HymnTypeID>
+    <HymnTitle>N10 ಕ್ರಿಸ್ತ್ ತುಂ ಕುಂವರ್ ಕಾಲಾಂಚೊ</HymnTitle>
+    <FileName>2937.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2938</HymnID>
+    <HymnNo>2938</HymnNo>
+    <HymnTypeID>83</HymnTypeID>
+    <HymnTitle>N11 ಜೆಜು, ಕಾಡ್ತಚ್ ತುಜೊ ಉಗ್ಡಾಸ್</HymnTitle>
+    <FileName>2938.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2939</HymnID>
+    <HymnNo>2939</HymnNo>
+    <HymnTypeID>83</HymnTypeID>
+    <HymnTitle>N12 ಜೆಜು ಕ್ರಿಸ್ತಾಕ್ ಆಮ್ಚ್ಯಾ ರಾಯಾಕ್</HymnTitle>
+    <FileName>2939.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2940</HymnID>
+    <HymnNo>2940</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R16 ದರ್ಶನ್ ಮ್ಹಾಕಾ ದಿ</HymnTitle>
+    <FileName>2940.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2941</HymnID>
+    <HymnNo>2941</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R17 ನಮೋ ನಮೋ ತುಕಾ</HymnTitle>
+    <FileName>2941.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2942</HymnID>
+    <HymnNo>2942</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R18 ನಿತಳ್ ಉದ್ಕಾಕ್ ... ತಾನೆತಾ</HymnTitle>
+    <FileName>2942.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2943</HymnID>
+    <HymnNo>2943</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R20 ಮೋಗ್ ಮೋಗ್ ತೊ</HymnTitle>
+    <FileName>2943.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2944</HymnID>
+    <HymnNo>2944</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R24 ಸೊಮಿ ದೇವ್ ಮ್ಹಜ್ಯಾ ಘರಾ</HymnTitle>
+    <FileName>2944.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2947</HymnID>
+    <HymnNo>2947</HymnNo>
+    <HymnTypeID>73</HymnTypeID>
+    <HymnTitle>K4 ಸರ್ಗಾಚೆ ರಾಣಿಯೆ ಉಲ್ಲಾಸ್ ಪಾವ್</HymnTitle>
+    <FileName>2947.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2948</HymnID>
+    <HymnNo>2948</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>ಯೆವ್ಕಾರ್ ಪವಿತ್ರ್ ಆತ್ಮ್ಯಾ</HymnTitle>
+    <FileName>2948.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2949</HymnID>
+    <HymnNo>2949</HymnNo>
+    <HymnTypeID>76</HymnTypeID>
+    <HymnTitle>ತುಜೆ ಝರಿಕ್</HymnTitle>
+    <FileName>2949.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2950</HymnID>
+    <HymnNo>2950</HymnNo>
+    <HymnTypeID>80</HymnTypeID>
+    <HymnTitle>ಪವಿತ್ರ್ ಅತ್ಮ್ಯಾ, ಆಮ್ಚೆರ್ ತುಂ ದೆಂವೊನ್ ಯೆ</HymnTitle>
+    <FileName>2950.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2951</HymnID>
+    <HymnNo>2951</HymnNo>
+    <HymnTypeID>86</HymnTypeID>
+    <HymnTitle>S1 ಕಷ್ಟತೆಲ್ಯಾಂನೊ ಯೆಯಾ</HymnTitle>
+    <FileName>2951.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2952</HymnID>
+    <HymnNo>2952</HymnNo>
+    <HymnTypeID>86</HymnTypeID>
+    <HymnTitle>S2 ಸೊಮಿಯಾ ತುಕಾ ಉಲೊ ಮಾರ್ತಾಂವ್</HymnTitle>
+    <FileName>2952.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2953</HymnID>
+    <HymnNo>2953</HymnNo>
+    <HymnTypeID>84</HymnTypeID>
+    <HymnTitle>P7 ಯೆ ತರ್ ಜಾಯ್ಗಿ</HymnTitle>
+    <FileName>2953.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2954</HymnID>
+    <HymnNo>2954</HymnNo>
+    <HymnTypeID>84</HymnTypeID>
+    <HymnTitle>P27 ಸಾಂ ಮೊನಿಕಾ</HymnTitle>
+    <FileName>2954.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2955</HymnID>
+    <HymnNo>2955</HymnNo>
+    <HymnTypeID>85</HymnTypeID>
+    <HymnTitle>Q6 ಸುಖಾಂತ್ ದುಖಾಂತ್</HymnTitle>
+    <FileName>2955.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2956</HymnID>
+    <HymnNo>2956</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O42 ಸರ್ಗಾ ಸಿಂಹಾಸಣಾರ್ ಆಸ್ಚೆ ಮರಿಯೆ</HymnTitle>
+    <FileName>2956.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2957</HymnID>
+    <HymnNo>2957</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O48 ಜೈ ಜೈ ಜೈ ಮಾಯೆ ತುಕಾ ಜೈ</HymnTitle>
+    <FileName>2957.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2958</HymnID>
+    <HymnNo>2958</HymnNo>
+    <HymnTypeID>82</HymnTypeID>
+    <HymnTitle>O49 ನಮಾನ್ ಮರಿಯೆ (ಭಜನ್)</HymnTitle>
+    <FileName>2958.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2959</HymnID>
+    <HymnNo>2959</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>ಅರ್ಗಾಂ ತುಕಾ ಜೆಜು ಸೊಮ್ಯಾ</HymnTitle>
+    <FileName>2959.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2960</HymnID>
+    <HymnNo>2960</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>ಅರ್ಗಾಂ ದಿತಲೊಂ</HymnTitle>
+    <FileName>2960.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2961</HymnID>
+    <HymnNo>2961</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>ಅನಂದ್ ಬಾಪಾಕ್</HymnTitle>
+    <FileName>2961.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2962</HymnID>
+    <HymnNo>2962</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>ಎಕ್ಟಾಂಯ್ ಆಮಿ ಜಾವ್ಯಾಂ</HymnTitle>
+    <FileName>2962.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2963</HymnID>
+    <HymnNo>2963</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>ತಾಳ್ಯೊ ಪೆಟುನ್ ಗಾವುಯಾಂ</HymnTitle>
+    <FileName>2963.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2964</HymnID>
+    <HymnNo>2964</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>ತುಕಾ ಸೊಮ್ಯಾ ಹಾಂವ್ ಅರ್ಗಾಂ ದಿತಾಂ</HymnTitle>
+    <FileName>2964.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2965</HymnID>
+    <HymnNo>2965</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U1 ಅನಂದ್ ದೆವಾ ಬಾಪಾಕ್</HymnTitle>
+    <FileName>2965.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2966</HymnID>
+    <HymnNo>2966</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U2 ಏ ದೆವಾ ಮೊಗಾಳಾ ತಾರಕಾ</HymnTitle>
+    <FileName>2966.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2967</HymnID>
+    <HymnNo>2967</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U3 ಗೀತ್ ಗಾಯಾ ಸೊಮ್ಯಾಕ್</HymnTitle>
+    <FileName>2967.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2968</HymnID>
+    <HymnNo>2968</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U4 ಹರ್ಸಿತಾಂವ್ ತುಕಾ</HymnTitle>
+    <FileName>2968.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2969</HymnID>
+    <HymnNo>2969</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U5 ಸೊಮ್ಯಾ ದೆವಾ ಅಜಾಪ್ತಾಂ</HymnTitle>
+    <FileName>2969.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2970</HymnID>
+    <HymnNo>2970</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U6 ವಂದಿಯಾಂ ಸರ್ವೆಸ್ಪರಾಕ್</HymnTitle>
+    <FileName>2970.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2971</HymnID>
+    <HymnNo>2971</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U7 ಸದಾಂನಿತ್ ಸೊಮ್ಯಾ</HymnTitle>
+    <FileName>2971.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2972</HymnID>
+    <HymnNo>2972</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U8 ಕಿತ್ಲೊ ವರ್ತೊ ಮೋಗ್ ದೆವಾಚೊ</HymnTitle>
+    <FileName>2972.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2973</HymnID>
+    <HymnNo>2973</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U9 ಏ ಸರ್ವೆಸ್ಪರಾ</HymnTitle>
+    <FileName>2973.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2974</HymnID>
+    <HymnNo>2974</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U10 ಮಧುರ್ ತಾಳ್ಯಾನ್ ಹರ್ಸಿಯಾಂ</HymnTitle>
+    <FileName>2974.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2975</HymnID>
+    <HymnNo>2975</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>ಗಾಯ್ತಾ ಕಾಳಿಜ್ ಮ್ಹಜೆಂ</HymnTitle>
+    <FileName>2975.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2976</HymnID>
+    <HymnNo>2976</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U12 ಗುರ್ತ್ ಮ್ಹಣ್ ನವ್ಯಾ ಸೊಲ್ಲ್ಯಾಚೊ</HymnTitle>
+    <FileName>2976.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2977</HymnID>
+    <HymnNo>2977</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U13 ತುವೆಂ ಆಮ್ಕಾಂ ರಚ್ಲಾಂಯ್</HymnTitle>
+    <FileName>2977.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2978</HymnID>
+    <HymnNo>2978</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U14 ನವೆಂ ಗಾಯನ್</HymnTitle>
+    <FileName>2978.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2979</HymnID>
+    <HymnNo>2979</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U15 ನವೆಂ ಗೀತ್</HymnTitle>
+    <FileName>2979.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2980</HymnID>
+    <HymnNo>2980</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U16 ನ್ಹಂಯ್ತ್ ವ್ಹಾಳ್ಚ್ಯಾ ಉದ್ಕಾ ಪರಿಂ</HymnTitle>
+    <FileName>2980.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2981</HymnID>
+    <HymnNo>2981</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U17 ಸೊಮ್ಯಾಕ್ ಹರ್ಸಿಯಾಂ</HymnTitle>
+    <FileName>2981.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2982</HymnID>
+    <HymnNo>2982</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U18 ಹರ್ಸಿಯಾ ಸರ್ವೆಸ್ಪರಾಕ್</HymnTitle>
+    <FileName>2982.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2983</HymnID>
+    <HymnNo>2983</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U19 ವಿಯೊಲ್ ವಿಣ್ಯಾಚೆರ್</HymnTitle>
+    <FileName>2983.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2984</HymnID>
+    <HymnNo>2984</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U20 ಸರ್ವ್ ಭೂನಿವಾಸ್ಯಾಂನೊ</HymnTitle>
+    <FileName>2984.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2985</HymnID>
+    <HymnNo>2985</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U21 ಆಬ್ಳೆ ತುಜಿ ಖುಶಿ ಕರುಂಕ್</HymnTitle>
+    <FileName>2985.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2986</HymnID>
+    <HymnNo>2986</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U22 ಉಜ್ವಾಡ್ ತುಂ ಸಂಸಾರಾಚೊ</HymnTitle>
+    <FileName>2986.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2987</HymnID>
+    <HymnNo>2987</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U23 ತುವೆಂ ಕೆಲ್ಯಾಂಯ್ ವಿಚಿತ್ರಾಂ</HymnTitle>
+    <FileName>2987.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2988</HymnID>
+    <HymnNo>2988</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>ತುವೆಂ ಕೆಲ್ಯಾಂಯ್ ಸೊಮ್ಯಾ ವಿಚಿತ್ರಾಂ, ಸಗ್ಳ್ಯಾ ಮ್ಹಜ್ಯಾ ಜಿವಿತಾಂತ್</HymnTitle>
+    <FileName>2988.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2989</HymnID>
+    <HymnNo>2989</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U25 ಹರ್ಸಿತಾಂವ್ ತುಕಾ</HymnTitle>
+    <FileName>2989.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2990</HymnID>
+    <HymnNo>2990</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U26 ಭಾಗಿಂತ್ಲ್ಯಾ ಫುಲಾಂ ಮಧೆಂ</HymnTitle>
+    <FileName>2990.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2991</HymnID>
+    <HymnNo>2991</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U27 ಸ್ವೀಕಾರ್ ಕರ್ ಸೊಮಿಯಾ</HymnTitle>
+    <FileName>2991.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2992</HymnID>
+    <HymnNo>2992</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U28 ಆಯ್ಕ್ ಮ್ಹಜೆಂ ಮಾಗ್ಣೆಂ</HymnTitle>
+    <FileName>2992.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2993</HymnID>
+    <HymnNo>2993</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U29 ಚಿಂತುಂಕ್ ನಾ, ದೆಕುಂಕ್ ನಾ</HymnTitle>
+    <FileName>2993.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2994</HymnID>
+    <HymnNo>2994</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U30 ಹರ್ಸಿತಾಂವ್ ಸೊಮಿಯಾ</HymnTitle>
+    <FileName>2994.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2995</HymnID>
+    <HymnNo>2995</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U31 ಹರೇಕ್ ಘಡಿ ಮ್ಹಜ್ಯಾ ಜಿವಿತಾಚಿ</HymnTitle>
+    <FileName>2995.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2996</HymnID>
+    <HymnNo>2996</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U32 ಸೊಮ್ಯಾ ಸ್ವಾದಿಕ್</HymnTitle>
+    <FileName>2996.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2997</HymnID>
+    <HymnNo>2997</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U33 ತುಜ್ಯಾ ವಿಣ್ಯಾಕ್</HymnTitle>
+    <FileName>2997.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>2999</HymnID>
+    <HymnNo>2999</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U35 ಓಂಟ್ ತುಜಿ ಸ್ತುತಿ</HymnTitle>
+    <FileName>2999.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3000</HymnID>
+    <HymnNo>3000</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U36 ಗಿತಾಂ ಗಾವುನ್</HymnTitle>
+    <FileName>3000.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3001</HymnID>
+    <HymnNo>3001</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U37 ದಿ ಮ್ಹಜ್ಯಾ ದಿವ್ಯಾಂತ್ ತೆಲ್</HymnTitle>
+    <FileName>3001.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3002</HymnID>
+    <HymnNo>3002</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U38 ದೇವ್ ಮ್ಹಜೊ ಮೋಗ್ ಕರ್ತಾಂ</HymnTitle>
+    <FileName>3002.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3003</HymnID>
+    <HymnNo>3003</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U39 ಮ್ಹಜೆ ಜಿಣಿಯೆಂತ್</HymnTitle>
+    <FileName>3003.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3004</HymnID>
+    <HymnNo>3004</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U40 ಸಗ್ಳ್ಯಾ ಕಾಳ್ಜಾನ್</HymnTitle>
+    <FileName>3004.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3005</HymnID>
+    <HymnNo>3005</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U41 ಸಂತೊಸಾಚ್ಯಾ ತಾಳ್ಯಾನ್</HymnTitle>
+    <FileName>3005.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3006</HymnID>
+    <HymnNo>3006</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U42 ನಾಂವಾಡಾ ಸೊಮ್ಯಾಕ್</HymnTitle>
+    <FileName>3006.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3007</HymnID>
+    <HymnNo>3007</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U43 ಲಾವ್ದಾತೆ</HymnTitle>
+    <FileName>3007.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3008</HymnID>
+    <HymnNo>3008</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U44 ನಾಂವಾಡಾ ಸೊಮ್ಯಾಕ್</HymnTitle>
+    <FileName>3008.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3009</HymnID>
+    <HymnNo>3009</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H10 ಬೆತ್ಲೆಮಾ ಶ್ಹರಾಂತ್</HymnTitle>
+    <FileName>3009.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3010</HymnID>
+    <HymnNo>3010</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H11 ಭಾವಾಥ್ಯಾಂನೊ ಯೆಯಾ</HymnTitle>
+    <FileName>3010.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3011</HymnID>
+    <HymnNo>3011</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H12 ಮಧ್ಯಾನೆಚೆ ಕಾಳ್ಕೆ ರಾತಿರ್</HymnTitle>
+    <FileName>3011.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3012</HymnID>
+    <HymnNo>3012</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H13 ರಾಯ್ ಉದೆಂತಿಚೆ ಆಮಿ</HymnTitle>
+    <FileName>3012.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3013</HymnID>
+    <HymnNo>3013</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H14 ಸಗ್ಳಿ ಸೃಶ್ಟಿ ಪಾವನಾ</HymnTitle>
+    <FileName>3013.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3014</HymnID>
+    <HymnNo>3014</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H15 ಸಂತೊಸಾಚೊ ಪಾವ್ಲೊ ದೀಸ್</HymnTitle>
+    <FileName>3014.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3015</HymnID>
+    <HymnNo>3015</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H16 ಸಾಧ್ಯಾಂನೊ ತುಮಿ ಯೆಯಾ</HymnTitle>
+    <FileName>3015.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3016</HymnID>
+    <HymnNo>3016</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H17 ಸಾಸ್ಣಿಕ್ ದೆವಾಕ್ ದೆಕ್ತಾಂ</HymnTitle>
+    <FileName>3016.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3017</HymnID>
+    <HymnNo>3017</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H18 ಸ್ವಾಧಿಕ್ ರಾತ್</HymnTitle>
+    <FileName>3017.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3018</HymnID>
+    <HymnNo>3018</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H19 ಸಿಯೊನಾ ಭರ್ ಸಂತೊಸಾನ್</HymnTitle>
+    <FileName>3018.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3019</HymnID>
+    <HymnNo>3019</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H20 ಸೊಡ್ವೊಣ್ದಾರ್ ಜಲ್ಮಲಾ</HymnTitle>
+    <FileName>3019.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3020</HymnID>
+    <HymnNo>3020</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H21 ಹಿ ರಾತ್ ನಿಧಾನ್</HymnTitle>
+    <FileName>3020.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3021</HymnID>
+    <HymnNo>3021</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H22 ಜಯೊ ಬಾಳಾ</HymnTitle>
+    <FileName>3021.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3022</HymnID>
+    <HymnNo>3022</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H23 ಜೆಜು ಜಲ್ಮಲಾ</HymnTitle>
+    <FileName>3022.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3023</HymnID>
+    <HymnNo>3023</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H24 ನಮಾನ್ ಬಾಳಾಕ್ ರಾಯಾ</HymnTitle>
+    <FileName>3023.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3024</HymnID>
+    <HymnNo>3024</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H25 ಬಾಳಕ್ ಜೆಜು</HymnTitle>
+    <FileName>3024.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3026</HymnID>
+    <HymnNo>3026</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H26 ಬಾಳಕ್ ಜೆಜು ಜಯ್ಕಾರ್</HymnTitle>
+    <FileName>3026.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3027</HymnID>
+    <HymnNo>3027</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H27 ಮನ್ಶಾಂ ಮಧೆಂ ಮನಿಸ್ ಜಾವ್ನ್</HymnTitle>
+    <FileName>3027.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3028</HymnID>
+    <HymnNo>3028</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H28 ಮೋಗ್ ದೆವಾಚೊ</HymnTitle>
+    <FileName>3028.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3029</HymnID>
+    <HymnNo>3029</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H29 ಮೊಗಾಳ್ ಮರಿಯೆ</HymnTitle>
+    <FileName>3029.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3030</HymnID>
+    <HymnNo>3030</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H30 ಲ್ಹಾನಾಂ ಭಾವಾಂ ಭಯ್ಣಿ ಥಂಯ್</HymnTitle>
+    <FileName>3030.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3031</HymnID>
+    <HymnNo>3031</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H31 ಸೊಡ್ವಣ್ದಾರ್ ಆಜ್ ಜಲ್ಮಲಾ</HymnTitle>
+    <FileName>3031.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3032</HymnID>
+    <HymnNo>3032</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H32 ಸಂತೊಸ್ಭರಿತ್ ದೀಸ್ ಉದೆಲಾ</HymnTitle>
+    <FileName>3032.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3033</HymnID>
+    <HymnNo>3033</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H33 ಸಂತೊಸಾನ್ ಗಾವ್ಯಾಂ</HymnTitle>
+    <FileName>3033.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3034</HymnID>
+    <HymnNo>3034</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H34 ಆಮ್ಚ್ಯಾ ಕಾಳ್ಜಾಂತ್ ಜೆಜು ತುಂ ಯೆ</HymnTitle>
+    <FileName>3034.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3035</HymnID>
+    <HymnNo>3035</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H35 ಪ್ರಣಾಮ್ ತುಕಾ</HymnTitle>
+    <FileName>3035.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3036</HymnID>
+    <HymnNo>3036</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H36 ಭಾವಾರ್ಥಿ ಸರ್ವ್</HymnTitle>
+    <FileName>3036.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3037</HymnID>
+    <HymnNo>3037</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H37 ಮಧ್ಯಾನೆಚೆ ವೆಳಿಂ</HymnTitle>
+    <FileName>3037.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>3038</HymnID>
+    <HymnNo>3038</HymnNo>
+    <HymnTypeID>70</HymnTypeID>
+    <HymnTitle>H38 ಹಿ ಸ್ವಾದಿಕ್ ರಾತ್</HymnTitle>
+    <FileName>3038.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>4144</HymnID>
+    <HymnNo>4144</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A12 ವೆದಿ ಭೊಂವ್ತಿಂ</HymnTitle>
+    <FileName>4144.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>4145</HymnID>
+    <HymnNo>4145</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A18 ಆಮಿ ತುಜಿ ವೆಂಚಿವ್ ಪರ್ಜಾ</HymnTitle>
+    <FileName>4145.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>4146</HymnID>
+    <HymnNo>4146</HymnNo>
+    <HymnTypeID>61</HymnTypeID>
+    <HymnTitle>A57 ಸಂತೊಸಾನ್ ಉಲ್ಲಾಸಾನ್</HymnTitle>
+    <FileName>4146.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>4147</HymnID>
+    <HymnNo>4147</HymnNo>
+    <HymnTypeID>62</HymnTypeID>
+    <HymnTitle>AB78 ಸರ್ವೆಸ್ಪರಾ ದೆವಾಚೆರ್</HymnTitle>
+    <FileName>4147.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>4148</HymnID>
+    <HymnNo>4148</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U11 ಗಾಯ್ತಾ ಕಾಳಿಜ್ ಮ್ಹಜೆಂ</HymnTitle>
+    <FileName>4148.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>4149</HymnID>
+    <HymnNo>4149</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U24 ಕಿತ್ಲಿಂ ವಿಚಿತ್ರ್ ಕೃತ್ಯಾಂ ತುಜಿಂ</HymnTitle>
+    <FileName>4149.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>4150</HymnID>
+    <HymnNo>4150</HymnNo>
+    <HymnTypeID>78</HymnTypeID>
+    <HymnTitle>U34 ಊಂಚ್ ಅಂತ್ರಾಳಿಂ</HymnTitle>
+    <FileName>4150.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>4151</HymnID>
+    <HymnNo>4151</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R25 ಸೊಮ್ಯಾ ದಯಾ ದಾಕಯ್</HymnTitle>
+    <FileName>4151.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>4152</HymnID>
+    <HymnNo>4152</HymnNo>
+    <HymnTypeID>87</HymnTypeID>
+    <HymnTitle>R26 ಸೊಮ್ಯಾಚೆಂ ನಾಂವ್</HymnTitle>
+    <FileName>4152.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>4153</HymnID>
+    <HymnNo>4153</HymnNo>
+    <HymnTypeID>85</HymnTypeID>
+    <HymnTitle>Q5 ತುಂ ವೆತಾಯ್ ಥಂಯ್ಸರ್</HymnTitle>
+    <FileName>4153.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>4160</HymnID>
+    <HymnNo>4160</HymnNo>
+    <HymnTypeID>69</HymnTypeID>
+    <HymnTitle>G1 ಉಲ್ಲಾಸ್ ಪಾವ್ ಇಸ್ರಾಯೆಲಿ</HymnTitle>
+    <FileName>4160.txt</FileName>
+  </Hymn>
+  <Hymn>
+    <HymnID>4161</HymnID>
+    <HymnNo>4161</HymnNo>
+    <HymnTypeID>69</HymnTypeID>
+    <HymnTitle>G2 ಯೆ, ಯೆ, ಜೆಜು ಆಮ್ಚ್ಯಾ ಸೊಮ್ಯಾ</HymnTitle>
+    <FileName>4161.txt</FileName>
+  </Hymn>
+</DocumentElement>

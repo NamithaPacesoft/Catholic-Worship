@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocumentElement>
+  <Details>
+    <BibleTypeID>1</BibleTypeID>
+    <Description>RSV</Description>
+  </Details>
+  <Details>
+    <BibleTypeID>2</BibleTypeID>
+    <Description>NRSV</Description>
+  </Details>
+</DocumentElement>

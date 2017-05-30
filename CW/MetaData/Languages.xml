@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Languages>
+  <Language LanguageID="1">
+    <Description>English</Description>
+    <Software>Default</Software>
+    <Font>Default</Font>
+  </Language>
+  <Language LanguageID="2">
+    <Description>Konkani</Description>
+    <Software>BarahaDirect</Software>
+    <Font>BRH Tamil</Font>
+  </Language>
+  <Language LanguageID="3">
+    <Description>Kannada</Description>
+    <Software>BarahaDirect</Software>
+    <Font>BRH Kannada</Font>
+  </Language>
+</Languages>

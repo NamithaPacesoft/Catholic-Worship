@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <ScheduleItem>
+    <FileType>Hymns</FileType>
+    <MainType>1</MainType>
+    <Location>1262</Location>
+    <LanguageID>2</LanguageID>
+    <AudioFileID>0</AudioFileID>
+  </ScheduleItem>
+  <ScheduleItem>
+    <FileType>Hymns</FileType>
+    <MainType>1</MainType>
+    <Location>2889</Location>
+    <LanguageID>2</LanguageID>
+    <AudioFileID>0</AudioFileID>
+  </ScheduleItem>
+  <ScheduleItem>
+    <FileType>Hymns</FileType>
+    <MainType>1</MainType>
+    <Location>2976</Location>
+    <LanguageID>2</LanguageID>
+    <AudioFileID>0</AudioFileID>
+  </ScheduleItem>
+</DocumentElement>

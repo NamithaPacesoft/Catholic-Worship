@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<HymnTypes>
+  <HymnType TypeID="1">
+    <Description>Entrance</Description>
+  </HymnType>
+  <HymnType TypeID="2">
+    <Description>Psalms</Description>
+  </HymnType>
+  <HymnType TypeID="3">
+    <Description>Acclamation</Description>
+  </HymnType>
+  <HymnType TypeID="4">
+    <Description>Offertory</Description>
+  </HymnType>
+  <HymnType TypeID="5">
+    <Description>Communion</Description>
+  </HymnType>
+  <HymnType TypeID="6">
+    <Description>Thanksgiving</Description>
+  </HymnType>
+  <HymnType TypeID="7">
+    <Description>Recessional</Description>
+  </HymnType>
+  <HymnType TypeID="8">
+    <Description>Kyrie, Gloria, Sanctus</Description>
+  </HymnType>
+  <HymnType TypeID="9">
+    <Description>Advent</Description>
+  </HymnType>
+  <HymnType TypeID="10">
+    <Description>Christmas</Description>
+  </HymnType>
+  <HymnType TypeID="11">
+    <Description>Lent</Description>
+  </HymnType>
+  <HymnType TypeID="12">
+    <Description>Holy Week</Description>
+  </HymnType>
+  <HymnType TypeID="13">
+    <Description>Easter</Description>
+  </HymnType>
+  <HymnType TypeID="14">
+    <Description>Trinity</Description>
+  </HymnType>
+  <HymnType TypeID="15">
+    <Description>Jesus Christ</Description>
+  </HymnType>
+  <HymnType TypeID="16">
+    <Description>Holy Spirit</Description>
+  </HymnType>
+  <HymnType TypeID="17">
+    <Description>Adoration</Description>
+  </HymnType>
+  <HymnType TypeID="18">
+    <Description>Praise and Worship</Description>
+  </HymnType>
+  <HymnType TypeID="19">
+    <Description>Surrender</Description>
+  </HymnType>
+  <HymnType TypeID="20">
+    <Description>Forgiveness</Description>
+  </HymnType>
+  <HymnType TypeID="21">
+    <Description>Bible Songs</Description>
+  </HymnType>
+  <HymnType TypeID="22">
+    <Description>Mother Mary</Description>
+  </HymnType>
+  <HymnType TypeID="23">
+    <Description>Sacred Heart</Description>
+  </HymnType>
+  <HymnType TypeID="24">
+    <Description>Saints/ Patron</Description>
+  </HymnType>
+  <HymnType TypeID="25">
+    <Description>Marriage</Description>
+  </HymnType>
+  <HymnType TypeID="26">
+    <Description>Funeral</Description>
+  </HymnType>
+  <HymnType TypeID="27">
+    <Description>Bhajans</Description>
+  </HymnType>
+  <HymnType TypeID="28">
+    <Description>Word of God</Description>
+  </HymnType>
+  <HymnType TypeID="29">
+    <Description>Holy Church</Description>
+  </HymnType>
+  <HymnType TypeID="30">
+    <Description>Other Hymns</Description>
+  </HymnType>
+</HymnTypes>

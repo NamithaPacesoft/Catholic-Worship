@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Prayer>
+    <PrayerID>2</PrayerID>
+    <PrayerTypeID>11</PrayerTypeID>
+    <PrayerTitle>ಭಾಗೆವಂತ್ ಖುರ್‍ಸಾಚೆ ಕುರು</PrayerTitle>
+    <FileName>2.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>3</PrayerID>
+    <PrayerTypeID>11</PrayerTypeID>
+    <PrayerTitle>ಮಹಿಮಾ ಬಾಪಾಕ್</PrayerTitle>
+    <FileName>3.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>4</PrayerID>
+    <PrayerTypeID>11</PrayerTypeID>
+    <PrayerTitle>ಆಪೊಸ್ತಲಾಂಚಿ ಸತ್ಮಾನ್ತಾಂ</PrayerTitle>
+    <FileName>4.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>5</PrayerID>
+    <PrayerTypeID>11</PrayerTypeID>
+    <PrayerTitle>ನೈಸಿಯಾಚೆಂ ಸತ್ಮಾನ್ತಾಂ	</PrayerTitle>
+    <FileName>5.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>6</PrayerID>
+    <PrayerTypeID>11</PrayerTypeID>
+    <PrayerTitle>ಮ್ಹಜ್ಯಾ ದೆವಾ</PrayerTitle>
+    <FileName>6.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>7</PrayerID>
+    <PrayerTypeID>11</PrayerTypeID>
+    <PrayerTitle>ಸಕಾಳಿಂಚಿ ಭೆಟವ್ಣಿ</PrayerTitle>
+    <FileName>7.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>8</PrayerID>
+    <PrayerTypeID>11</PrayerTypeID>
+    <PrayerTitle>ಭಾವಾರ್ಥಾಚೆಂ ವಿಧಾನ್</PrayerTitle>
+    <FileName>8.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>9</PrayerID>
+    <PrayerTypeID>11</PrayerTypeID>
+    <PrayerTitle>ಭರ್ವಶ್ಯಾಚೆಂ ವಿಧಾನ್</PrayerTitle>
+    <FileName>9.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>10</PrayerID>
+    <PrayerTypeID>11</PrayerTypeID>
+    <PrayerTitle>ಮೊಗಾಚೆಂ ವಿಧಾನ್</PrayerTitle>
+    <FileName>10.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>11</PrayerID>
+    <PrayerTypeID>11</PrayerTypeID>
+    <PrayerTitle>ದುಃಖಿಚೆಂ ವಿಧಾನ್</PrayerTitle>
+    <FileName>11.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>12</PrayerID>
+    <PrayerTypeID>11</PrayerTypeID>
+    <PrayerTitle>ಆವ್ಮರಿ</PrayerTitle>
+    <FileName>12.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>13</PrayerID>
+    <PrayerTypeID>11</PrayerTypeID>
+    <PrayerTitle>ಸರ್ಗಾಚೆ ರಾಣಿಯೆ</PrayerTitle>
+    <FileName>13.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>14</PrayerID>
+    <PrayerTypeID>11</PrayerTypeID>
+    <PrayerTitle>ರಾಕಣ್ ಭೊಡ್ವ್ಯಾಕಡೆ ಮಾಗ್ಣೆಂ</PrayerTitle>
+    <FileName>14.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>15</PrayerID>
+    <PrayerTypeID>11</PrayerTypeID>
+    <PrayerTitle>ಸರ್‌ಲ್ಲ್ಯಾ ಭಾವಾರ್ಥ್ಯಾಂ ಪಾಸತ್ ಮಾಗ್ಣೆಂ</PrayerTitle>
+    <FileName>15.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>16</PrayerID>
+    <PrayerTypeID>11</PrayerTypeID>
+    <PrayerTitle>ಬಾಪಾಚೆ ಆನಿ ಪುತಾಚ್ಯೆ </PrayerTitle>
+    <FileName>16.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>17</PrayerID>
+    <PrayerTypeID>11</PrayerTypeID>
+    <PrayerTitle>ನಮಾನ್ ರಾಣಿಯೆ</PrayerTitle>
+    <FileName>17.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>18</PrayerID>
+    <PrayerTypeID>11</PrayerTypeID>
+    <PrayerTitle>ಮರಿಯೆಕ್ ಸಮರ್ಪಣ್	</PrayerTitle>
+    <FileName>18.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>19</PrayerID>
+    <PrayerTypeID>11</PrayerTypeID>
+    <PrayerTitle>ನಿಸ್ಕಳ್ ಪಣ್ ಜೊಡುಂಕ್ ಮಾಗ್ಣೆಂ	</PrayerTitle>
+    <FileName>19.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>20</PrayerID>
+    <PrayerTypeID>14</PrayerTypeID>
+    <PrayerTitle>ಸಂತೊಸಾಚೆ ಮಿಸ್ತೆರ್</PrayerTitle>
+    <FileName>20.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>21</PrayerID>
+    <PrayerTypeID>14</PrayerTypeID>
+    <PrayerTitle>ದುಃಖಿಚೆ ಮಿಸ್ತೆರ್</PrayerTitle>
+    <FileName>21.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>22</PrayerID>
+    <PrayerTypeID>14</PrayerTypeID>
+    <PrayerTitle>ಆನಂದಾಚೆ ಮಿಸ್ತೆರ್</PrayerTitle>
+    <FileName>22.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>23</PrayerID>
+    <PrayerTypeID>14</PrayerTypeID>
+    <PrayerTitle>ಉಜ್ವಾಡಾಚೆ ಮಿಸ್ತೆರ್</PrayerTitle>
+    <FileName>23.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>25</PrayerID>
+    <PrayerTypeID>13</PrayerTypeID>
+    <PrayerTitle>ಸಾಸ್ಣಾಚ್ಯಾ ಬಾಪಾ</PrayerTitle>
+    <FileName>25.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>26</PrayerID>
+    <PrayerTypeID>15</PrayerTypeID>
+    <PrayerTitle>ಸ್ತೆಸಾಂವ್</PrayerTitle>
+    <FileName>26.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>27</PrayerID>
+    <PrayerTypeID>12</PrayerTypeID>
+    <PrayerTitle>ದೆವಾಚೆ ಉಪದೆಸ್</PrayerTitle>
+    <FileName>27.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>28</PrayerID>
+    <PrayerTypeID>12</PrayerTypeID>
+    <PrayerTitle>ಪವಿತ್ರ್ ಸಭೆಚೆ ಉಪದೆಸ್</PrayerTitle>
+    <FileName>28.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>29</PrayerID>
+    <PrayerTypeID>12</PrayerTypeID>
+    <PrayerTitle>ಸಾಕ್ರಾಮೆಂತ್ </PrayerTitle>
+    <FileName>29.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>30</PrayerID>
+    <PrayerTypeID>12</PrayerTypeID>
+    <PrayerTitle>ಮೊಗಾಚೆ ದೋನ್ ಉಪದೆಸ್</PrayerTitle>
+    <FileName>30.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>31</PrayerID>
+    <PrayerTypeID>12</PrayerTypeID>
+    <PrayerTitle>ಭಾಂಗಾರಾ ಸಾರ್ಕೆಂ ನಿಯಮ್</PrayerTitle>
+    <FileName>31.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>32</PrayerID>
+    <PrayerTypeID>12</PrayerTypeID>
+    <PrayerTitle>ದೇವ್ ಸಂಬಂಧಾಚೆ ತೀನ್ ಶೆಗುಣ್	</PrayerTitle>
+    <FileName>32.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>33</PrayerID>
+    <PrayerTypeID>12</PrayerTypeID>
+    <PrayerTitle>ಬರೆ ಚಾಲಿಚೆ ಚಾರ್ ಪ್ರಮುಖ್ ಶೆಗುಣ್</PrayerTitle>
+    <FileName>33.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>34</PrayerID>
+    <PrayerTypeID>12</PrayerTypeID>
+    <PrayerTitle>ಪವಿತ್ರ್ ಅತ್ಮ್ಯಾಚಿಂ ಸಾತ್ ದೆಣಿಂ</PrayerTitle>
+    <FileName>34.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>35</PrayerID>
+    <PrayerTypeID>12</PrayerTypeID>
+    <PrayerTitle>ಪವಿತ್ರ್ ಅತ್ಮ್ಯಾಚಿಂ ಬಾರಾ ಫಳಾಂ</PrayerTitle>
+    <FileName>35.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>36</PrayerID>
+    <PrayerTypeID>12</PrayerTypeID>
+    <PrayerTitle>ಮಹಾ ಪಾತ್ಕಾಂಚಿಂ ಸಾತ್ ಮುಳಾಂ</PrayerTitle>
+    <FileName>36.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>37</PrayerID>
+    <PrayerTypeID>12</PrayerTypeID>
+    <PrayerTitle>ನಿಮಾಣ್ಯೊ ಚಾರ್ ವಸ್ತು</PrayerTitle>
+    <FileName>37.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>39</PrayerID>
+    <PrayerTypeID>16</PrayerTypeID>
+    <PrayerTitle>ಕ್ರುಸಿಫಿಕ್ಸ್ ಇಮಾಜಿ ಮುಖಾರ್ ಮಾಗ್ಣೆಂ</PrayerTitle>
+    <FileName>39.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>40</PrayerID>
+    <PrayerTypeID>16</PrayerTypeID>
+    <PrayerTitle>ಶಾಂತಿ ಪಾಸತ್ ಮಾಗ್ಣೆಂ</PrayerTitle>
+    <FileName>40.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>128</PrayerID>
+    <PrayerTypeID>11</PrayerTypeID>
+    <PrayerTitle>ಭೊಡ್ವ್ಯಾಚೊ ನಮಾನ್  </PrayerTitle>
+    <FileName>128.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>148</PrayerID>
+    <PrayerTypeID>32</PrayerTypeID>
+    <PrayerTitle>ಸುರ್ವಿಲಿ ರೀತ್ </PrayerTitle>
+    <FileName>148.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>149</PrayerID>
+    <PrayerTypeID>32</PrayerTypeID>
+    <PrayerTitle>ನಮಾನ್</PrayerTitle>
+    <FileName>149.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>150</PrayerID>
+    <PrayerTypeID>32</PrayerTypeID>
+    <PrayerTitle>ಹಾಂವ್ ಪಾತ್ಕಿ</PrayerTitle>
+    <FileName>150.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>151</PrayerID>
+    <PrayerTypeID>32</PrayerTypeID>
+    <PrayerTitle>ಪ್ರಾಚಿತಾಚಿ ರೀತ್ </PrayerTitle>
+    <FileName>151.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>152</PrayerID>
+    <PrayerTypeID>32</PrayerTypeID>
+    <PrayerTitle>ಮಹಿಮಾ ದೆವಾಕ್ </PrayerTitle>
+    <FileName>152.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>153</PrayerID>
+    <PrayerTypeID>32</PrayerTypeID>
+    <PrayerTitle>ದೆವಾಚ್ಯಾ ಸಬ್ದಾಚೊ ಸಂಭ್ರಮ್</PrayerTitle>
+    <FileName>153.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>154</PrayerID>
+    <PrayerTypeID>32</PrayerTypeID>
+    <PrayerTitle>ಶುಭ್‌ವಾರ್ತೆಚೆಂ ವಾಚಪ್</PrayerTitle>
+    <FileName>154.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>155</PrayerID>
+    <PrayerTypeID>32</PrayerTypeID>
+    <PrayerTitle>ಉಂಡೊ ಅನಿ ಕಾಲ್ಸ್ ಭೆಟೊಂವ್ಚೊ</PrayerTitle>
+    <FileName>155.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>156</PrayerID>
+    <PrayerTypeID>32</PrayerTypeID>
+    <PrayerTitle>ಮಾಗ್ಣ್ಯಾಕ್ ಆಪೊವ್ಣೆಂ</PrayerTitle>
+    <FileName>156.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>157</PrayerID>
+    <PrayerTypeID>32</PrayerTypeID>
+    <PrayerTitle>ಮಹಾ ಸ್ತುತಿ</PrayerTitle>
+    <FileName>157.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>158</PrayerID>
+    <PrayerTypeID>32</PrayerTypeID>
+    <PrayerTitle>ಪವಿತ್ರ್ ಪವಿತ್ರ್</PrayerTitle>
+    <FileName>158.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>159</PrayerID>
+    <PrayerTypeID>32</PrayerTypeID>
+    <PrayerTitle>ಮಹಾ ಪ್ರಾರ್ಥನ್</PrayerTitle>
+    <FileName>159.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>160</PrayerID>
+    <PrayerTypeID>32</PrayerTypeID>
+    <PrayerTitle>ಮಹಾ ಪ್ರಾರ್ಥನಾಚೊ ಶೆವಟ್</PrayerTitle>
+    <FileName>160.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>161</PrayerID>
+    <PrayerTypeID>32</PrayerTypeID>
+    <PrayerTitle>ಶಾಂತಿ ದಿಂವ್ಚಿ ರೀತ್ </PrayerTitle>
+    <FileName>161.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>162</PrayerID>
+    <PrayerTypeID>32</PrayerTypeID>
+    <PrayerTitle>ದೆವಾಚೆ ಶೆಳಿಯೆ</PrayerTitle>
+    <FileName>162.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>163</PrayerID>
+    <PrayerTypeID>32</PrayerTypeID>
+    <PrayerTitle>ಆಶೀರ್ವಾದ್</PrayerTitle>
+    <FileName>163.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>164</PrayerID>
+    <PrayerTypeID>32</PrayerTypeID>
+    <PrayerTitle>ಭಾವಾರ್ಥ್ಯಾಂಚೆಂ ಪ್ರಾರ್ಥನ್</PrayerTitle>
+    <FileName>164.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>165</PrayerID>
+    <PrayerTypeID>11</PrayerTypeID>
+    <PrayerTitle>ಆಮ್ಚ್ಯಾ ಬಾಪಾ</PrayerTitle>
+    <FileName>165.txt</FileName>
+  </Prayer>
+  <Prayer>
+    <PrayerID>166</PrayerID>
+    <PrayerTypeID>13</PrayerTypeID>
+    <PrayerTitle>qwert</PrayerTitle>
+    <FileName>166.txt</FileName>
+  </Prayer>
+</DocumentElement>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Season>
+  <Season SeasonTypeID="1">
+    <Description>ತಪಸ್ಸು ಕಾಲ</Description>
+  </Season>
+  <Season SeasonTypeID="2">
+    <Description>ಪಾಸ್ಖ ಕಾಲ</Description>
+  </Season>
+  <Season SeasonTypeID="3">
+    <Description>ಸಾದಾರಣ ಕಾಲ</Description>
+  </Season>
+  <Season SeasonTypeID="4">
+    <Description>ಆಗಮನ ಕಾಲ</Description>
+  </Season>
+  <Season SeasonTypeID="5">
+    <Description>ಕ್ರಿಸ್ಮಸ್</Description>
+  </Season>
+  <Season SeasonTypeID="6">
+    <Description>ಹಬ್ಬ</Description>
+  </Season>
+</Season>

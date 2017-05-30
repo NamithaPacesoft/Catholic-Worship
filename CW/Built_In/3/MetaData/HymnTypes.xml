@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<HymnTypes>
+  <HymnType TypeID="121">
+    <Description>ಪ್ರವೇಶ</Description>
+  </HymnType>
+  <HymnType TypeID="122">
+    <Description>ವಾಚನ ಧ್ಯಾನ</Description>
+  </HymnType>
+  <HymnType TypeID="123">
+    <Description>ಅಲ್ಲೆಲೂಯ ಘೋಷಣೆ</Description>
+  </HymnType>
+  <HymnType TypeID="124">
+    <Description>ಕಾಣಿಕೆ</Description>
+  </HymnType>
+  <HymnType TypeID="125">
+    <Description>ಪರಮ ಪ್ರಸಾದ</Description>
+  </HymnType>
+  <HymnType TypeID="126">
+    <Description>ಸ್ತುತಿ ಗೀತೆಗಳು</Description>
+  </HymnType>
+  <HymnType TypeID="127">
+    <Description>ನಿರ್ಗಮನ</Description>
+  </HymnType>
+  <HymnType TypeID="128">
+    <Description>ಮಹಿಮಾ</Description>
+  </HymnType>
+  <HymnType TypeID="129">
+    <Description>ಆಗಮನ ಕಾಲ</Description>
+  </HymnType>
+  <HymnType TypeID="130">
+    <Description>ಕ್ರಿಸ್ಮಸ್</Description>
+  </HymnType>
+  <HymnType TypeID="131">
+    <Description>ತಪಸ್ಸು ಕಾಲ</Description>
+  </HymnType>
+  <HymnType TypeID="132">
+    <Description>ಪವಿತ್ರ ವಾರ</Description>
+  </HymnType>
+  <HymnType TypeID="133">
+    <Description>ಪಾಸ್ಖ ಕಾಲ</Description>
+  </HymnType>
+  <HymnType TypeID="134">
+    <Description>ನಿತ್ಯ ವಿಶ್ರಾಂತಿ ಗೀತೆಗಳು</Description>
+  </HymnType>
+  <HymnType TypeID="135">
+    <Description>ಯೇಸು ಕ್ರಿಸ್ತ</Description>
+  </HymnType>
+  <HymnType TypeID="136">
+    <Description>ಪವಿತ್ರ ಆತ್ಮ</Description>
+  </HymnType>
+  <HymnType TypeID="137">
+    <Description>ಆರಾಧನೆ</Description>
+  </HymnType>
+  <HymnType TypeID="138">
+    <Description>ಸ್ತುತಿ ಮಹಿಮೆ</Description>
+  </HymnType>
+  <HymnType TypeID="139">
+    <Description>ಶುಭಾಶಯ ಗೀತೆಗಳು</Description>
+  </HymnType>
+  <HymnType TypeID="140">
+    <Description>ಕ್ಷಮಾ ಯಾಚನೆ</Description>
+  </HymnType>
+  <HymnType TypeID="141">
+    <Description>ಬೈಬಲ್ ಗೀತೆಗಳು</Description>
+  </HymnType>
+  <HymnType TypeID="142">
+    <Description>ದೇವ ಮಾತೆಯ ಗೀತೆ</Description>
+  </HymnType>
+  <HymnType TypeID="143">
+    <Description>ತಿರು ಹ್ರದಯ</Description>
+  </HymnType>
+  <HymnType TypeID="144">
+    <Description>ಸಂತ ಭಕ್ತ</Description>
+  </HymnType>
+  <HymnType TypeID="145">
+    <Description>ಮದುವೆ</Description>
+  </HymnType>
+  <HymnType TypeID="146">
+    <Description>ಮರಣ</Description>
+  </HymnType>
+  <HymnType TypeID="147">
+    <Description>ಭಜನಾ</Description>
+  </HymnType>
+  <HymnType TypeID="148">
+    <Description>ದೇವರ ವಾಕ್ಯ</Description>
+  </HymnType>
+  <HymnType TypeID="149">
+    <Description>ಪವಿತ್ರ ಸಭೆ</Description>
+  </HymnType>
+  <HymnType TypeID="150">
+    <Description>ಇತರ ಗೀತೆಗಳು</Description>
+  </HymnType>
+</HymnTypes>

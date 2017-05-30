@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <HymnType>
+    <HymnTypeID>1</HymnTypeID>
+    <Description>addssdf</Description>
+  </HymnType>
+  <HymnType>
+    <HymnTypeID>2</HymnTypeID>
+    <Description>werty</Description>
+  </HymnType>
+  <HymnType>
+    <HymnTypeID>3</HymnTypeID>
+    <Description>ssddfg</Description>
+  </HymnType>
+</DocumentElement>

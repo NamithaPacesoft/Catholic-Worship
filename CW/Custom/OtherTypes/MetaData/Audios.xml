@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Audio>
+    <AudioID>1</AudioID>
+    <Title>Maid with the Flaxen Hair</Title>
+    <FileName>Audio1.mp3</FileName>
+    <FolderId>1</FolderId>
+  </Audio>
+  <Audio>
+    <AudioID>3</AudioID>
+    <Title>small-bell-ringing-02</Title>
+    <FileName>Audio3.mp3</FileName>
+    <FolderId>1</FolderId>
+  </Audio>
+</DocumentElement>

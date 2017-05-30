@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Maximum>
+    <Type>PrayerTypes</Type>
+    <Value>5</Value>
+  </Maximum>
+  <Maximum>
+    <Type>HymnTypes</Type>
+    <Value>3</Value>
+  </Maximum>
+  <Maximum>
+    <Type>HymnsCustom</Type>
+    <Value>2</Value>
+  </Maximum>
+  <Maximum>
+    <Type>PrayersCustom</Type>
+    <Value>1</Value>
+  </Maximum>
+</DocumentElement>

@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <ScheduleItem>
+    <FileType>Prayers</FileType>
+    <MainType>1</MainType>
+    <Location>37</Location>
+    <LanguageID>2</LanguageID>
+    <AudioFileID>0</AudioFileID>
+  </ScheduleItem>
+  <ScheduleItem>
+    <FileType>Prayers</FileType>
+    <MainType>1</MainType>
+    <Location>108</Location>
+    <LanguageID>3</LanguageID>
+    <AudioFileID>0</AudioFileID>
+  </ScheduleItem>
+</DocumentElement>

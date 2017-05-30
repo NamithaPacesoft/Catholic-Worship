@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PrayerTypes>
+  <PrayerType PrayerTypeID="21">
+    <Description>ಪ್ರಾತಃ ಕಾಲದ ಪ್ರಾರ್ಥನೆಗಳು</Description>
+  </PrayerType>
+  <PrayerType PrayerTypeID="22">
+    <Description>ಧರ್ಮಸಭೆಯ ಭೋಧನೆ</Description>
+  </PrayerType>
+  <PrayerType PrayerTypeID="23">
+    <Description>ಕರುಣೆಯ ಜಪಸರ</Description>
+  </PrayerType>
+  <PrayerType PrayerTypeID="24">
+    <Description>ಜಪಸರ </Description>
+  </PrayerType>
+  <PrayerType PrayerTypeID="25">
+    <Description>ಶಿಲುಬೆಯ ಹಾದಿ </Description>
+  </PrayerType>
+  <PrayerType PrayerTypeID="26">
+    <Description>ಇತರ ಪ್ರಾರ್ಥನೆಗಳು </Description>
+  </PrayerType>
+   <PrayerType PrayerTypeID="33">
+    <Description>ಪೂಜೆಯ ವಿಧಾನ </Description>
+  </PrayerType>
+</PrayerTypes>

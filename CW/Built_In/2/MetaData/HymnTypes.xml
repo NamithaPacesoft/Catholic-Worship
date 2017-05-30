@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<HymnTypes>
+  <HymnType TypeID="61">
+    <Description>ಪ್ರವೇಶ್</Description>
+  </HymnType>
+  <HymnType TypeID="62">
+    <Description>ಆಂತರ್ ಗಿತಾಂ</Description>
+  </HymnType>
+  <HymnType TypeID="63">
+    <Description>ಉದ್ಗಾರ್</Description>
+  </HymnType>
+  <HymnType TypeID="64">
+    <Description>ಕಾಣಿಕ್</Description>
+  </HymnType>
+  <HymnType TypeID="65">
+    <Description>ಕ್ರಿಸ್ತ್ ಪ್ರಸಾದ್</Description>
+  </HymnType>
+  <HymnType TypeID="66">
+    <Description>ಆರ್ಗಾಂ</Description>
+  </HymnType>
+  <HymnType TypeID="67">
+    <Description>ನಿರ್ಗಮನ್</Description>
+  </HymnType>
+  <HymnType TypeID="68">
+    <Description>ಮಹಿಮಾ</Description>
+  </HymnType>
+  <HymnType TypeID="69">
+    <Description>ಕ್ರಿಸ್ತ್ ಯೆಣ್ಯಾಚೋ ಕಾಳ್</Description>
+  </HymnType>
+  <HymnType TypeID="70">
+    <Description>ಕ್ರಿಸ್ಮಸ್</Description>
+  </HymnType>
+  <HymnType TypeID="71">
+    <Description>ಪ್ರಾಚಿತ್ ಕಾಳ್</Description>
+  </HymnType>
+  <HymnType TypeID="72">
+    <Description>ಭಾಗೆವಂತ್  ಹಫ್ತೋ</Description>
+  </HymnType>
+  <HymnType TypeID="73">
+    <Description>ಪಾಸ್ಕಾಂಚೋ ಕಾಳ್</Description>
+  </HymnType>
+  <HymnType TypeID="74">
+    <Description>ತ್ರಿಎಕ್ ದೆವ್</Description>
+  </HymnType>
+  <HymnType TypeID="75">
+    <Description>ಜೆಜು ಕ್ರಿಸ್ತ್</Description>
+  </HymnType>
+  <HymnType TypeID="76">
+    <Description>ಪವಿತ್ರ್ ಆತ್ಮ್ಯಾ ಚಿ ಗಿತಾಂ</Description>
+  </HymnType>
+  <HymnType TypeID="77">
+    <Description>ಅರಾಧನ್</Description>
+  </HymnType>
+  <HymnType TypeID="78">
+    <Description>ಆರ್ಗಾಂ ಸ್ತುತಿ</Description>
+  </HymnType>
+  <HymnType TypeID="79">
+    <Description>ಸಮರ್ಪಣಾಚಿ ಗಿತಾಂ</Description>
+  </HymnType>
+  <HymnType TypeID="80">
+    <Description>ಬೊಗ್ಸಾಣೆಚಿಂ ಗಿತಾಂ</Description>
+  </HymnType>
+  <HymnType TypeID="81">
+    <Description>ಪವಿತ್ರ್ ಬೈಬಲಾಚಿಂ ಗಿತಾಂ</Description>
+  </HymnType>
+  <HymnType TypeID="82">
+    <Description>ಮರಿಯಾಳ್ ಗಿತಾಂ</Description>
+  </HymnType>
+  <HymnType TypeID="83">
+    <Description>ಪವಿತ್ರ್ ಕಾಳಿಜ್</Description>
+  </HymnType>
+  <HymnType TypeID="84">
+    <Description>ಸಾಂತ್ ಭಕ್ತ್ / ಪಾತ್ರೊನ್</Description>
+  </HymnType>
+  <HymnType TypeID="85">
+    <Description>ಲಗ್ನ್</Description>
+  </HymnType>
+  <HymnType TypeID="86">
+    <Description>ಮೊರ್ನಾಚಿಂ ಗಿತಾಂ</Description>
+  </HymnType>
+  <HymnType TypeID="87">
+    <Description>ಭಜನಾಂ</Description>
+  </HymnType>
+  <HymnType TypeID="88">
+    <Description>ದೆವಾಚ್ಯಾ ಸಬ್ಧಾಚಿಂ ಗಿತಾಂ</Description>
+  </HymnType>
+  <HymnType TypeID="89">
+    <Description>ಪವಿತ್ರ್ ಸಭಾ</Description>
+  </HymnType>
+  <HymnType TypeID="90">
+    <Description>ಹೆರ್ ಗಿತಾಂ</Description>
+  </HymnType>
+</HymnTypes>

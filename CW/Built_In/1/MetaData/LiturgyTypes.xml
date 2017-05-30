@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LiturgyType>
+  <Liturgy LiturgyTypeID="1">
+    <Description>Reading 1</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="2">
+    <Description>Reading 2</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="3">
+    <Description>Gospel</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="4">
+    <Description>Psalm</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="5">
+    <Description>Reading 3</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="6">
+    <Description>Reading 4</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="7">
+    <Description>Reading 5</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="8">
+    <Description>Reading 6</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="9">
+    <Description>Reading 7</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="10">
+    <Description>Reading 8</Description>
+  </Liturgy>
+  <Liturgy LiturgyTypeID="11">
+    <Description>Reading 9</Description>
+  </Liturgy>
+</LiturgyType>

@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <VideoFolder>
+    <FolderId>1</FolderId>
+    <FolderName>zxcvbn</FolderName>
+  </VideoFolder>
+  <VideoFolder>
+    <FolderId>2</FolderId>
+    <FolderName>lkjhgfd</FolderName>
+  </VideoFolder>
+</DocumentElement>

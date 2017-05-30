@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<HymnMainTypes>
+  <HymnMainType TypeID="1">
+    <Description>Built-In</Description>
+  </HymnMainType>
+  <HymnMainType TypeID="2">
+    <Description>User Custom</Description>
+  </HymnMainType>
+</HymnMainTypes>

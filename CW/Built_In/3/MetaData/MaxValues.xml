@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Maximum>
+    <Type>Hymns</Type>
+    <Value>4135</Value>
+  </Maximum>
+  <Maximum>
+    <Type>LiturgyDetails</Type>
+    <Value>2673</Value>
+  </Maximum>
+  <Maximum>
+    <Type>Prayers</Type>
+    <Value>124</Value>
+  </Maximum>
+</DocumentElement>

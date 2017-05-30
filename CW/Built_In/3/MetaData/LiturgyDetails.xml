@@ -1,0 +1,6058 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Detail>
+    <LiturgyDetailsID>1809</LiturgyDetailsID>
+    <LiturgyID>50</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 2:1-5</MetaData>
+    <FileName>1809.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1810</LiturgyDetailsID>
+    <LiturgyID>50</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 13:11-14</MetaData>
+    <FileName>1810.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1811</LiturgyDetailsID>
+    <LiturgyID>50</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 24:37-44</MetaData>
+    <FileName>1811.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1812</LiturgyDetailsID>
+    <LiturgyID>51</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 11:1-10</MetaData>
+    <FileName>1812.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1813</LiturgyDetailsID>
+    <LiturgyID>51</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 15:4-9</MetaData>
+    <FileName>1813.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1814</LiturgyDetailsID>
+    <LiturgyID>51</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 3:1-12</MetaData>
+    <FileName>1814.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1815</LiturgyDetailsID>
+    <LiturgyID>52</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 35:1-6#Isaiah 35:10</MetaData>
+    <FileName>1815.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1816</LiturgyDetailsID>
+    <LiturgyID>52</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>James 5:7-10</MetaData>
+    <FileName>1816.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1817</LiturgyDetailsID>
+    <LiturgyID>52</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 11:2-11</MetaData>
+    <FileName>1817.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1818</LiturgyDetailsID>
+    <LiturgyID>53</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 7:10-14</MetaData>
+    <FileName>1818.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1819</LiturgyDetailsID>
+    <LiturgyID>53</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 1:1-7</MetaData>
+    <FileName>1819.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1820</LiturgyDetailsID>
+    <LiturgyID>53</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 1:18-24</MetaData>
+    <FileName>1820.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1821</LiturgyDetailsID>
+    <LiturgyID>54</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 9:2-7</MetaData>
+    <FileName>1821.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1822</LiturgyDetailsID>
+    <LiturgyID>54</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Titus 2:11-14</MetaData>
+    <FileName>1822.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1823</LiturgyDetailsID>
+    <LiturgyID>54</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 2:1-14</MetaData>
+    <FileName>1823.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1824</LiturgyDetailsID>
+    <LiturgyID>55</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 52:7-10</MetaData>
+    <FileName>1824.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1825</LiturgyDetailsID>
+    <LiturgyID>55</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Hebrews 1:1-6</MetaData>
+    <FileName>1825.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1826</LiturgyDetailsID>
+    <LiturgyID>55</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 1:1-18</MetaData>
+    <FileName>1826.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1827</LiturgyDetailsID>
+    <LiturgyID>56</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Sirach 3:2-6#Sirach 3:12-14</MetaData>
+    <FileName>1827.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1828</LiturgyDetailsID>
+    <LiturgyID>56</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Colossians 3:12-21</MetaData>
+    <FileName>1828.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1829</LiturgyDetailsID>
+    <LiturgyID>56</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 2:13-15#Matthew 2:19-23</MetaData>
+    <FileName>1829.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1830</LiturgyDetailsID>
+    <LiturgyID>58</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Sirach 24:1-2#Sirach 24:8-12</MetaData>
+    <FileName>1830.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1831</LiturgyDetailsID>
+    <LiturgyID>58</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Ephesians 1:3-6#Ephesians 1:15-18</MetaData>
+    <FileName>1831.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1832</LiturgyDetailsID>
+    <LiturgyID>58</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 1:1-18</MetaData>
+    <FileName>1832.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1833</LiturgyDetailsID>
+    <LiturgyID>60</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 42:1-4#Isaiah 42:6-7</MetaData>
+    <FileName>1833.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1834</LiturgyDetailsID>
+    <LiturgyID>59</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 60:1-6</MetaData>
+    <FileName>1834.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1835</LiturgyDetailsID>
+    <LiturgyID>59</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Ephesians 3:2-3#Ephesians 3:5-6</MetaData>
+    <FileName>1835.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1836</LiturgyDetailsID>
+    <LiturgyID>59</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 2:1-12</MetaData>
+    <FileName>1836.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1837</LiturgyDetailsID>
+    <LiturgyID>60</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Acts 10:34-38</MetaData>
+    <FileName>1837.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1838</LiturgyDetailsID>
+    <LiturgyID>60</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 3:13-17</MetaData>
+    <FileName>1838.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1839</LiturgyDetailsID>
+    <LiturgyID>1</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Genesis 2:7-9#Genesis 3:1-7</MetaData>
+    <FileName>1839.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1840</LiturgyDetailsID>
+    <LiturgyID>1</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 5:12-19</MetaData>
+    <FileName>1840.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1841</LiturgyDetailsID>
+    <LiturgyID>1</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 4:1-11</MetaData>
+    <FileName>1841.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1842</LiturgyDetailsID>
+    <LiturgyID>2</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Genesis 12:1-4</MetaData>
+    <FileName>1842.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1843</LiturgyDetailsID>
+    <LiturgyID>2</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>2 Timothy 1:8-10</MetaData>
+    <FileName>1843.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1844</LiturgyDetailsID>
+    <LiturgyID>2</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 17:1-9</MetaData>
+    <FileName>1844.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1845</LiturgyDetailsID>
+    <LiturgyID>3</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 4:5-42</MetaData>
+    <FileName>1845.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1846</LiturgyDetailsID>
+    <LiturgyID>3</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Exodus 17:3-7</MetaData>
+    <FileName>1846.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1847</LiturgyDetailsID>
+    <LiturgyID>4</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>1 Samuel 16:1#1 Samuel 16:6-7#1 Samuel 16:10-13</MetaData>
+    <FileName>1847.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1848</LiturgyDetailsID>
+    <LiturgyID>4</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Ephesians 5:8-14</MetaData>
+    <FileName>1848.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1849</LiturgyDetailsID>
+    <LiturgyID>4</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 9:1-41</MetaData>
+    <FileName>1849.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1850</LiturgyDetailsID>
+    <LiturgyID>5</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Ezekiel 37:12-14</MetaData>
+    <FileName>1850.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1851</LiturgyDetailsID>
+    <LiturgyID>5</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 8:8-11</MetaData>
+    <FileName>1851.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1852</LiturgyDetailsID>
+    <LiturgyID>5</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 11:1-45</MetaData>
+    <FileName>1852.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1853</LiturgyDetailsID>
+    <LiturgyID>6</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Matthew 21:1-11</MetaData>
+    <FileName>1853.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1854</LiturgyDetailsID>
+    <LiturgyID>6</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Isaiah 50:4-7</MetaData>
+    <FileName>1854.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1855</LiturgyDetailsID>
+    <LiturgyID>123</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 63:16-17#Isaiah 64:1#Isaiah 64:3-8</MetaData>
+    <FileName>1855.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1856</LiturgyDetailsID>
+    <LiturgyID>123</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 1:3-9</MetaData>
+    <FileName>1856.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1857</LiturgyDetailsID>
+    <LiturgyID>123</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 13:33-37</MetaData>
+    <FileName>1857.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1858</LiturgyDetailsID>
+    <LiturgyID>124</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 40:1-5#Isaiah 40:9-11</MetaData>
+    <FileName>1858.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1859</LiturgyDetailsID>
+    <LiturgyID>124</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>2 Peter 3:8-14</MetaData>
+    <FileName>1859.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1860</LiturgyDetailsID>
+    <LiturgyID>124</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 1:1-8</MetaData>
+    <FileName>1860.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1861</LiturgyDetailsID>
+    <LiturgyID>125</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Thessalonians 5:16-24</MetaData>
+    <FileName>1861.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1862</LiturgyDetailsID>
+    <LiturgyID>125</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 1:6-8#John 1:19-28</MetaData>
+    <FileName>1862.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1863</LiturgyDetailsID>
+    <LiturgyID>126</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 16:25-27</MetaData>
+    <FileName>1863.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1864</LiturgyDetailsID>
+    <LiturgyID>126</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 1:26-38</MetaData>
+    <FileName>1864.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1865</LiturgyDetailsID>
+    <LiturgyID>127</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 9:2-7</MetaData>
+    <FileName>1865.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1866</LiturgyDetailsID>
+    <LiturgyID>127</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Titus 2:11-14</MetaData>
+    <FileName>1866.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1867</LiturgyDetailsID>
+    <LiturgyID>127</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 2:1-14</MetaData>
+    <FileName>1867.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1868</LiturgyDetailsID>
+    <LiturgyID>128</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 52:7-10</MetaData>
+    <FileName>1868.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1869</LiturgyDetailsID>
+    <LiturgyID>128</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Hebrews 1:1-6</MetaData>
+    <FileName>1869.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1870</LiturgyDetailsID>
+    <LiturgyID>128</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 1:1-18</MetaData>
+    <FileName>1870.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1871</LiturgyDetailsID>
+    <LiturgyID>130</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Numbers 6:22-27</MetaData>
+    <FileName>1871.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1872</LiturgyDetailsID>
+    <LiturgyID>130</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Galatians 4:4-7</MetaData>
+    <FileName>1872.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1873</LiturgyDetailsID>
+    <LiturgyID>130</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 2:16-21</MetaData>
+    <FileName>1873.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1874</LiturgyDetailsID>
+    <LiturgyID>131</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Sirach 24:1-2#Sirach 24:8-12</MetaData>
+    <FileName>1874.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1875</LiturgyDetailsID>
+    <LiturgyID>131</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Ephesians 1:3-6#Ephesians 1:15-18</MetaData>
+    <FileName>1875.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1876</LiturgyDetailsID>
+    <LiturgyID>131</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 1:1-18</MetaData>
+    <FileName>1876.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1877</LiturgyDetailsID>
+    <LiturgyID>132</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 60:1-6</MetaData>
+    <FileName>1877.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1878</LiturgyDetailsID>
+    <LiturgyID>132</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Ephesians 3:2-3#Ephesians 3:5-6</MetaData>
+    <FileName>1878.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1879</LiturgyDetailsID>
+    <LiturgyID>132</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 2:1-12</MetaData>
+    <FileName>1879.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1880</LiturgyDetailsID>
+    <LiturgyID>133</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 42:1-4#Isaiah 42:6-7</MetaData>
+    <FileName>1880.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1881</LiturgyDetailsID>
+    <LiturgyID>133</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Acts 10:34-38</MetaData>
+    <FileName>1881.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1882</LiturgyDetailsID>
+    <LiturgyID>133</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 1:7-11</MetaData>
+    <FileName>1882.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1883</LiturgyDetailsID>
+    <LiturgyID>74</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Genesis 9:8-15</MetaData>
+    <FileName>1883.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1884</LiturgyDetailsID>
+    <LiturgyID>74</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Peter 3:18-22</MetaData>
+    <FileName>1884.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1885</LiturgyDetailsID>
+    <LiturgyID>74</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 1:12-15</MetaData>
+    <FileName>1885.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1886</LiturgyDetailsID>
+    <LiturgyID>75</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Genesis 22:1-2#Genesis 22:9#Genesis 22:10-13#Genesis 22:15-18</MetaData>
+    <FileName>1886.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1887</LiturgyDetailsID>
+    <LiturgyID>75</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 8:31-34</MetaData>
+    <FileName>1887.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1888</LiturgyDetailsID>
+    <LiturgyID>75</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 9:2-10</MetaData>
+    <FileName>1888.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1889</LiturgyDetailsID>
+    <LiturgyID>76</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Exodus 17:3-7</MetaData>
+    <FileName>1889.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1890</LiturgyDetailsID>
+    <LiturgyID>76</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 5:1-2#Romans 5:5-8</MetaData>
+    <FileName>1890.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1891</LiturgyDetailsID>
+    <LiturgyID>76</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 4:5-42</MetaData>
+    <FileName>1891.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1892</LiturgyDetailsID>
+    <LiturgyID>77</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>1 Samuel 16:1#1 Samuel 16:6-7#1 Samuel 16:10-13</MetaData>
+    <FileName>1892.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1893</LiturgyDetailsID>
+    <LiturgyID>77</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Ephesians 5:8-14</MetaData>
+    <FileName>1893.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1894</LiturgyDetailsID>
+    <LiturgyID>77</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 9:1-41</MetaData>
+    <FileName>1894.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1895</LiturgyDetailsID>
+    <LiturgyID>78</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Ezekiel 37:12-14</MetaData>
+    <FileName>1895.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1896</LiturgyDetailsID>
+    <LiturgyID>78</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 8:8-11</MetaData>
+    <FileName>1896.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1897</LiturgyDetailsID>
+    <LiturgyID>78</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 11:1-45</MetaData>
+    <FileName>1897.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1898</LiturgyDetailsID>
+    <LiturgyID>79</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 50:4-7</MetaData>
+    <FileName>1898.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1899</LiturgyDetailsID>
+    <LiturgyID>79</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Philippians 2:6-11</MetaData>
+    <FileName>1899.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1900</LiturgyDetailsID>
+    <LiturgyID>84</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Acts 4:32-35</MetaData>
+    <FileName>1900.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1901</LiturgyDetailsID>
+    <LiturgyID>84</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 John 5:1-7</MetaData>
+    <FileName>1901.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1902</LiturgyDetailsID>
+    <LiturgyID>84</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 20:19-31</MetaData>
+    <FileName>1902.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1903</LiturgyDetailsID>
+    <LiturgyID>85</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Acts 3:13-15#Acts 3:17-19</MetaData>
+    <FileName>1903.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1904</LiturgyDetailsID>
+    <LiturgyID>85</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 John 2:1-5</MetaData>
+    <FileName>1904.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1905</LiturgyDetailsID>
+    <LiturgyID>85</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 24:35-48</MetaData>
+    <FileName>1905.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1906</LiturgyDetailsID>
+    <LiturgyID>86</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Acts 4:8-12</MetaData>
+    <FileName>1906.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1907</LiturgyDetailsID>
+    <LiturgyID>86</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 John 3:1-2</MetaData>
+    <FileName>1907.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1908</LiturgyDetailsID>
+    <LiturgyID>86</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 10:11-18</MetaData>
+    <FileName>1908.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1909</LiturgyDetailsID>
+    <LiturgyID>87</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Acts 9:26-31</MetaData>
+    <FileName>1909.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1910</LiturgyDetailsID>
+    <LiturgyID>87</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 John 3:18-24</MetaData>
+    <FileName>1910.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1911</LiturgyDetailsID>
+    <LiturgyID>87</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 15:1-8</MetaData>
+    <FileName>1911.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1912</LiturgyDetailsID>
+    <LiturgyID>88</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Acts 10:25-26#Acts 10:34-35#Acts 10:44-48</MetaData>
+    <FileName>1912.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1913</LiturgyDetailsID>
+    <LiturgyID>88</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 John 4:7-10</MetaData>
+    <FileName>1913.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1914</LiturgyDetailsID>
+    <LiturgyID>88</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 15:9-17</MetaData>
+    <FileName>1914.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1915</LiturgyDetailsID>
+    <LiturgyID>141</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Acts 1:1-11</MetaData>
+    <FileName>1915.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1916</LiturgyDetailsID>
+    <LiturgyID>141</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Ephesians 1:17-23</MetaData>
+    <FileName>1916.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1917</LiturgyDetailsID>
+    <LiturgyID>141</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 16:15-20</MetaData>
+    <FileName>1917.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1918</LiturgyDetailsID>
+    <LiturgyID>138</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Acts 2:1-11</MetaData>
+    <FileName>1918.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1919</LiturgyDetailsID>
+    <LiturgyID>138</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 12:3-7#1 Corinthians 12:12-13</MetaData>
+    <FileName>1919.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1920</LiturgyDetailsID>
+    <LiturgyID>138</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 20:19-23</MetaData>
+    <FileName>1920.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1921</LiturgyDetailsID>
+    <LiturgyID>90</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 62:1-5</MetaData>
+    <FileName>1921.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1922</LiturgyDetailsID>
+    <LiturgyID>90</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 6:13-15#1 Corinthians 6:17-20</MetaData>
+    <FileName>1922.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1923</LiturgyDetailsID>
+    <LiturgyID>90</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 2:1-11</MetaData>
+    <FileName>1923.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1924</LiturgyDetailsID>
+    <LiturgyID>91</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Jonah 3:1-5#Jonah 3:10</MetaData>
+    <FileName>1924.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1925</LiturgyDetailsID>
+    <LiturgyID>91</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 7:29-31</MetaData>
+    <FileName>1925.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1926</LiturgyDetailsID>
+    <LiturgyID>91</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 1:14-20</MetaData>
+    <FileName>1926.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1927</LiturgyDetailsID>
+    <LiturgyID>92</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Deuteronomy 18:15-20</MetaData>
+    <FileName>1927.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1928</LiturgyDetailsID>
+    <LiturgyID>92</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 7:32-35</MetaData>
+    <FileName>1928.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1929</LiturgyDetailsID>
+    <LiturgyID>92</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 1:21-28</MetaData>
+    <FileName>1929.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1930</LiturgyDetailsID>
+    <LiturgyID>93</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Job 7:1-4#Job 7:6-7</MetaData>
+    <FileName>1930.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1931</LiturgyDetailsID>
+    <LiturgyID>93</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 9:16-19#1 Corinthians 9:22-23</MetaData>
+    <FileName>1931.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1932</LiturgyDetailsID>
+    <LiturgyID>93</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 1:29-39</MetaData>
+    <FileName>1932.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1933</LiturgyDetailsID>
+    <LiturgyID>94</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Leviticus 13:1-2#Leviticus 13:44-46</MetaData>
+    <FileName>1933.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1934</LiturgyDetailsID>
+    <LiturgyID>94</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 1:40-45</MetaData>
+    <FileName>1934.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1935</LiturgyDetailsID>
+    <LiturgyID>95</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 43:18-19#Isaiah 43:21-22#Isaiah 43:24-25</MetaData>
+    <FileName>1935.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1936</LiturgyDetailsID>
+    <LiturgyID>95</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>2 Corinthians 1:18-22</MetaData>
+    <FileName>1936.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1937</LiturgyDetailsID>
+    <LiturgyID>95</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 2:1-12</MetaData>
+    <FileName>1937.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1938</LiturgyDetailsID>
+    <LiturgyID>96</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Hosea 2:16#Hosea 2:17#Hosea 2:21-22</MetaData>
+    <FileName>1938.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1939</LiturgyDetailsID>
+    <LiturgyID>96</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>2 Corinthians 3:1-6</MetaData>
+    <FileName>1939.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1940</LiturgyDetailsID>
+    <LiturgyID>96</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 2:18-22</MetaData>
+    <FileName>1940.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1941</LiturgyDetailsID>
+    <LiturgyID>97</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Deuteronomy 5:12-15</MetaData>
+    <FileName>1941.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1942</LiturgyDetailsID>
+    <LiturgyID>97</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>2 Corinthians 4:6-11</MetaData>
+    <FileName>1942.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1943</LiturgyDetailsID>
+    <LiturgyID>98</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Genesis 3:9-15</MetaData>
+    <FileName>1943.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1944</LiturgyDetailsID>
+    <LiturgyID>98</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 3:20-35</MetaData>
+    <FileName>1944.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1945</LiturgyDetailsID>
+    <LiturgyID>99</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Ezekiel 17:22-24</MetaData>
+    <FileName>1945.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1946</LiturgyDetailsID>
+    <LiturgyID>99</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 4:26-34</MetaData>
+    <FileName>1946.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1947</LiturgyDetailsID>
+    <LiturgyID>100</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Job 38:1#Job 38:8-11</MetaData>
+    <FileName>1947.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1948</LiturgyDetailsID>
+    <LiturgyID>100</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>2 Corinthians 5:14-17</MetaData>
+    <FileName>1948.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1949</LiturgyDetailsID>
+    <LiturgyID>100</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 4:35-41</MetaData>
+    <FileName>1949.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1950</LiturgyDetailsID>
+    <LiturgyID>101</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Wisdom 1:13-15#Wisdom 2:23-24</MetaData>
+    <FileName>1950.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1951</LiturgyDetailsID>
+    <LiturgyID>101</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>2 Corinthians 8:7#2 Corinthians 8:9#2 Corinthians 8:13-15</MetaData>
+    <FileName>1951.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1952</LiturgyDetailsID>
+    <LiturgyID>101</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 5:21-43</MetaData>
+    <FileName>1952.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1953</LiturgyDetailsID>
+    <LiturgyID>102</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Ezekiel 2:2-5</MetaData>
+    <FileName>1953.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1954</LiturgyDetailsID>
+    <LiturgyID>102</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>2 Corinthians 12:7-10</MetaData>
+    <FileName>1954.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1955</LiturgyDetailsID>
+    <LiturgyID>102</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 6:1-6</MetaData>
+    <FileName>1955.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1956</LiturgyDetailsID>
+    <LiturgyID>103</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Amos 7:12-15</MetaData>
+    <FileName>1956.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1957</LiturgyDetailsID>
+    <LiturgyID>103</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Ephesians 1:3-14</MetaData>
+    <FileName>1957.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1958</LiturgyDetailsID>
+    <LiturgyID>103</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 6:7-13</MetaData>
+    <FileName>1958.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1959</LiturgyDetailsID>
+    <LiturgyID>104</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Jeremiah 23:1-6</MetaData>
+    <FileName>1959.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1960</LiturgyDetailsID>
+    <LiturgyID>104</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Ephesians 2:13-18</MetaData>
+    <FileName>1960.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1961</LiturgyDetailsID>
+    <LiturgyID>104</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 6:30-34</MetaData>
+    <FileName>1961.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1962</LiturgyDetailsID>
+    <LiturgyID>105</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>2 Kings 4:42-44</MetaData>
+    <FileName>1962.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1963</LiturgyDetailsID>
+    <LiturgyID>105</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Ephesians 4:1-6</MetaData>
+    <FileName>1963.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1964</LiturgyDetailsID>
+    <LiturgyID>105</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 6:1-15</MetaData>
+    <FileName>1964.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1965</LiturgyDetailsID>
+    <LiturgyID>106</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Exodus 16:2-4#Exodus 16:12-15</MetaData>
+    <FileName>1965.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1966</LiturgyDetailsID>
+    <LiturgyID>106</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Ephesians 4:17#Ephesians 4:20-24</MetaData>
+    <FileName>1966.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1967</LiturgyDetailsID>
+    <LiturgyID>106</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 6:24-35</MetaData>
+    <FileName>1967.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1968</LiturgyDetailsID>
+    <LiturgyID>107</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>1 Kings 19:4-8</MetaData>
+    <FileName>1968.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1969</LiturgyDetailsID>
+    <LiturgyID>107</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 6:41-51</MetaData>
+    <FileName>1969.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1970</LiturgyDetailsID>
+    <LiturgyID>108</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Proverbs 9:1-6</MetaData>
+    <FileName>1970.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1971</LiturgyDetailsID>
+    <LiturgyID>108</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Ephesians 5:15-20</MetaData>
+    <FileName>1971.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1972</LiturgyDetailsID>
+    <LiturgyID>108</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 6:51-58</MetaData>
+    <FileName>1972.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1973</LiturgyDetailsID>
+    <LiturgyID>109</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Joshua 24:1-2#Joshua 24:15-17#Joshua 24:18</MetaData>
+    <FileName>1973.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1974</LiturgyDetailsID>
+    <LiturgyID>109</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Ephesians 5:21-32</MetaData>
+    <FileName>1974.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1975</LiturgyDetailsID>
+    <LiturgyID>109</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 6:60-69</MetaData>
+    <FileName>1975.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1976</LiturgyDetailsID>
+    <LiturgyID>110</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Deuteronomy 4:1-2#Deuteronomy 4:6-8</MetaData>
+    <FileName>1976.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1977</LiturgyDetailsID>
+    <LiturgyID>110</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>James 1:17-18#James 1:21-22#James 1:27</MetaData>
+    <FileName>1977.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1978</LiturgyDetailsID>
+    <LiturgyID>110</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 7:1-8#Mark 7:14-15#Mark 7:21-23</MetaData>
+    <FileName>1978.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1979</LiturgyDetailsID>
+    <LiturgyID>111</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 35:4-7</MetaData>
+    <FileName>1979.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1980</LiturgyDetailsID>
+    <LiturgyID>111</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>James 2:1-5</MetaData>
+    <FileName>1980.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1981</LiturgyDetailsID>
+    <LiturgyID>111</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 7:31-37</MetaData>
+    <FileName>1981.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1982</LiturgyDetailsID>
+    <LiturgyID>112</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 50:5-9</MetaData>
+    <FileName>1982.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1983</LiturgyDetailsID>
+    <LiturgyID>112</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>James 2:14-18</MetaData>
+    <FileName>1983.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1984</LiturgyDetailsID>
+    <LiturgyID>112</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 8:27-35</MetaData>
+    <FileName>1984.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1985</LiturgyDetailsID>
+    <LiturgyID>113</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Wisdom 2:12#Wisdom 2:17-20</MetaData>
+    <FileName>1985.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1986</LiturgyDetailsID>
+    <LiturgyID>113</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 9:30-37</MetaData>
+    <FileName>1986.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1987</LiturgyDetailsID>
+    <LiturgyID>114</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Numbers 11:25-29</MetaData>
+    <FileName>1987.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1988</LiturgyDetailsID>
+    <LiturgyID>114</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>James 5:1-6</MetaData>
+    <FileName>1988.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1989</LiturgyDetailsID>
+    <LiturgyID>114</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 9:38-43#Mark 9:45#Mark 9:47-48</MetaData>
+    <FileName>1989.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1990</LiturgyDetailsID>
+    <LiturgyID>115</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Genesis 2:18-24</MetaData>
+    <FileName>1990.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1991</LiturgyDetailsID>
+    <LiturgyID>115</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Hebrews 2:9-11</MetaData>
+    <FileName>1991.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1992</LiturgyDetailsID>
+    <LiturgyID>115</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 10:2-16</MetaData>
+    <FileName>1992.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1993</LiturgyDetailsID>
+    <LiturgyID>116</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Wisdom 7:7-11</MetaData>
+    <FileName>1993.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1994</LiturgyDetailsID>
+    <LiturgyID>116</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Hebrews 4:12-13</MetaData>
+    <FileName>1994.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1995</LiturgyDetailsID>
+    <LiturgyID>116</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 10:17-30</MetaData>
+    <FileName>1995.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1996</LiturgyDetailsID>
+    <LiturgyID>117</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 53:10-11</MetaData>
+    <FileName>1996.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1997</LiturgyDetailsID>
+    <LiturgyID>117</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Hebrews 4:14-16</MetaData>
+    <FileName>1997.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1998</LiturgyDetailsID>
+    <LiturgyID>117</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 10:35-45</MetaData>
+    <FileName>1998.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>1999</LiturgyDetailsID>
+    <LiturgyID>118</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Jeremiah 31:7-9</MetaData>
+    <FileName>1999.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2000</LiturgyDetailsID>
+    <LiturgyID>118</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Hebrews 5:1-6</MetaData>
+    <FileName>2000.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2001</LiturgyDetailsID>
+    <LiturgyID>118</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 10:46-52</MetaData>
+    <FileName>2001.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2002</LiturgyDetailsID>
+    <LiturgyID>119</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Deuteronomy 6:2-6</MetaData>
+    <FileName>2002.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2003</LiturgyDetailsID>
+    <LiturgyID>119</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Hebrews 7:23-28</MetaData>
+    <FileName>2003.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2004</LiturgyDetailsID>
+    <LiturgyID>119</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 12:28-34</MetaData>
+    <FileName>2004.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2005</LiturgyDetailsID>
+    <LiturgyID>120</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>1 Kings 17:10-16</MetaData>
+    <FileName>2005.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2006</LiturgyDetailsID>
+    <LiturgyID>120</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Hebrews 9:24-28</MetaData>
+    <FileName>2006.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2007</LiturgyDetailsID>
+    <LiturgyID>120</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 12:38-44</MetaData>
+    <FileName>2007.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2008</LiturgyDetailsID>
+    <LiturgyID>121</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Daniel 12:1-3</MetaData>
+    <FileName>2008.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2009</LiturgyDetailsID>
+    <LiturgyID>121</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Hebrews 10:11-14#Hebrews 10:18</MetaData>
+    <FileName>2009.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2010</LiturgyDetailsID>
+    <LiturgyID>121</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 13:24-32</MetaData>
+    <FileName>2010.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2011</LiturgyDetailsID>
+    <LiturgyID>122</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Daniel 7:13-14</MetaData>
+    <FileName>2011.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2012</LiturgyDetailsID>
+    <LiturgyID>122</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Revelation 1:5-8</MetaData>
+    <FileName>2012.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2013</LiturgyDetailsID>
+    <LiturgyID>122</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 18:33-37</MetaData>
+    <FileName>2013.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2014</LiturgyDetailsID>
+    <LiturgyID>50</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2014.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2015</LiturgyDetailsID>
+    <LiturgyID>51</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2015.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2016</LiturgyDetailsID>
+    <LiturgyID>52</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2016.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2017</LiturgyDetailsID>
+    <LiturgyID>53</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2017.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2018</LiturgyDetailsID>
+    <LiturgyID>54</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2018.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2019</LiturgyDetailsID>
+    <LiturgyID>55</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2019.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2020</LiturgyDetailsID>
+    <LiturgyID>56</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2020.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2021</LiturgyDetailsID>
+    <LiturgyID>57</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2021.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2022</LiturgyDetailsID>
+    <LiturgyID>58</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2022.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2023</LiturgyDetailsID>
+    <LiturgyID>59</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2023.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2024</LiturgyDetailsID>
+    <LiturgyID>60</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2024.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2025</LiturgyDetailsID>
+    <LiturgyID>11</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2025.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2026</LiturgyDetailsID>
+    <LiturgyID>12</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2026.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2027</LiturgyDetailsID>
+    <LiturgyID>13</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2027.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2028</LiturgyDetailsID>
+    <LiturgyID>14</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2028.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2029</LiturgyDetailsID>
+    <LiturgyID>15</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2029.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2030</LiturgyDetailsID>
+    <LiturgyID>18</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2030.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2031</LiturgyDetailsID>
+    <LiturgyID>19</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2031.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2032</LiturgyDetailsID>
+    <LiturgyID>20</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2032.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2033</LiturgyDetailsID>
+    <LiturgyID>21</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2033.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2034</LiturgyDetailsID>
+    <LiturgyID>22</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2034.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2035</LiturgyDetailsID>
+    <LiturgyID>23</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2035.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2036</LiturgyDetailsID>
+    <LiturgyID>24</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2036.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2037</LiturgyDetailsID>
+    <LiturgyID>25</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2037.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2038</LiturgyDetailsID>
+    <LiturgyID>26</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2038.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2039</LiturgyDetailsID>
+    <LiturgyID>27</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2039.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2040</LiturgyDetailsID>
+    <LiturgyID>28</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2040.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2041</LiturgyDetailsID>
+    <LiturgyID>29</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2041.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2042</LiturgyDetailsID>
+    <LiturgyID>30</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2042.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2043</LiturgyDetailsID>
+    <LiturgyID>31</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2043.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2044</LiturgyDetailsID>
+    <LiturgyID>32</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2044.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2045</LiturgyDetailsID>
+    <LiturgyID>33</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2045.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2046</LiturgyDetailsID>
+    <LiturgyID>34</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2046.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2047</LiturgyDetailsID>
+    <LiturgyID>35</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2047.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2048</LiturgyDetailsID>
+    <LiturgyID>36</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2048.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2049</LiturgyDetailsID>
+    <LiturgyID>37</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2049.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2050</LiturgyDetailsID>
+    <LiturgyID>38</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2050.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2051</LiturgyDetailsID>
+    <LiturgyID>39</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2051.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2052</LiturgyDetailsID>
+    <LiturgyID>40</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2052.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2053</LiturgyDetailsID>
+    <LiturgyID>41</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2053.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2054</LiturgyDetailsID>
+    <LiturgyID>42</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2054.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2055</LiturgyDetailsID>
+    <LiturgyID>43</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2055.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2056</LiturgyDetailsID>
+    <LiturgyID>44</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2056.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2057</LiturgyDetailsID>
+    <LiturgyID>45</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2057.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2058</LiturgyDetailsID>
+    <LiturgyID>46</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2058.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2059</LiturgyDetailsID>
+    <LiturgyID>47</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2059.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2060</LiturgyDetailsID>
+    <LiturgyID>48</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2060.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2061</LiturgyDetailsID>
+    <LiturgyID>49</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2061.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2062</LiturgyDetailsID>
+    <LiturgyID>123</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2062.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2063</LiturgyDetailsID>
+    <LiturgyID>124</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2063.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2064</LiturgyDetailsID>
+    <LiturgyID>125</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2064.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2065</LiturgyDetailsID>
+    <LiturgyID>126</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2065.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2066</LiturgyDetailsID>
+    <LiturgyID>127</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2066.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2067</LiturgyDetailsID>
+    <LiturgyID>128</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2067.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2068</LiturgyDetailsID>
+    <LiturgyID>129</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2068.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2069</LiturgyDetailsID>
+    <LiturgyID>130</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2069.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2070</LiturgyDetailsID>
+    <LiturgyID>131</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2070.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2071</LiturgyDetailsID>
+    <LiturgyID>132</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2071.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2072</LiturgyDetailsID>
+    <LiturgyID>133</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2072.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2073</LiturgyDetailsID>
+    <LiturgyID>74</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2073.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2074</LiturgyDetailsID>
+    <LiturgyID>75</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2074.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2075</LiturgyDetailsID>
+    <LiturgyID>76</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2075.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2076</LiturgyDetailsID>
+    <LiturgyID>77</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2076.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2077</LiturgyDetailsID>
+    <LiturgyID>78</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2077.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2078</LiturgyDetailsID>
+    <LiturgyID>79</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2078.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2079</LiturgyDetailsID>
+    <LiturgyID>84</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2079.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2080</LiturgyDetailsID>
+    <LiturgyID>85</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2080.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2081</LiturgyDetailsID>
+    <LiturgyID>86</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2081.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2082</LiturgyDetailsID>
+    <LiturgyID>87</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2082.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2083</LiturgyDetailsID>
+    <LiturgyID>88</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2083.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2084</LiturgyDetailsID>
+    <LiturgyID>138</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2084.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2085</LiturgyDetailsID>
+    <LiturgyID>141</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2085.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2086</LiturgyDetailsID>
+    <LiturgyID>143</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2086.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2087</LiturgyDetailsID>
+    <LiturgyID>134</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2087.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2088</LiturgyDetailsID>
+    <LiturgyID>135</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2088.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2089</LiturgyDetailsID>
+    <LiturgyID>146</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2089.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2090</LiturgyDetailsID>
+    <LiturgyID>144</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2090.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2091</LiturgyDetailsID>
+    <LiturgyID>139</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2091.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2092</LiturgyDetailsID>
+    <LiturgyID>145</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2092.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2093</LiturgyDetailsID>
+    <LiturgyID>140</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2093.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2094</LiturgyDetailsID>
+    <LiturgyID>136</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2094.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2095</LiturgyDetailsID>
+    <LiturgyID>142</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2095.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2096</LiturgyDetailsID>
+    <LiturgyID>89</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2096.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2097</LiturgyDetailsID>
+    <LiturgyID>71</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2097.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2098</LiturgyDetailsID>
+    <LiturgyID>69</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2098.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2099</LiturgyDetailsID>
+    <LiturgyID>66</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2099.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2100</LiturgyDetailsID>
+    <LiturgyID>72</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2100.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2101</LiturgyDetailsID>
+    <LiturgyID>67</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2101.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2102</LiturgyDetailsID>
+    <LiturgyID>70</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2102.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2103</LiturgyDetailsID>
+    <LiturgyID>61</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2103.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2104</LiturgyDetailsID>
+    <LiturgyID>62</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2104.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2105</LiturgyDetailsID>
+    <LiturgyID>73</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2105.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2106</LiturgyDetailsID>
+    <LiturgyID>63</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2106.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2107</LiturgyDetailsID>
+    <LiturgyID>65</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2107.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2108</LiturgyDetailsID>
+    <LiturgyID>68</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2108.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2109</LiturgyDetailsID>
+    <LiturgyID>1</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2109.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2110</LiturgyDetailsID>
+    <LiturgyID>2</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2110.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2111</LiturgyDetailsID>
+    <LiturgyID>3</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2111.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2112</LiturgyDetailsID>
+    <LiturgyID>4</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2112.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2113</LiturgyDetailsID>
+    <LiturgyID>5</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2113.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2114</LiturgyDetailsID>
+    <LiturgyID>6</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2114.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2115</LiturgyDetailsID>
+    <LiturgyID>16</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2115.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2116</LiturgyDetailsID>
+    <LiturgyID>17</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 1:1-3</MetaData>
+    <FileName>2116.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2117</LiturgyDetailsID>
+    <LiturgyID>18</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 9:1-4</MetaData>
+    <FileName>2117.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2118</LiturgyDetailsID>
+    <LiturgyID>18</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 1:10-13#1 Corinthians 1:17</MetaData>
+    <FileName>2118.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2119</LiturgyDetailsID>
+    <LiturgyID>18</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 4:12-23</MetaData>
+    <FileName>2119.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2120</LiturgyDetailsID>
+    <LiturgyID>19</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Zephaniah 2:3#Zephaniah 3:12-13</MetaData>
+    <FileName>2120.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2121</LiturgyDetailsID>
+    <LiturgyID>19</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 1:26-31</MetaData>
+    <FileName>2121.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2122</LiturgyDetailsID>
+    <LiturgyID>19</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 5:1-12</MetaData>
+    <FileName>2122.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2123</LiturgyDetailsID>
+    <LiturgyID>20</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 58:7-10</MetaData>
+    <FileName>2123.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2124</LiturgyDetailsID>
+    <LiturgyID>20</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 2:1-5</MetaData>
+    <FileName>2124.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2125</LiturgyDetailsID>
+    <LiturgyID>20</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 5:13-16</MetaData>
+    <FileName>2125.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2126</LiturgyDetailsID>
+    <LiturgyID>21</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Sirach 15:15-20</MetaData>
+    <FileName>2126.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2127</LiturgyDetailsID>
+    <LiturgyID>21</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 2:6-10</MetaData>
+    <FileName>2127.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2128</LiturgyDetailsID>
+    <LiturgyID>21</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 5:17-37</MetaData>
+    <FileName>2128.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2129</LiturgyDetailsID>
+    <LiturgyID>22</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Leviticus 19:1-2#Leviticus 19:17-18</MetaData>
+    <FileName>2129.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2130</LiturgyDetailsID>
+    <LiturgyID>22</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 3:16-23</MetaData>
+    <FileName>2130.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2131</LiturgyDetailsID>
+    <LiturgyID>22</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 5:38-48</MetaData>
+    <FileName>2131.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2132</LiturgyDetailsID>
+    <LiturgyID>23</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 49:14-15</MetaData>
+    <FileName>2132.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2133</LiturgyDetailsID>
+    <LiturgyID>23</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 4:1-5</MetaData>
+    <FileName>2133.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2134</LiturgyDetailsID>
+    <LiturgyID>23</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 6:24-34</MetaData>
+    <FileName>2134.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2135</LiturgyDetailsID>
+    <LiturgyID>24</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Deuteronomy 11:18#Deuteronomy 11:26-28#Deuteronomy 11:32</MetaData>
+    <FileName>2135.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2136</LiturgyDetailsID>
+    <LiturgyID>24</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 3:21-25#Romans 3:28</MetaData>
+    <FileName>2136.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2137</LiturgyDetailsID>
+    <LiturgyID>24</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 7:21-27</MetaData>
+    <FileName>2137.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2138</LiturgyDetailsID>
+    <LiturgyID>25</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Hosea 6:3-6</MetaData>
+    <FileName>2138.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2139</LiturgyDetailsID>
+    <LiturgyID>25</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 4:18-25</MetaData>
+    <FileName>2139.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2140</LiturgyDetailsID>
+    <LiturgyID>25</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 9:9-13</MetaData>
+    <FileName>2140.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2141</LiturgyDetailsID>
+    <LiturgyID>26</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Exodus 19:2-6</MetaData>
+    <FileName>2141.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2142</LiturgyDetailsID>
+    <LiturgyID>26</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 5:6-11</MetaData>
+    <FileName>2142.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2143</LiturgyDetailsID>
+    <LiturgyID>27</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Jeremiah 20:10-13</MetaData>
+    <FileName>2143.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2144</LiturgyDetailsID>
+    <LiturgyID>27</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 5:12-15</MetaData>
+    <FileName>2144.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2145</LiturgyDetailsID>
+    <LiturgyID>27</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 10:26-33</MetaData>
+    <FileName>2145.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2146</LiturgyDetailsID>
+    <LiturgyID>28</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>2 Kings 4:8-11#2 Kings 4:14-16</MetaData>
+    <FileName>2146.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2147</LiturgyDetailsID>
+    <LiturgyID>28</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 6:3-4#Romans 6:8-11</MetaData>
+    <FileName>2147.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2148</LiturgyDetailsID>
+    <LiturgyID>28</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 10:37-42</MetaData>
+    <FileName>2148.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2149</LiturgyDetailsID>
+    <LiturgyID>29</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Zechariah 9:9-10</MetaData>
+    <FileName>2149.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2150</LiturgyDetailsID>
+    <LiturgyID>29</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 8:9#Romans 8:11-13</MetaData>
+    <FileName>2150.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2151</LiturgyDetailsID>
+    <LiturgyID>29</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 11:25-30</MetaData>
+    <FileName>2151.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2152</LiturgyDetailsID>
+    <LiturgyID>30</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 55:10-11</MetaData>
+    <FileName>2152.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2153</LiturgyDetailsID>
+    <LiturgyID>30</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 8:18-23</MetaData>
+    <FileName>2153.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2154</LiturgyDetailsID>
+    <LiturgyID>30</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 13:1-23</MetaData>
+    <FileName>2154.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2155</LiturgyDetailsID>
+    <LiturgyID>31</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Wisdom 12:13#Wisdom 12:16-19</MetaData>
+    <FileName>2155.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2156</LiturgyDetailsID>
+    <LiturgyID>31</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 8:26-27</MetaData>
+    <FileName>2156.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2157</LiturgyDetailsID>
+    <LiturgyID>31</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 13:24-43</MetaData>
+    <FileName>2157.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2158</LiturgyDetailsID>
+    <LiturgyID>32</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>1 Kings 3:5#1 Kings 3:7-12</MetaData>
+    <FileName>2158.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2159</LiturgyDetailsID>
+    <LiturgyID>32</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 8:28-30</MetaData>
+    <FileName>2159.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2160</LiturgyDetailsID>
+    <LiturgyID>32</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 13:44-52</MetaData>
+    <FileName>2160.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2161</LiturgyDetailsID>
+    <LiturgyID>33</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 55:1-3</MetaData>
+    <FileName>2161.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2162</LiturgyDetailsID>
+    <LiturgyID>33</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 8:35#Romans 8:37-39</MetaData>
+    <FileName>2162.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2163</LiturgyDetailsID>
+    <LiturgyID>33</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 14:13-21</MetaData>
+    <FileName>2163.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2164</LiturgyDetailsID>
+    <LiturgyID>34</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>1 Kings 19:9#1 Kings 19:11-13</MetaData>
+    <FileName>2164.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2165</LiturgyDetailsID>
+    <LiturgyID>34</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 9:1-5</MetaData>
+    <FileName>2165.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2166</LiturgyDetailsID>
+    <LiturgyID>34</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 14:22-33</MetaData>
+    <FileName>2166.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2167</LiturgyDetailsID>
+    <LiturgyID>35</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 56:1#Isaiah 56:6-7</MetaData>
+    <FileName>2167.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2168</LiturgyDetailsID>
+    <LiturgyID>35</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 11:13-15#Romans 11:29-32</MetaData>
+    <FileName>2168.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2169</LiturgyDetailsID>
+    <LiturgyID>35</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 15:21-28</MetaData>
+    <FileName>2169.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2170</LiturgyDetailsID>
+    <LiturgyID>36</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 22:19-23</MetaData>
+    <FileName>2170.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2171</LiturgyDetailsID>
+    <LiturgyID>36</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 11:33-36</MetaData>
+    <FileName>2171.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2172</LiturgyDetailsID>
+    <LiturgyID>36</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 16:13-20</MetaData>
+    <FileName>2172.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2173</LiturgyDetailsID>
+    <LiturgyID>37</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Jeremiah 20:7-9</MetaData>
+    <FileName>2173.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2174</LiturgyDetailsID>
+    <LiturgyID>37</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 12:1-2</MetaData>
+    <FileName>2174.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2175</LiturgyDetailsID>
+    <LiturgyID>37</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 16:21-27</MetaData>
+    <FileName>2175.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2176</LiturgyDetailsID>
+    <LiturgyID>38</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Ezekiel 33:7-9</MetaData>
+    <FileName>2176.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2177</LiturgyDetailsID>
+    <LiturgyID>38</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 13:8-10</MetaData>
+    <FileName>2177.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2178</LiturgyDetailsID>
+    <LiturgyID>38</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 18:15-20</MetaData>
+    <FileName>2178.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2179</LiturgyDetailsID>
+    <LiturgyID>39</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 14:7-9</MetaData>
+    <FileName>2179.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2180</LiturgyDetailsID>
+    <LiturgyID>39</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 18:21-35</MetaData>
+    <FileName>2180.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2181</LiturgyDetailsID>
+    <LiturgyID>40</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 55:6-9</MetaData>
+    <FileName>2181.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2182</LiturgyDetailsID>
+    <LiturgyID>40</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Philippians 1:20-24#Philippians 1:27</MetaData>
+    <FileName>2182.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2183</LiturgyDetailsID>
+    <LiturgyID>40</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 20:1-16</MetaData>
+    <FileName>2183.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2184</LiturgyDetailsID>
+    <LiturgyID>41</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Ezekiel 18:25-28</MetaData>
+    <FileName>2184.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2185</LiturgyDetailsID>
+    <LiturgyID>41</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Philippians 2:1-11</MetaData>
+    <FileName>2185.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2186</LiturgyDetailsID>
+    <LiturgyID>41</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 21:28-32</MetaData>
+    <FileName>2186.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2187</LiturgyDetailsID>
+    <LiturgyID>42</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 5:1-7</MetaData>
+    <FileName>2187.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2188</LiturgyDetailsID>
+    <LiturgyID>42</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Philippians 4:6-9</MetaData>
+    <FileName>2188.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2189</LiturgyDetailsID>
+    <LiturgyID>42</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 21:33-43</MetaData>
+    <FileName>2189.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2190</LiturgyDetailsID>
+    <LiturgyID>43</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 25:6-10</MetaData>
+    <FileName>2190.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2191</LiturgyDetailsID>
+    <LiturgyID>43</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Philippians 4:12-14#Philippians 4:19-20</MetaData>
+    <FileName>2191.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2192</LiturgyDetailsID>
+    <LiturgyID>43</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 22:1-14</MetaData>
+    <FileName>2192.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2193</LiturgyDetailsID>
+    <LiturgyID>44</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 45:1#Isaiah 45:4-6</MetaData>
+    <FileName>2193.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2194</LiturgyDetailsID>
+    <LiturgyID>44</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Thessalonians 1:1-5</MetaData>
+    <FileName>2194.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2195</LiturgyDetailsID>
+    <LiturgyID>44</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 22:15-21</MetaData>
+    <FileName>2195.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2196</LiturgyDetailsID>
+    <LiturgyID>45</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Exodus 22:21-27</MetaData>
+    <FileName>2196.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2197</LiturgyDetailsID>
+    <LiturgyID>45</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Thessalonians 1:5-10</MetaData>
+    <FileName>2197.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2198</LiturgyDetailsID>
+    <LiturgyID>45</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 22:34-40</MetaData>
+    <FileName>2198.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2199</LiturgyDetailsID>
+    <LiturgyID>46</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Malachi 1:14#Malachi 2:2#Malachi 2:8-10</MetaData>
+    <FileName>2199.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2200</LiturgyDetailsID>
+    <LiturgyID>46</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Thessalonians 2:7-9#1 Thessalonians 2:13</MetaData>
+    <FileName>2200.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2201</LiturgyDetailsID>
+    <LiturgyID>46</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 23:1-12</MetaData>
+    <FileName>2201.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2202</LiturgyDetailsID>
+    <LiturgyID>47</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Wisdom 6:12-16</MetaData>
+    <FileName>2202.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2203</LiturgyDetailsID>
+    <LiturgyID>47</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Thessalonians 4:13-18</MetaData>
+    <FileName>2203.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2204</LiturgyDetailsID>
+    <LiturgyID>47</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 25:1-13</MetaData>
+    <FileName>2204.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2205</LiturgyDetailsID>
+    <LiturgyID>48</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Proverbs 31:10-13#Proverbs 31:19-20#Proverbs 31:30-31</MetaData>
+    <FileName>2205.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2206</LiturgyDetailsID>
+    <LiturgyID>48</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Thessalonians 5:1-6</MetaData>
+    <FileName>2206.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2207</LiturgyDetailsID>
+    <LiturgyID>48</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 25:14-30</MetaData>
+    <FileName>2207.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2208</LiturgyDetailsID>
+    <LiturgyID>49</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Ezekiel 34:11-12#Ezekiel 34:15-17</MetaData>
+    <FileName>2208.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2209</LiturgyDetailsID>
+    <LiturgyID>49</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 15:20-26#1 Corinthians 15:28</MetaData>
+    <FileName>2209.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2210</LiturgyDetailsID>
+    <LiturgyID>49</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 25:31-46</MetaData>
+    <FileName>2210.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2211</LiturgyDetailsID>
+    <LiturgyID>11</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Acts 2:42-47</MetaData>
+    <FileName>2211.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2212</LiturgyDetailsID>
+    <LiturgyID>11</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Peter 1:3-9</MetaData>
+    <FileName>2212.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2213</LiturgyDetailsID>
+    <LiturgyID>11</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 20:19-31</MetaData>
+    <FileName>2213.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2214</LiturgyDetailsID>
+    <LiturgyID>12</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Acts 2:14#Acts 2:22-33</MetaData>
+    <FileName>2214.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2215</LiturgyDetailsID>
+    <LiturgyID>12</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Peter 1:17-21</MetaData>
+    <FileName>2215.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2216</LiturgyDetailsID>
+    <LiturgyID>12</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 24:13-35</MetaData>
+    <FileName>2216.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2217</LiturgyDetailsID>
+    <LiturgyID>13</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Acts 2:14#Acts 2:36-41</MetaData>
+    <FileName>2217.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2218</LiturgyDetailsID>
+    <LiturgyID>13</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Peter 2:20-25</MetaData>
+    <FileName>2218.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2219</LiturgyDetailsID>
+    <LiturgyID>13</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 10:1-10</MetaData>
+    <FileName>2219.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2220</LiturgyDetailsID>
+    <LiturgyID>14</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Acts 6:1-7</MetaData>
+    <FileName>2220.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2221</LiturgyDetailsID>
+    <LiturgyID>14</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Peter 2:4-9</MetaData>
+    <FileName>2221.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2222</LiturgyDetailsID>
+    <LiturgyID>14</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 14:1-12</MetaData>
+    <FileName>2222.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2223</LiturgyDetailsID>
+    <LiturgyID>15</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Acts 8:5-8#Acts 8:14-17</MetaData>
+    <FileName>2223.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2224</LiturgyDetailsID>
+    <LiturgyID>15</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Peter 3:15-18</MetaData>
+    <FileName>2224.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2225</LiturgyDetailsID>
+    <LiturgyID>15</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 14:15-21</MetaData>
+    <FileName>2225.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2226</LiturgyDetailsID>
+    <LiturgyID>71</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Exodus 34:4-6#Exodus 34:8-9</MetaData>
+    <FileName>2226.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2227</LiturgyDetailsID>
+    <LiturgyID>71</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>2 Corinthians 13:11-13</MetaData>
+    <FileName>2227.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2228</LiturgyDetailsID>
+    <LiturgyID>71</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 3:16-18</MetaData>
+    <FileName>2228.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2229</LiturgyDetailsID>
+    <LiturgyID>69</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Deuteronomy 8:2-3#Deuteronomy 8:14-16</MetaData>
+    <FileName>2229.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2230</LiturgyDetailsID>
+    <LiturgyID>69</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 10:16-17</MetaData>
+    <FileName>2230.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2231</LiturgyDetailsID>
+    <LiturgyID>69</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 6:51-58</MetaData>
+    <FileName>2231.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2232</LiturgyDetailsID>
+    <LiturgyID>66</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Deuteronomy 7:6-11</MetaData>
+    <FileName>2232.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2233</LiturgyDetailsID>
+    <LiturgyID>66</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 John 4:7-16</MetaData>
+    <FileName>2233.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2234</LiturgyDetailsID>
+    <LiturgyID>66</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 11:25-30</MetaData>
+    <FileName>2234.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2235</LiturgyDetailsID>
+    <LiturgyID>72</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Malachi 3:1-4</MetaData>
+    <FileName>2235.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2236</LiturgyDetailsID>
+    <LiturgyID>72</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Hebrews 2:14-18</MetaData>
+    <FileName>2236.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2237</LiturgyDetailsID>
+    <LiturgyID>72</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 2:22-40</MetaData>
+    <FileName>2237.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2238</LiturgyDetailsID>
+    <LiturgyID>67</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>2 Samuel 7:4-5#2 Samuel 7:12-14#2 Samuel 7:16</MetaData>
+    <FileName>2238.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2239</LiturgyDetailsID>
+    <LiturgyID>67</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 4:13#Romans 4:16-18#Romans 4:22</MetaData>
+    <FileName>2239.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2240</LiturgyDetailsID>
+    <LiturgyID>67</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 1:16#Matthew 1:18-21#Matthew 1:24</MetaData>
+    <FileName>2240.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2241</LiturgyDetailsID>
+    <LiturgyID>70</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Daniel 7:9-10#Daniel 7:13-14</MetaData>
+    <FileName>2241.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2242</LiturgyDetailsID>
+    <LiturgyID>70</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>2 Peter 1:16-19</MetaData>
+    <FileName>2242.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2243</LiturgyDetailsID>
+    <LiturgyID>70</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 17:1-9</MetaData>
+    <FileName>2243.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2244</LiturgyDetailsID>
+    <LiturgyID>61</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>1 Chronicles 15:3-4#1 Chronicles 15:15-16#1 Chronicles 16:1-2</MetaData>
+    <FileName>2244.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2245</LiturgyDetailsID>
+    <LiturgyID>61</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 15:54-57</MetaData>
+    <FileName>2245.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2246</LiturgyDetailsID>
+    <LiturgyID>61</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 11:27-28</MetaData>
+    <FileName>2246.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2247</LiturgyDetailsID>
+    <LiturgyID>62</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Numbers 21:4-9</MetaData>
+    <FileName>2247.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2248</LiturgyDetailsID>
+    <LiturgyID>62</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Philippians 2:6-11</MetaData>
+    <FileName>2248.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2249</LiturgyDetailsID>
+    <LiturgyID>62</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 3:13-17</MetaData>
+    <FileName>2249.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2250</LiturgyDetailsID>
+    <LiturgyID>73</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Revelation 7:2-4#Revelation 7:9-14</MetaData>
+    <FileName>2250.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2251</LiturgyDetailsID>
+    <LiturgyID>73</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 John 3:1-3</MetaData>
+    <FileName>2251.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2252</LiturgyDetailsID>
+    <LiturgyID>73</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 5:1-12</MetaData>
+    <FileName>2252.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2253</LiturgyDetailsID>
+    <LiturgyID>63</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Genesis 3:9-15#Genesis 3:20</MetaData>
+    <FileName>2253.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2254</LiturgyDetailsID>
+    <LiturgyID>63</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Ephesians 1:3-6#Ephesians 1:11-12</MetaData>
+    <FileName>2254.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2255</LiturgyDetailsID>
+    <LiturgyID>63</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 1:26-38</MetaData>
+    <FileName>2255.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2256</LiturgyDetailsID>
+    <LiturgyID>68</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Acts 1:1-11</MetaData>
+    <FileName>2256.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2257</LiturgyDetailsID>
+    <LiturgyID>68</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Ephesians 1:17-23</MetaData>
+    <FileName>2257.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2258</LiturgyDetailsID>
+    <LiturgyID>68</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 28:16-20</MetaData>
+    <FileName>2258.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2259</LiturgyDetailsID>
+    <LiturgyID>65</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Genesis 11:1-9</MetaData>
+    <FileName>2259.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2260</LiturgyDetailsID>
+    <LiturgyID>65</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 8:22-27</MetaData>
+    <FileName>2260.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2261</LiturgyDetailsID>
+    <LiturgyID>65</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 7:37-39</MetaData>
+    <FileName>2261.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2262</LiturgyDetailsID>
+    <LiturgyID>129</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Sirach 3:2-6#Sirach 3:12-14</MetaData>
+    <FileName>2262.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2263</LiturgyDetailsID>
+    <LiturgyID>129</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Colossians 3:12-21</MetaData>
+    <FileName>2263.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2264</LiturgyDetailsID>
+    <LiturgyID>129</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 2:22-40</MetaData>
+    <FileName>2264.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2265</LiturgyDetailsID>
+    <LiturgyID>89</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 42:1-4#Isaiah 42:6-7</MetaData>
+    <FileName>2265.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2266</LiturgyDetailsID>
+    <LiturgyID>89</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Acts 10:34-38</MetaData>
+    <FileName>2266.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2267</LiturgyDetailsID>
+    <LiturgyID>89</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 1:7-11</MetaData>
+    <FileName>2267.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2268</LiturgyDetailsID>
+    <LiturgyID>144</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Deuteronomy 4:32-34#Deuteronomy 4:39-40</MetaData>
+    <FileName>2268.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2269</LiturgyDetailsID>
+    <LiturgyID>144</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 8:14-17</MetaData>
+    <FileName>2269.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2270</LiturgyDetailsID>
+    <LiturgyID>144</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 28:16-20</MetaData>
+    <FileName>2270.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2271</LiturgyDetailsID>
+    <LiturgyID>142</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Exodus 24:3-8</MetaData>
+    <FileName>2271.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2272</LiturgyDetailsID>
+    <LiturgyID>142</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Hebrews 9:11-15</MetaData>
+    <FileName>2272.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2273</LiturgyDetailsID>
+    <LiturgyID>142</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 14:12-16#Mark 14:22-26</MetaData>
+    <FileName>2273.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2274</LiturgyDetailsID>
+    <LiturgyID>139</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Hosea 11:1#Hosea 11:3-4#Hosea 11:8-9</MetaData>
+    <FileName>2274.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2275</LiturgyDetailsID>
+    <LiturgyID>139</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Ephesians 3:8-12#Ephesians 3:14-19</MetaData>
+    <FileName>2275.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2276</LiturgyDetailsID>
+    <LiturgyID>139</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 19:31-37</MetaData>
+    <FileName>2276.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2277</LiturgyDetailsID>
+    <LiturgyID>145</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Malachi 3:1-4</MetaData>
+    <FileName>2277.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2278</LiturgyDetailsID>
+    <LiturgyID>145</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Hebrews 2:14-18</MetaData>
+    <FileName>2278.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2279</LiturgyDetailsID>
+    <LiturgyID>145</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 2:22-40</MetaData>
+    <FileName>2279.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2280</LiturgyDetailsID>
+    <LiturgyID>140</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>2 Samuel 7:4-5#2 Samuel 7:12-14#2 Samuel 7:16</MetaData>
+    <FileName>2280.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2281</LiturgyDetailsID>
+    <LiturgyID>140</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 4:13#Romans 4:16-18#Romans 4:22</MetaData>
+    <FileName>2281.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2282</LiturgyDetailsID>
+    <LiturgyID>140</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 1:16#Matthew 1:18-21#Matthew 1:24</MetaData>
+    <FileName>2282.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2283</LiturgyDetailsID>
+    <LiturgyID>143</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Daniel 7:9-10#Daniel 7:13-14</MetaData>
+    <FileName>2283.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2284</LiturgyDetailsID>
+    <LiturgyID>143</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>2 Peter 1:16-19</MetaData>
+    <FileName>2284.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2285</LiturgyDetailsID>
+    <LiturgyID>143</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 17:1-9</MetaData>
+    <FileName>2285.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2286</LiturgyDetailsID>
+    <LiturgyID>134</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>1 Chronicles 15:3-4#1 Chronicles 15:15-16#1 Chronicles 16:1-2</MetaData>
+    <FileName>2286.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2287</LiturgyDetailsID>
+    <LiturgyID>134</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 15:54-57</MetaData>
+    <FileName>2287.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2288</LiturgyDetailsID>
+    <LiturgyID>134</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 11:27-28</MetaData>
+    <FileName>2288.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2289</LiturgyDetailsID>
+    <LiturgyID>135</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Numbers 21:4-9</MetaData>
+    <FileName>2289.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2290</LiturgyDetailsID>
+    <LiturgyID>135</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Philippians 2:6-11</MetaData>
+    <FileName>2290.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2291</LiturgyDetailsID>
+    <LiturgyID>135</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 3:13-17</MetaData>
+    <FileName>2291.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2292</LiturgyDetailsID>
+    <LiturgyID>146</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Revelation 7:2-4#Revelation 7:9-14</MetaData>
+    <FileName>2292.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2293</LiturgyDetailsID>
+    <LiturgyID>146</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 John 3:1-3</MetaData>
+    <FileName>2293.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2294</LiturgyDetailsID>
+    <LiturgyID>146</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 5:1-12</MetaData>
+    <FileName>2294.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2295</LiturgyDetailsID>
+    <LiturgyID>136</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Genesis 3:9-15#Genesis 3:20</MetaData>
+    <FileName>2295.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2296</LiturgyDetailsID>
+    <LiturgyID>136</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Ephesians 1:3-6#Ephesians 1:11-12</MetaData>
+    <FileName>2296.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2297</LiturgyDetailsID>
+    <LiturgyID>136</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 1:26-38</MetaData>
+    <FileName>2297.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2298</LiturgyDetailsID>
+    <LiturgyID>126</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>2 Samuel 7:1-5#2 Samuel 7:8-12#2 Samuel 7:14#2 Samuel 7:16</MetaData>
+    <FileName>2298.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2299</LiturgyDetailsID>
+    <LiturgyID>16</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 42:1-4#Isaiah 42:6-7</MetaData>
+    <FileName>2299.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2300</LiturgyDetailsID>
+    <LiturgyID>16</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Acts 10:34-38</MetaData>
+    <FileName>2300.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2301</LiturgyDetailsID>
+    <LiturgyID>16</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 3:13-17</MetaData>
+    <FileName>2301.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2302</LiturgyDetailsID>
+    <LiturgyID>90</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2302.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2303</LiturgyDetailsID>
+    <LiturgyID>91</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2303.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2304</LiturgyDetailsID>
+    <LiturgyID>92</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2304.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2305</LiturgyDetailsID>
+    <LiturgyID>93</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2305.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2306</LiturgyDetailsID>
+    <LiturgyID>94</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2306.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2307</LiturgyDetailsID>
+    <LiturgyID>95</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2307.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2308</LiturgyDetailsID>
+    <LiturgyID>96</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2308.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2309</LiturgyDetailsID>
+    <LiturgyID>97</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2309.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2310</LiturgyDetailsID>
+    <LiturgyID>98</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2310.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2311</LiturgyDetailsID>
+    <LiturgyID>99</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2311.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2312</LiturgyDetailsID>
+    <LiturgyID>100</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2312.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2313</LiturgyDetailsID>
+    <LiturgyID>101</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2313.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2314</LiturgyDetailsID>
+    <LiturgyID>102</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2314.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2315</LiturgyDetailsID>
+    <LiturgyID>103</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2315.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2316</LiturgyDetailsID>
+    <LiturgyID>104</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2316.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2317</LiturgyDetailsID>
+    <LiturgyID>105</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2317.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2318</LiturgyDetailsID>
+    <LiturgyID>106</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2318.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2319</LiturgyDetailsID>
+    <LiturgyID>107</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2319.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2320</LiturgyDetailsID>
+    <LiturgyID>108</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2320.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2321</LiturgyDetailsID>
+    <LiturgyID>109</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2321.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2322</LiturgyDetailsID>
+    <LiturgyID>110</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2322.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2323</LiturgyDetailsID>
+    <LiturgyID>111</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2323.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2324</LiturgyDetailsID>
+    <LiturgyID>112</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2324.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2325</LiturgyDetailsID>
+    <LiturgyID>113</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2325.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2326</LiturgyDetailsID>
+    <LiturgyID>114</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2326.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2327</LiturgyDetailsID>
+    <LiturgyID>115</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2327.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2328</LiturgyDetailsID>
+    <LiturgyID>116</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2328.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2329</LiturgyDetailsID>
+    <LiturgyID>117</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2329.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2330</LiturgyDetailsID>
+    <LiturgyID>118</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2330.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2331</LiturgyDetailsID>
+    <LiturgyID>119</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2331.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2332</LiturgyDetailsID>
+    <LiturgyID>120</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2332.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2333</LiturgyDetailsID>
+    <LiturgyID>121</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2333.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2334</LiturgyDetailsID>
+    <LiturgyID>122</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2334.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2335</LiturgyDetailsID>
+    <LiturgyID>152</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 50:4-7</MetaData>
+    <FileName>2335.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2336</LiturgyDetailsID>
+    <LiturgyID>152</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Philippians 2:6-11</MetaData>
+    <FileName>2336.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2337</LiturgyDetailsID>
+    <LiturgyID>152</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2337.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2338</LiturgyDetailsID>
+    <LiturgyID>8</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2338.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2339</LiturgyDetailsID>
+    <LiturgyID>8</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Hebrews 4:14-16#Hebrews 5:7-9</MetaData>
+    <FileName>2339.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2340</LiturgyDetailsID>
+    <LiturgyID>81</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2340.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2341</LiturgyDetailsID>
+    <LiturgyID>81</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Hebrews 4:14-16#Hebrews 5:7-9</MetaData>
+    <FileName>2341.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2342</LiturgyDetailsID>
+    <LiturgyID>57</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Numbers 6:22-27</MetaData>
+    <FileName>2342.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2343</LiturgyDetailsID>
+    <LiturgyID>57</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Galatians 4:4-7</MetaData>
+    <FileName>2343.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2344</LiturgyDetailsID>
+    <LiturgyID>57</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 2:16-21</MetaData>
+    <FileName>2344.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2345</LiturgyDetailsID>
+    <LiturgyID>196</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Jeremiah 33:14-16</MetaData>
+    <FileName>2345.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2346</LiturgyDetailsID>
+    <LiturgyID>196</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Thessalonians 3:12-13#1 Thessalonians 4:1-2</MetaData>
+    <FileName>2346.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2347</LiturgyDetailsID>
+    <LiturgyID>196</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 21:25-28#Luke 21:34-36</MetaData>
+    <FileName>2347.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2348</LiturgyDetailsID>
+    <LiturgyID>197</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Baruch 5:1-9</MetaData>
+    <FileName>2348.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2349</LiturgyDetailsID>
+    <LiturgyID>197</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Philippians 1:4-6#Philippians 1:8-11</MetaData>
+    <FileName>2349.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2350</LiturgyDetailsID>
+    <LiturgyID>197</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 3:1-6</MetaData>
+    <FileName>2350.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2351</LiturgyDetailsID>
+    <LiturgyID>198</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Zephaniah 3:14-18</MetaData>
+    <FileName>2351.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2352</LiturgyDetailsID>
+    <LiturgyID>198</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Philippians 4:4-7</MetaData>
+    <FileName>2352.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2353</LiturgyDetailsID>
+    <LiturgyID>198</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 3:10-18</MetaData>
+    <FileName>2353.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2354</LiturgyDetailsID>
+    <LiturgyID>199</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Micah 5:2-5</MetaData>
+    <FileName>2354.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2355</LiturgyDetailsID>
+    <LiturgyID>199</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Hebrews 10:5-10</MetaData>
+    <FileName>2355.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2356</LiturgyDetailsID>
+    <LiturgyID>199</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 1:39-45</MetaData>
+    <FileName>2356.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2357</LiturgyDetailsID>
+    <LiturgyID>200</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 9:2-7</MetaData>
+    <FileName>2357.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2358</LiturgyDetailsID>
+    <LiturgyID>200</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Titus 2:11-14</MetaData>
+    <FileName>2358.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2359</LiturgyDetailsID>
+    <LiturgyID>200</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 2:1-14</MetaData>
+    <FileName>2359.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2360</LiturgyDetailsID>
+    <LiturgyID>201</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 52:7-10</MetaData>
+    <FileName>2360.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2361</LiturgyDetailsID>
+    <LiturgyID>201</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Hebrews 1:1-6</MetaData>
+    <FileName>2361.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2362</LiturgyDetailsID>
+    <LiturgyID>201</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 1:1-18</MetaData>
+    <FileName>2362.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2363</LiturgyDetailsID>
+    <LiturgyID>202</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Sirach 3:2-6#Sirach 3:12-14</MetaData>
+    <FileName>2363.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2364</LiturgyDetailsID>
+    <LiturgyID>202</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Colossians 3:12-21</MetaData>
+    <FileName>2364.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2365</LiturgyDetailsID>
+    <LiturgyID>202</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 2:41-52</MetaData>
+    <FileName>2365.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2366</LiturgyDetailsID>
+    <LiturgyID>203</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Numbers 6:22-27</MetaData>
+    <FileName>2366.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2367</LiturgyDetailsID>
+    <LiturgyID>203</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Galatians 4:4-7</MetaData>
+    <FileName>2367.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2368</LiturgyDetailsID>
+    <LiturgyID>203</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 2:16-21</MetaData>
+    <FileName>2368.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2369</LiturgyDetailsID>
+    <LiturgyID>204</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Sirach 24:1-2#Sirach 24:8-12</MetaData>
+    <FileName>2369.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2370</LiturgyDetailsID>
+    <LiturgyID>204</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Ephesians 1:3-6#Ephesians 1:15-18</MetaData>
+    <FileName>2370.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2371</LiturgyDetailsID>
+    <LiturgyID>204</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 1:1-18</MetaData>
+    <FileName>2371.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2372</LiturgyDetailsID>
+    <LiturgyID>205</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 60:1-6</MetaData>
+    <FileName>2372.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2373</LiturgyDetailsID>
+    <LiturgyID>205</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Ephesians 3:2-3#Ephesians 3:5-6</MetaData>
+    <FileName>2373.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2374</LiturgyDetailsID>
+    <LiturgyID>205</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 2:1-12</MetaData>
+    <FileName>2374.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2375</LiturgyDetailsID>
+    <LiturgyID>206</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 42:1-4#Isaiah 42:6-7</MetaData>
+    <FileName>2375.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2376</LiturgyDetailsID>
+    <LiturgyID>206</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Acts 10:34-38</MetaData>
+    <FileName>2376.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2377</LiturgyDetailsID>
+    <LiturgyID>206</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 3:15-16#Luke 3:21-22</MetaData>
+    <FileName>2377.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2378</LiturgyDetailsID>
+    <LiturgyID>147</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Deuteronomy 26:4-10</MetaData>
+    <FileName>2378.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2379</LiturgyDetailsID>
+    <LiturgyID>147</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 10:8-13</MetaData>
+    <FileName>2379.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2380</LiturgyDetailsID>
+    <LiturgyID>147</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 4:1-13</MetaData>
+    <FileName>2380.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2381</LiturgyDetailsID>
+    <LiturgyID>148</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Genesis 15:5-12#Genesis 15:17-18</MetaData>
+    <FileName>2381.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2382</LiturgyDetailsID>
+    <LiturgyID>148</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Philippians 3:17-21#Philippians 4:1</MetaData>
+    <FileName>2382.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2383</LiturgyDetailsID>
+    <LiturgyID>148</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 9:28-36</MetaData>
+    <FileName>2383.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2384</LiturgyDetailsID>
+    <LiturgyID>149</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Exodus 17:3-7</MetaData>
+    <FileName>2384.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2385</LiturgyDetailsID>
+    <LiturgyID>149</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 5:1-2#Romans 5:5-8</MetaData>
+    <FileName>2385.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2386</LiturgyDetailsID>
+    <LiturgyID>149</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 4:5-42</MetaData>
+    <FileName>2386.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2387</LiturgyDetailsID>
+    <LiturgyID>150</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>1 Samuel 16:1#1 Samuel 16:6-7#1 Samuel 16:10-13</MetaData>
+    <FileName>2387.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2388</LiturgyDetailsID>
+    <LiturgyID>150</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Ephesians 5:8-14</MetaData>
+    <FileName>2388.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2389</LiturgyDetailsID>
+    <LiturgyID>150</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 9:1-41</MetaData>
+    <FileName>2389.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2390</LiturgyDetailsID>
+    <LiturgyID>151</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Ezekiel 37:12-14</MetaData>
+    <FileName>2390.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2391</LiturgyDetailsID>
+    <LiturgyID>151</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 8:8-11</MetaData>
+    <FileName>2391.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2392</LiturgyDetailsID>
+    <LiturgyID>151</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 11:1-45</MetaData>
+    <FileName>2392.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2393</LiturgyDetailsID>
+    <LiturgyID>157</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Acts 5:12-16</MetaData>
+    <FileName>2393.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2394</LiturgyDetailsID>
+    <LiturgyID>157</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Revelation 1:9-11#Revelation 1:12-13#Revelation 1:17-19</MetaData>
+    <FileName>2394.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2395</LiturgyDetailsID>
+    <LiturgyID>157</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 20:19-31</MetaData>
+    <FileName>2395.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2396</LiturgyDetailsID>
+    <LiturgyID>158</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Acts 5:27-32#Acts 5:40-41</MetaData>
+    <FileName>2396.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2397</LiturgyDetailsID>
+    <LiturgyID>158</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Revelation 5:11-14</MetaData>
+    <FileName>2397.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2398</LiturgyDetailsID>
+    <LiturgyID>158</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 21:1-19</MetaData>
+    <FileName>2398.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2399</LiturgyDetailsID>
+    <LiturgyID>159</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Acts 13:14#Acts 13:43-52</MetaData>
+    <FileName>2399.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2400</LiturgyDetailsID>
+    <LiturgyID>159</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Revelation 7:9#Revelation 7:14-17</MetaData>
+    <FileName>2400.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2401</LiturgyDetailsID>
+    <LiturgyID>159</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 10:27-30</MetaData>
+    <FileName>2401.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2402</LiturgyDetailsID>
+    <LiturgyID>160</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Acts 14:21-27</MetaData>
+    <FileName>2402.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2403</LiturgyDetailsID>
+    <LiturgyID>160</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Revelation 21:1-5</MetaData>
+    <FileName>2403.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2404</LiturgyDetailsID>
+    <LiturgyID>160</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 13:31-33#John 13:34-35</MetaData>
+    <FileName>2404.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2405</LiturgyDetailsID>
+    <LiturgyID>161</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Acts 15:1-2#Acts 15:22-29</MetaData>
+    <FileName>2405.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2406</LiturgyDetailsID>
+    <LiturgyID>161</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Revelation 21:10-14#Revelation 21:22-23</MetaData>
+    <FileName>2406.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2407</LiturgyDetailsID>
+    <LiturgyID>161</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 14:23-29</MetaData>
+    <FileName>2407.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2408</LiturgyDetailsID>
+    <LiturgyID>214</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Acts 1:1-11</MetaData>
+    <FileName>2408.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2409</LiturgyDetailsID>
+    <LiturgyID>214</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Ephesians 1:17-23</MetaData>
+    <FileName>2409.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2410</LiturgyDetailsID>
+    <LiturgyID>214</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 24:46-53</MetaData>
+    <FileName>2410.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2411</LiturgyDetailsID>
+    <LiturgyID>211</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Acts 2:1-11</MetaData>
+    <FileName>2411.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2412</LiturgyDetailsID>
+    <LiturgyID>211</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 12:3-7#1 Corinthians 12:12-13</MetaData>
+    <FileName>2412.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2413</LiturgyDetailsID>
+    <LiturgyID>211</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 20:19-23</MetaData>
+    <FileName>2413.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2414</LiturgyDetailsID>
+    <LiturgyID>163</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 62:1-5</MetaData>
+    <FileName>2414.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2415</LiturgyDetailsID>
+    <LiturgyID>163</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 12:4-11</MetaData>
+    <FileName>2415.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2416</LiturgyDetailsID>
+    <LiturgyID>163</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 2:1-11</MetaData>
+    <FileName>2416.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2417</LiturgyDetailsID>
+    <LiturgyID>164</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Nehemiah 8:2-4#Nehemiah 8:5-6#Nehemiah 8:8-10</MetaData>
+    <FileName>2417.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2418</LiturgyDetailsID>
+    <LiturgyID>164</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 12:12-30</MetaData>
+    <FileName>2418.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2419</LiturgyDetailsID>
+    <LiturgyID>164</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 1:1-4#Luke 4:14-21</MetaData>
+    <FileName>2419.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2420</LiturgyDetailsID>
+    <LiturgyID>165</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Jeremiah 1:4-5#Jeremiah 1:17-19</MetaData>
+    <FileName>2420.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2421</LiturgyDetailsID>
+    <LiturgyID>165</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 12:31#1 Corinthians 13:1-13</MetaData>
+    <FileName>2421.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2422</LiturgyDetailsID>
+    <LiturgyID>165</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 4:21-30</MetaData>
+    <FileName>2422.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2423</LiturgyDetailsID>
+    <LiturgyID>166</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 6:1-2#Isaiah 6:3-8</MetaData>
+    <FileName>2423.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2424</LiturgyDetailsID>
+    <LiturgyID>166</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 15:1-11</MetaData>
+    <FileName>2424.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2425</LiturgyDetailsID>
+    <LiturgyID>166</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 5:1-11</MetaData>
+    <FileName>2425.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2426</LiturgyDetailsID>
+    <LiturgyID>167</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Jeremiah 17:5-8</MetaData>
+    <FileName>2426.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2427</LiturgyDetailsID>
+    <LiturgyID>167</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 15:12#1 Corinthians 15:16-20</MetaData>
+    <FileName>2427.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2428</LiturgyDetailsID>
+    <LiturgyID>167</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 6:17#Luke 6:20-26</MetaData>
+    <FileName>2428.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2429</LiturgyDetailsID>
+    <LiturgyID>168</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>1 Samuel 26:2#1 Samuel 26:7-9#1 Samuel 26:12-13#1 Samuel 26:22-23</MetaData>
+    <FileName>2429.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2430</LiturgyDetailsID>
+    <LiturgyID>168</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 15:45-49</MetaData>
+    <FileName>2430.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2431</LiturgyDetailsID>
+    <LiturgyID>168</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 6:27-38</MetaData>
+    <FileName>2431.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2432</LiturgyDetailsID>
+    <LiturgyID>169</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Sirach 27:4-7</MetaData>
+    <FileName>2432.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2433</LiturgyDetailsID>
+    <LiturgyID>169</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 15:54-58</MetaData>
+    <FileName>2433.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2434</LiturgyDetailsID>
+    <LiturgyID>169</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 6:39-45</MetaData>
+    <FileName>2434.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2435</LiturgyDetailsID>
+    <LiturgyID>170</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>1 Kings 8:41-43</MetaData>
+    <FileName>2435.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2436</LiturgyDetailsID>
+    <LiturgyID>170</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Galatians 1:1-2#Galatians 1:6-10</MetaData>
+    <FileName>2436.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2437</LiturgyDetailsID>
+    <LiturgyID>170</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 7:1-10</MetaData>
+    <FileName>2437.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2438</LiturgyDetailsID>
+    <LiturgyID>171</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>1 Kings 17:17-24</MetaData>
+    <FileName>2438.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2439</LiturgyDetailsID>
+    <LiturgyID>171</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Galatians 1:11-19</MetaData>
+    <FileName>2439.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2440</LiturgyDetailsID>
+    <LiturgyID>171</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 7:11-17</MetaData>
+    <FileName>2440.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2441</LiturgyDetailsID>
+    <LiturgyID>172</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>2 Samuel 12:7-10#2 Samuel 12:13</MetaData>
+    <FileName>2441.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2442</LiturgyDetailsID>
+    <LiturgyID>172</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Galatians 2:16#Galatians 2:19-21</MetaData>
+    <FileName>2442.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2443</LiturgyDetailsID>
+    <LiturgyID>172</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 7:36-50</MetaData>
+    <FileName>2443.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2444</LiturgyDetailsID>
+    <LiturgyID>173</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Zechariah 12:10-11#Zechariah 12:13-1#Zechariah 12:13-1</MetaData>
+    <FileName>2444.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2445</LiturgyDetailsID>
+    <LiturgyID>173</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Galatians 3:26-29</MetaData>
+    <FileName>2445.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2446</LiturgyDetailsID>
+    <LiturgyID>173</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 9:18-24</MetaData>
+    <FileName>2446.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2447</LiturgyDetailsID>
+    <LiturgyID>174</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>1 Kings 19:16#1 Kings 19:19-21</MetaData>
+    <FileName>2447.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2448</LiturgyDetailsID>
+    <LiturgyID>174</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Galatians 5:1#Galatians 5:13-18</MetaData>
+    <FileName>2448.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2449</LiturgyDetailsID>
+    <LiturgyID>174</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 9:51-62</MetaData>
+    <FileName>2449.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2450</LiturgyDetailsID>
+    <LiturgyID>175</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 66:10-14</MetaData>
+    <FileName>2450.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2451</LiturgyDetailsID>
+    <LiturgyID>175</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Galatians 6:14-18</MetaData>
+    <FileName>2451.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2452</LiturgyDetailsID>
+    <LiturgyID>175</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 10:1-12#Luke 10:17-20</MetaData>
+    <FileName>2452.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2453</LiturgyDetailsID>
+    <LiturgyID>176</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Deuteronomy 30:10-14</MetaData>
+    <FileName>2453.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2454</LiturgyDetailsID>
+    <LiturgyID>176</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Colossians 1:15-20</MetaData>
+    <FileName>2454.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2455</LiturgyDetailsID>
+    <LiturgyID>176</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 10:25-37</MetaData>
+    <FileName>2455.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2456</LiturgyDetailsID>
+    <LiturgyID>177</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Genesis 18:1-10</MetaData>
+    <FileName>2456.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2457</LiturgyDetailsID>
+    <LiturgyID>177</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Colossians 1:24-28</MetaData>
+    <FileName>2457.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2458</LiturgyDetailsID>
+    <LiturgyID>177</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 10:38-42</MetaData>
+    <FileName>2458.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2459</LiturgyDetailsID>
+    <LiturgyID>178</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Genesis 18:20-32</MetaData>
+    <FileName>2459.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2460</LiturgyDetailsID>
+    <LiturgyID>178</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Colossians 2:12-14</MetaData>
+    <FileName>2460.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2461</LiturgyDetailsID>
+    <LiturgyID>178</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 11:1-13</MetaData>
+    <FileName>2461.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2462</LiturgyDetailsID>
+    <LiturgyID>179</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Ecclesiastes 1:2#Ecclesiastes 2:21-23</MetaData>
+    <FileName>2462.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2463</LiturgyDetailsID>
+    <LiturgyID>179</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Colossians 3:1-5#Colossians 3:9-11</MetaData>
+    <FileName>2463.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2464</LiturgyDetailsID>
+    <LiturgyID>179</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 12:13-21</MetaData>
+    <FileName>2464.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2465</LiturgyDetailsID>
+    <LiturgyID>180</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Wisdom 18:6-9</MetaData>
+    <FileName>2465.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2466</LiturgyDetailsID>
+    <LiturgyID>180</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Hebrews 11:1-2#Hebrews 11:8-19</MetaData>
+    <FileName>2466.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2467</LiturgyDetailsID>
+    <LiturgyID>180</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 12:32-48</MetaData>
+    <FileName>2467.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2468</LiturgyDetailsID>
+    <LiturgyID>181</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Jeremiah 38:4-6#Jeremiah 38:8-10</MetaData>
+    <FileName>2468.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2469</LiturgyDetailsID>
+    <LiturgyID>181</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Hebrews 12:1-4</MetaData>
+    <FileName>2469.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2470</LiturgyDetailsID>
+    <LiturgyID>181</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 12:49-53</MetaData>
+    <FileName>2470.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2471</LiturgyDetailsID>
+    <LiturgyID>182</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 66:18-21</MetaData>
+    <FileName>2471.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2472</LiturgyDetailsID>
+    <LiturgyID>182</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Hebrews 12:5-7#Hebrews 12:11-13</MetaData>
+    <FileName>2472.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2473</LiturgyDetailsID>
+    <LiturgyID>182</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 13:22-30</MetaData>
+    <FileName>2473.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2474</LiturgyDetailsID>
+    <LiturgyID>183</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Sirach 3:17-20#Sirach 3:28-29</MetaData>
+    <FileName>2474.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2475</LiturgyDetailsID>
+    <LiturgyID>183</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Hebrews 12:18-19#Hebrews 12:22-24</MetaData>
+    <FileName>2475.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2476</LiturgyDetailsID>
+    <LiturgyID>183</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 14:1#Luke 14:7-14</MetaData>
+    <FileName>2476.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2477</LiturgyDetailsID>
+    <LiturgyID>184</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Wisdom 9:13-18</MetaData>
+    <FileName>2477.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2478</LiturgyDetailsID>
+    <LiturgyID>184</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Philemon 1:9-10#Philemon 1:12-17</MetaData>
+    <FileName>2478.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2479</LiturgyDetailsID>
+    <LiturgyID>184</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 14:25-33</MetaData>
+    <FileName>2479.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2480</LiturgyDetailsID>
+    <LiturgyID>185</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Exodus 32:7-11#Exodus 32:13-14</MetaData>
+    <FileName>2480.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2481</LiturgyDetailsID>
+    <LiturgyID>185</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Timothy 1:12-17</MetaData>
+    <FileName>2481.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2482</LiturgyDetailsID>
+    <LiturgyID>185</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 15:1-32</MetaData>
+    <FileName>2482.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2483</LiturgyDetailsID>
+    <LiturgyID>186</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Amos 8:4-7</MetaData>
+    <FileName>2483.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2484</LiturgyDetailsID>
+    <LiturgyID>186</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Timothy 2:1-8</MetaData>
+    <FileName>2484.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2485</LiturgyDetailsID>
+    <LiturgyID>186</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 16:1-13</MetaData>
+    <FileName>2485.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2486</LiturgyDetailsID>
+    <LiturgyID>187</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Amos 6:1#Amos 6:4-7</MetaData>
+    <FileName>2486.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2487</LiturgyDetailsID>
+    <LiturgyID>187</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Timothy 6:11-16</MetaData>
+    <FileName>2487.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2488</LiturgyDetailsID>
+    <LiturgyID>187</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 16:19-31</MetaData>
+    <FileName>2488.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2489</LiturgyDetailsID>
+    <LiturgyID>188</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Habakkuk 1:2-3#Habakkuk 2:2-4</MetaData>
+    <FileName>2489.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2490</LiturgyDetailsID>
+    <LiturgyID>188</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>2 Timothy 1:6-8#2 Timothy 1:13-14</MetaData>
+    <FileName>2490.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2491</LiturgyDetailsID>
+    <LiturgyID>188</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 17:5-10</MetaData>
+    <FileName>2491.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2492</LiturgyDetailsID>
+    <LiturgyID>189</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>2 Kings 5:14-17</MetaData>
+    <FileName>2492.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2493</LiturgyDetailsID>
+    <LiturgyID>189</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>2 Timothy 2:8-13</MetaData>
+    <FileName>2493.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2494</LiturgyDetailsID>
+    <LiturgyID>189</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 17:11-19</MetaData>
+    <FileName>2494.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2495</LiturgyDetailsID>
+    <LiturgyID>190</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Exodus 17:8-13</MetaData>
+    <FileName>2495.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2496</LiturgyDetailsID>
+    <LiturgyID>190</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>2 Timothy 3:14-17#2 Timothy 4:1-2</MetaData>
+    <FileName>2496.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2497</LiturgyDetailsID>
+    <LiturgyID>190</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 18:1-8</MetaData>
+    <FileName>2497.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2498</LiturgyDetailsID>
+    <LiturgyID>191</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Sirach 35:12-14#Sirach 35:16-18</MetaData>
+    <FileName>2498.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2499</LiturgyDetailsID>
+    <LiturgyID>191</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>2 Timothy 4:6-8#2 Timothy 4:16-18</MetaData>
+    <FileName>2499.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2500</LiturgyDetailsID>
+    <LiturgyID>191</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 18:9-14</MetaData>
+    <FileName>2500.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2501</LiturgyDetailsID>
+    <LiturgyID>192</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Wisdom 11:22-26#Wisdom 12:1-2</MetaData>
+    <FileName>2501.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2502</LiturgyDetailsID>
+    <LiturgyID>192</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>2 Thessalonians 1:11-12#2 Thessalonians 2:1-2</MetaData>
+    <FileName>2502.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2503</LiturgyDetailsID>
+    <LiturgyID>192</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 19:1-10</MetaData>
+    <FileName>2503.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2504</LiturgyDetailsID>
+    <LiturgyID>193</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>2 Maccabees 7:1-2#2 Maccabees 7:9-14</MetaData>
+    <FileName>2504.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2505</LiturgyDetailsID>
+    <LiturgyID>193</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>2 Thessalonians 2:16-17#2 Thessalonians 3:1-5</MetaData>
+    <FileName>2505.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2506</LiturgyDetailsID>
+    <LiturgyID>193</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 20:27-38</MetaData>
+    <FileName>2506.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2507</LiturgyDetailsID>
+    <LiturgyID>194</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Malachi 4:1-2</MetaData>
+    <FileName>2507.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2508</LiturgyDetailsID>
+    <LiturgyID>194</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>2 Thessalonians 3:7-12</MetaData>
+    <FileName>2508.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2509</LiturgyDetailsID>
+    <LiturgyID>194</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 21:5-19</MetaData>
+    <FileName>2509.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2510</LiturgyDetailsID>
+    <LiturgyID>195</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>2 Samuel 5:1-3</MetaData>
+    <FileName>2510.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2511</LiturgyDetailsID>
+    <LiturgyID>195</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Colossians 1:12-20</MetaData>
+    <FileName>2511.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2512</LiturgyDetailsID>
+    <LiturgyID>195</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 23:35-43</MetaData>
+    <FileName>2512.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2513</LiturgyDetailsID>
+    <LiturgyID>217</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Proverbs 8:22-31</MetaData>
+    <FileName>2513.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2514</LiturgyDetailsID>
+    <LiturgyID>217</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 5:1-5</MetaData>
+    <FileName>2514.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2515</LiturgyDetailsID>
+    <LiturgyID>217</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 16:12-15</MetaData>
+    <FileName>2515.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2516</LiturgyDetailsID>
+    <LiturgyID>215</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Genesis 14:18-20</MetaData>
+    <FileName>2516.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2517</LiturgyDetailsID>
+    <LiturgyID>215</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 11:23-26</MetaData>
+    <FileName>2517.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2518</LiturgyDetailsID>
+    <LiturgyID>215</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 9:11-17</MetaData>
+    <FileName>2518.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2519</LiturgyDetailsID>
+    <LiturgyID>212</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Ezekiel 34:11-16</MetaData>
+    <FileName>2519.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2520</LiturgyDetailsID>
+    <LiturgyID>212</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 5:5-11</MetaData>
+    <FileName>2520.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2521</LiturgyDetailsID>
+    <LiturgyID>212</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 15:3-7</MetaData>
+    <FileName>2521.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2522</LiturgyDetailsID>
+    <LiturgyID>218</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Malachi 3:1-4</MetaData>
+    <FileName>2522.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2523</LiturgyDetailsID>
+    <LiturgyID>218</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Hebrews 2:14-18</MetaData>
+    <FileName>2523.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2524</LiturgyDetailsID>
+    <LiturgyID>218</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 2:22-40</MetaData>
+    <FileName>2524.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2525</LiturgyDetailsID>
+    <LiturgyID>213</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>2 Samuel 7:4-5#2 Samuel 7:12-14#2 Samuel 7:16</MetaData>
+    <FileName>2525.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2526</LiturgyDetailsID>
+    <LiturgyID>213</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 4:13#Romans 4:16-18#Romans 4:22</MetaData>
+    <FileName>2526.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2527</LiturgyDetailsID>
+    <LiturgyID>213</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 1:16#Matthew 1:18-21#Matthew 1:24</MetaData>
+    <FileName>2527.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2528</LiturgyDetailsID>
+    <LiturgyID>216</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Daniel 7:9-10#Daniel 7:13-14</MetaData>
+    <FileName>2528.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2529</LiturgyDetailsID>
+    <LiturgyID>216</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>2 Peter 1:16-19</MetaData>
+    <FileName>2529.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2530</LiturgyDetailsID>
+    <LiturgyID>216</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 9:28-36</MetaData>
+    <FileName>2530.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2531</LiturgyDetailsID>
+    <LiturgyID>207</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>1 Chronicles 15:3-4#1 Chronicles 15:15-16#1 Chronicles 16:1-2</MetaData>
+    <FileName>2531.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2532</LiturgyDetailsID>
+    <LiturgyID>207</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 15:54-57</MetaData>
+    <FileName>2532.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2533</LiturgyDetailsID>
+    <LiturgyID>207</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 11:27-28</MetaData>
+    <FileName>2533.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2534</LiturgyDetailsID>
+    <LiturgyID>208</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Numbers 21:4-9</MetaData>
+    <FileName>2534.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2535</LiturgyDetailsID>
+    <LiturgyID>208</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Philippians 2:6-11</MetaData>
+    <FileName>2535.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2536</LiturgyDetailsID>
+    <LiturgyID>208</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 3:13-17</MetaData>
+    <FileName>2536.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2537</LiturgyDetailsID>
+    <LiturgyID>219</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Revelation 7:2-4#Revelation 7:9-14</MetaData>
+    <FileName>2537.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2538</LiturgyDetailsID>
+    <LiturgyID>219</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 John 3:1-3</MetaData>
+    <FileName>2538.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2539</LiturgyDetailsID>
+    <LiturgyID>219</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 5:1-12</MetaData>
+    <FileName>2539.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2540</LiturgyDetailsID>
+    <LiturgyID>209</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Genesis 3:9-15#Genesis 3:20</MetaData>
+    <FileName>2540.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2541</LiturgyDetailsID>
+    <LiturgyID>209</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Ephesians 1:3-6#Ephesians 1:11-12</MetaData>
+    <FileName>2541.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2542</LiturgyDetailsID>
+    <LiturgyID>209</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 1:26-38</MetaData>
+    <FileName>2542.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2543</LiturgyDetailsID>
+    <LiturgyID>162</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 42:1-4#Isaiah 42:6-7</MetaData>
+    <FileName>2543.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2544</LiturgyDetailsID>
+    <LiturgyID>162</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Acts 10:34-38</MetaData>
+    <FileName>2544.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2545</LiturgyDetailsID>
+    <LiturgyID>162</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 3:15-16#Luke 3:21-22</MetaData>
+    <FileName>2545.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2546</LiturgyDetailsID>
+    <LiturgyID>196</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2546.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2547</LiturgyDetailsID>
+    <LiturgyID>197</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2547.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2548</LiturgyDetailsID>
+    <LiturgyID>198</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2548.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2549</LiturgyDetailsID>
+    <LiturgyID>199</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2549.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2550</LiturgyDetailsID>
+    <LiturgyID>200</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2550.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2551</LiturgyDetailsID>
+    <LiturgyID>201</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2551.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2552</LiturgyDetailsID>
+    <LiturgyID>202</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2552.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2553</LiturgyDetailsID>
+    <LiturgyID>203</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2553.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2554</LiturgyDetailsID>
+    <LiturgyID>204</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2554.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2555</LiturgyDetailsID>
+    <LiturgyID>205</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2555.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2556</LiturgyDetailsID>
+    <LiturgyID>206</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2556.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2557</LiturgyDetailsID>
+    <LiturgyID>147</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2557.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2558</LiturgyDetailsID>
+    <LiturgyID>148</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2558.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2559</LiturgyDetailsID>
+    <LiturgyID>149</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2559.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2560</LiturgyDetailsID>
+    <LiturgyID>150</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2560.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2561</LiturgyDetailsID>
+    <LiturgyID>151</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2561.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2562</LiturgyDetailsID>
+    <LiturgyID>157</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2562.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2563</LiturgyDetailsID>
+    <LiturgyID>158</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2563.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2564</LiturgyDetailsID>
+    <LiturgyID>159</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2564.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2565</LiturgyDetailsID>
+    <LiturgyID>160</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2565.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2566</LiturgyDetailsID>
+    <LiturgyID>161</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2566.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2567</LiturgyDetailsID>
+    <LiturgyID>163</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2567.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2568</LiturgyDetailsID>
+    <LiturgyID>164</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2568.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2569</LiturgyDetailsID>
+    <LiturgyID>165</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2569.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2570</LiturgyDetailsID>
+    <LiturgyID>166</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2570.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2571</LiturgyDetailsID>
+    <LiturgyID>167</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2571.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2572</LiturgyDetailsID>
+    <LiturgyID>168</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2572.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2573</LiturgyDetailsID>
+    <LiturgyID>169</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2573.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2574</LiturgyDetailsID>
+    <LiturgyID>170</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2574.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2575</LiturgyDetailsID>
+    <LiturgyID>171</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2575.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2576</LiturgyDetailsID>
+    <LiturgyID>172</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2576.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2577</LiturgyDetailsID>
+    <LiturgyID>173</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2577.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2578</LiturgyDetailsID>
+    <LiturgyID>174</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2578.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2579</LiturgyDetailsID>
+    <LiturgyID>175</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2579.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2580</LiturgyDetailsID>
+    <LiturgyID>176</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2580.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2581</LiturgyDetailsID>
+    <LiturgyID>177</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2581.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2582</LiturgyDetailsID>
+    <LiturgyID>178</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2582.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2583</LiturgyDetailsID>
+    <LiturgyID>179</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2583.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2584</LiturgyDetailsID>
+    <LiturgyID>180</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2584.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2585</LiturgyDetailsID>
+    <LiturgyID>181</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2585.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2586</LiturgyDetailsID>
+    <LiturgyID>182</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2586.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2587</LiturgyDetailsID>
+    <LiturgyID>183</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2587.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2588</LiturgyDetailsID>
+    <LiturgyID>184</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2588.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2589</LiturgyDetailsID>
+    <LiturgyID>185</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2589.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2590</LiturgyDetailsID>
+    <LiturgyID>186</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2590.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2591</LiturgyDetailsID>
+    <LiturgyID>187</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2591.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2592</LiturgyDetailsID>
+    <LiturgyID>188</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2592.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2593</LiturgyDetailsID>
+    <LiturgyID>189</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2593.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2594</LiturgyDetailsID>
+    <LiturgyID>190</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2594.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2595</LiturgyDetailsID>
+    <LiturgyID>191</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2595.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2596</LiturgyDetailsID>
+    <LiturgyID>192</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2596.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2597</LiturgyDetailsID>
+    <LiturgyID>193</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2597.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2598</LiturgyDetailsID>
+    <LiturgyID>194</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2598.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2599</LiturgyDetailsID>
+    <LiturgyID>195</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2599.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2600</LiturgyDetailsID>
+    <LiturgyID>217</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2600.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2601</LiturgyDetailsID>
+    <LiturgyID>215</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2601.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2602</LiturgyDetailsID>
+    <LiturgyID>212</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2602.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2603</LiturgyDetailsID>
+    <LiturgyID>218</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2603.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2604</LiturgyDetailsID>
+    <LiturgyID>213</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2604.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2605</LiturgyDetailsID>
+    <LiturgyID>216</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2605.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2606</LiturgyDetailsID>
+    <LiturgyID>207</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2606.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2607</LiturgyDetailsID>
+    <LiturgyID>208</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2607.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2608</LiturgyDetailsID>
+    <LiturgyID>219</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2608.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2609</LiturgyDetailsID>
+    <LiturgyID>209</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2609.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2610</LiturgyDetailsID>
+    <LiturgyID>214</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2610.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2611</LiturgyDetailsID>
+    <LiturgyID>211</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2611.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2612</LiturgyDetailsID>
+    <LiturgyID>154</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2612.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2613</LiturgyDetailsID>
+    <LiturgyID>154</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Hebrews 4:14-16#Hebrews 5:7-9</MetaData>
+    <FileName>2613.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2614</LiturgyDetailsID>
+    <LiturgyID>9</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Genesis 1:1-31#Genesis 2:1-2</MetaData>
+    <FileName>2614.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2615</LiturgyDetailsID>
+    <LiturgyID>9</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Genesis 22:1-18</MetaData>
+    <FileName>2615.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2616</LiturgyDetailsID>
+    <LiturgyID>9</LiturgyID>
+    <LiturgyTypeID>5</LiturgyTypeID>
+    <MetaData>Exodus 14:15-31#Exodus 15:1</MetaData>
+    <FileName>2616.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2617</LiturgyDetailsID>
+    <LiturgyID>9</LiturgyID>
+    <LiturgyTypeID>6</LiturgyTypeID>
+    <MetaData>Isaiah 54:5-14</MetaData>
+    <FileName>2617.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2618</LiturgyDetailsID>
+    <LiturgyID>9</LiturgyID>
+    <LiturgyTypeID>7</LiturgyTypeID>
+    <MetaData>Isaiah 55:1-11</MetaData>
+    <FileName>2618.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2619</LiturgyDetailsID>
+    <LiturgyID>9</LiturgyID>
+    <LiturgyTypeID>8</LiturgyTypeID>
+    <MetaData>Baruch 3:9-15#Baruch 32:37#Baruch 4:1-4</MetaData>
+    <FileName>2619.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2620</LiturgyDetailsID>
+    <LiturgyID>9</LiturgyID>
+    <LiturgyTypeID>9</LiturgyTypeID>
+    <MetaData>Ezekiel 36:16-28</MetaData>
+    <FileName>2620.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2621</LiturgyDetailsID>
+    <LiturgyID>9</LiturgyID>
+    <LiturgyTypeID>10</LiturgyTypeID>
+    <MetaData>Romans 6:3-11</MetaData>
+    <FileName>2621.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2622</LiturgyDetailsID>
+    <LiturgyID>9</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2622.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2623</LiturgyDetailsID>
+    <LiturgyID>9</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 28:1-10</MetaData>
+    <FileName>2623.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2624</LiturgyDetailsID>
+    <LiturgyID>10</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Acts 10:34#Acts 10:37-43</MetaData>
+    <FileName>2624.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2625</LiturgyDetailsID>
+    <LiturgyID>10</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Colossians 3:1-4</MetaData>
+    <FileName>2625.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2626</LiturgyDetailsID>
+    <LiturgyID>10</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 20:1-9</MetaData>
+    <FileName>2626.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2627</LiturgyDetailsID>
+    <LiturgyID>10</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2627.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2628</LiturgyDetailsID>
+    <LiturgyID>155</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 24:1-12</MetaData>
+    <FileName>2628.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2629</LiturgyDetailsID>
+    <LiturgyID>156</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Acts 10:34#Acts 10:37-43</MetaData>
+    <FileName>2629.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2630</LiturgyDetailsID>
+    <LiturgyID>156</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Colossians 3:1-4</MetaData>
+    <FileName>2630.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2631</LiturgyDetailsID>
+    <LiturgyID>156</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 20:1-9</MetaData>
+    <FileName>2631.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2632</LiturgyDetailsID>
+    <LiturgyID>156</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2632.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2633</LiturgyDetailsID>
+    <LiturgyID>83</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Acts 10:34#Acts 10:37-43</MetaData>
+    <FileName>2633.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2634</LiturgyDetailsID>
+    <LiturgyID>83</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Colossians 3:1-4</MetaData>
+    <FileName>2634.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2635</LiturgyDetailsID>
+    <LiturgyID>83</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 20:1-9</MetaData>
+    <FileName>2635.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2636</LiturgyDetailsID>
+    <LiturgyID>83</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2636.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2637</LiturgyDetailsID>
+    <LiturgyID>82</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 16:1-7</MetaData>
+    <FileName>2637.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2638</LiturgyDetailsID>
+    <LiturgyID>3</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Romans 5:1-2#Romans 5:5-8</MetaData>
+    <FileName>2638.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2639</LiturgyDetailsID>
+    <LiturgyID>6</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 26:14-27#Matthew 26:66</MetaData>
+    <FileName>2639.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2640</LiturgyDetailsID>
+    <LiturgyID>7</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>isaiah 61:1-3#Isaiah 61:6#Isaiah 61:8-9</MetaData>
+    <FileName>2640.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2641</LiturgyDetailsID>
+    <LiturgyID>7</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Revelation 1:5-8</MetaData>
+    <FileName>2641.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2642</LiturgyDetailsID>
+    <LiturgyID>7</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2642.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2643</LiturgyDetailsID>
+    <LiturgyID>7</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 4:16-21</MetaData>
+    <FileName>2643.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2644</LiturgyDetailsID>
+    <LiturgyID>8</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>isaiah 52:13-15#Isaiah 53:1-12</MetaData>
+    <FileName>2644.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2645</LiturgyDetailsID>
+    <LiturgyID>17</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 62:1-5</MetaData>
+    <FileName>2645.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2646</LiturgyDetailsID>
+    <LiturgyID>17</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2646.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2647</LiturgyDetailsID>
+    <LiturgyID>17</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 1:29-34</MetaData>
+    <FileName>2647.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2648</LiturgyDetailsID>
+    <LiturgyID>26</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Matthew 9:36-38#Matthew 10:1-8</MetaData>
+    <FileName>2648.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2649</LiturgyDetailsID>
+    <LiturgyID>39</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Sirach 27:30#Sirach 28:1-7</MetaData>
+    <FileName>2649.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2650</LiturgyDetailsID>
+    <LiturgyID>79</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 15:1-19</MetaData>
+    <FileName>2650.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2651</LiturgyDetailsID>
+    <LiturgyID>80</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 4:16-21</MetaData>
+    <FileName>2651.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2652</LiturgyDetailsID>
+    <LiturgyID>80</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 61:1-3#Isaiah 61:6#Isaiah 61:8-9</MetaData>
+    <FileName>2652.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2653</LiturgyDetailsID>
+    <LiturgyID>80</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Revelation 1:5-8</MetaData>
+    <FileName>2653.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2654</LiturgyDetailsID>
+    <LiturgyID>80</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2654.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2655</LiturgyDetailsID>
+    <LiturgyID>81</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 52:13-15#Isaiah 53:1-12</MetaData>
+    <FileName>2655.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2656</LiturgyDetailsID>
+    <LiturgyID>154</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 52:13-15#Isaiah 53:1-12</MetaData>
+    <FileName>2656.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2657</LiturgyDetailsID>
+    <LiturgyID>94</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>1 Corinthians 10:31-33#1 Corinthians 11:1</MetaData>
+    <FileName>2657.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2658</LiturgyDetailsID>
+    <LiturgyID>97</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Mark 2:23-28</MetaData>
+    <FileName>2658.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2659</LiturgyDetailsID>
+    <LiturgyID>98</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>2 Corinthians 4:13-18#2 Corinthians 5:1</MetaData>
+    <FileName>2659.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2660</LiturgyDetailsID>
+    <LiturgyID>99</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>2 Corinthians 5:6-10</MetaData>
+    <FileName>2660.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2661</LiturgyDetailsID>
+    <LiturgyID>107</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Ephesians 4:30-32#Ephesians 5:1-2</MetaData>
+    <FileName>2661.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2662</LiturgyDetailsID>
+    <LiturgyID>113</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>James 3:16-18#James 4:1-3</MetaData>
+    <FileName>2662.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2663</LiturgyDetailsID>
+    <LiturgyID>125</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>isaiah 61:1-2#Isaiah 61:10-11</MetaData>
+    <FileName>2663.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2664</LiturgyDetailsID>
+    <LiturgyID>152</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 23:1-49</MetaData>
+    <FileName>2664.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2665</LiturgyDetailsID>
+    <LiturgyID>153</LiturgyID>
+    <LiturgyTypeID>1</LiturgyTypeID>
+    <MetaData>Isaiah 61:1-3#Isaiah 61:6#Isaiah 61:8-9</MetaData>
+    <FileName>2665.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2666</LiturgyDetailsID>
+    <LiturgyID>153</LiturgyID>
+    <LiturgyTypeID>2</LiturgyTypeID>
+    <MetaData>Revelation 1:5-8</MetaData>
+    <FileName>2666.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2667</LiturgyDetailsID>
+    <LiturgyID>153</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>Luke 4:16-21</MetaData>
+    <FileName>2667.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2668</LiturgyDetailsID>
+    <LiturgyID>153</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2668.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2669</LiturgyDetailsID>
+    <LiturgyID>162</LiturgyID>
+    <LiturgyTypeID>4</LiturgyTypeID>
+    <MetaData />
+    <FileName>2669.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2670</LiturgyDetailsID>
+    <LiturgyID>8</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 18:1-40#John 19:1-42</MetaData>
+    <FileName>2670.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2671</LiturgyDetailsID>
+    <LiturgyID>81</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 18:1-40#John 19:1-42</MetaData>
+    <FileName>2671.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2672</LiturgyDetailsID>
+    <LiturgyID>154</LiturgyID>
+    <LiturgyTypeID>3</LiturgyTypeID>
+    <MetaData>John 18:1-40#John 19:1-42</MetaData>
+    <FileName>2672.txt</FileName>
+  </Detail>
+  <Detail>
+    <LiturgyDetailsID>2673</LiturgyDetailsID>
+    <LiturgyID>6</LiturgyID>
+    <LiturgyTypeID>5</LiturgyTypeID>
+    <MetaData>Philippians 2:6-11</MetaData>
+    <FileName>2673.txt</FileName>
+  </Detail>
+</DocumentElement>

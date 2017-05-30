@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PrayerTypes>
+  <PrayerType PrayerTypeID="1">
+    <Description>Daily Prayers</Description>
+  </PrayerType>
+  <PrayerType PrayerTypeID="2">
+    <Description>Formulas of the Catholic Doctrine</Description>
+  </PrayerType>
+  <PrayerType PrayerTypeID="3">
+    <Description>The Divine Mercy</Description>
+  </PrayerType>
+  <PrayerType PrayerTypeID="4">
+    <Description>The Most Holy Rosary</Description>
+  </PrayerType>
+  <PrayerType PrayerTypeID="5">
+    <Description>Way of the Cross</Description>
+  </PrayerType>
+  <PrayerType PrayerTypeID="6">
+    <Description>Other Prayers</Description>
+  </PrayerType>
+  <PrayerType PrayerTypeID="31">
+    <Description>Order of Mass</Description>
+  </PrayerType>
+</PrayerTypes>

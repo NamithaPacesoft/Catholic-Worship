@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Maximum>
+    <Type>PrayerTypes</Type>
+    <Value>3</Value>
+  </Maximum>
+</DocumentElement>
